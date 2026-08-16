@@ -19,11 +19,8 @@ Thumbs.db
 # Generated database
 *.db
 
-# Generated outputs
-output/*.csv
-
-# Processed data
-data/processed/*
+# Keep processed data and validation outputs in Git
+# These are Sprint 1 deliverables.
 
 # Keep directories
 !data/processed/.gitkeep
