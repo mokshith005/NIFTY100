@@ -14,7 +14,7 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 
 PROCESSED_DIR = ROOT_DIR / "data" / "processed"
 DB_DIR = ROOT_DIR / "db"
-DATABASE_PATH = DB_DIR / "database.db"
+DATABASE_PATH = DB_DIR / "nifty100.db"
 SCHEMA_PATH = DB_DIR / "schema.sql"
 
 
