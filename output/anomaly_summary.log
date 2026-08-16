@@ -1,0 +1,37 @@
+======================================================================
+SPRINT 2 - DAY 13 RATIO ANOMALY SUMMARY
+======================================================================
+
+DATABASE UNIQUENESS
+----------------------------------------------------------------------
+Financial ratios rows:       1029
+Distinct company/year:       1029
+Duplicate company/year:      0
+Uniqueness check:            PASS
+
+ANOMALY SUMMARY
+----------------------------------------------------------------------
+Anomaly threshold:           >5.0 percentage points
+ROE anomalies:               520
+ROCE anomalies:              628
+
+FINANCIAL SECTOR CARVE-OUT
+----------------------------------------------------------------------
+Financials companies:         23
+Financial carve-out:         PASS
+
+KNOWN SOURCE ANOMALY
+----------------------------------------------------------------------
+TCS company:                 Tata Consultancy Services Ltd
+TCS source ROE:              0.52
+TCS source ROCE:             64.3
+TCS source values are retained for display only.
+Ratio-engine values are used for analytics.
+
+FOREIGN KEY CHECK
+----------------------------------------------------------------------
+Foreign key errors:          0
+
+======================================================================
+STATUS: PASS
+======================================================================
