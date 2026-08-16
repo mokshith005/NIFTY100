@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated database
+*.db
+
+# Generated outputs
+output/*.csv
+
+# Processed data
+data/processed/*
+
+# Keep directories
+!data/processed/.gitkeep
+!output/.gitkeep
