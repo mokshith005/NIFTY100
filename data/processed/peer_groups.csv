@@ -20,6 +20,7 @@ id,peer_group_name,company_id,is_benchmark
 19,Pharmaceuticals,TORNTPHARM,False
 20,Automobiles,MARUTI,True
 21,Automobiles,TATAMOTORS,False
+22,Automobiles,M&M,False
 23,Automobiles,BAJAJ-AUTO,False
 24,Automobiles,EICHERMOT,False
 25,Automobiles,HEROMOTOCO,False

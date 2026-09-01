@@ -61,6 +61,7 @@ id,company_id,broad_sector,sub_sector,index_weight_pct,market_cap_category
 60,LODHA,Real Estate,Real Estate,1.59,Large Cap
 61,LT,Industrials,Engineering & Construction,3.03,Large Cap
 62,LTIM,Information Technology,IT Services,2.64,Large Cap
+63,M&M,Consumer Discretionary,Automobiles,3.95,Large Cap
 64,MARUTI,Consumer Discretionary,Automobiles,1.36,Mid Cap
 65,MOTHERSON,Consumer Discretionary,Auto Ancillaries,3.39,Large Cap
 66,NAUKRI,Communication Services,Internet & Platforms,4.44,Large Cap

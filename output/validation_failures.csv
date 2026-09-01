@@ -1,724 +1,439 @@
-rule_id,rule,severity,source_file,company_id,year,column,value,message
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2013,,,Duplicate company/year key: ADANIPORTS / 2013
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2014,,,Duplicate company/year key: ADANIPORTS / 2014
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2015,,,Duplicate company/year key: ADANIPORTS / 2015
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2016,,,Duplicate company/year key: ADANIPORTS / 2016
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2017,,,Duplicate company/year key: ADANIPORTS / 2017
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2018,,,Duplicate company/year key: ADANIPORTS / 2018
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2019,,,Duplicate company/year key: ADANIPORTS / 2019
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2020,,,Duplicate company/year key: ADANIPORTS / 2020
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2021,,,Duplicate company/year key: ADANIPORTS / 2021
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2022,,,Duplicate company/year key: ADANIPORTS / 2022
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2023,,,Duplicate company/year key: ADANIPORTS / 2023
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,2024,,,Duplicate company/year key: ADANIPORTS / 2024
-DQ-02,Company/year key uniqueness,WARNING,profitandloss.csv,ADANIPORTS,,,,Duplicate company/year key: ADANIPORTS / nan
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ABB,2024,,,Duplicate company/year key: ABB / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ADANIENSOL,2024,,,Duplicate company/year key: ADANIENSOL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ADANIENT,2024,,,Duplicate company/year key: ADANIENT / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ADANIGREEN,2024,,,Duplicate company/year key: ADANIGREEN / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ADANIPORTS,2024,,,Duplicate company/year key: ADANIPORTS / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ADANIPOWER,2024,,,Duplicate company/year key: ADANIPOWER / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,AMBUJACEM,2024,,,Duplicate company/year key: AMBUJACEM / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,APOLLOHOSP,2024,,,Duplicate company/year key: APOLLOHOSP / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2013,,,Duplicate company/year key: ASIANPAINT / 2013
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2014,,,Duplicate company/year key: ASIANPAINT / 2014
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2015,,,Duplicate company/year key: ASIANPAINT / 2015
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2016,,,Duplicate company/year key: ASIANPAINT / 2016
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2017,,,Duplicate company/year key: ASIANPAINT / 2017
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2018,,,Duplicate company/year key: ASIANPAINT / 2018
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2019,,,Duplicate company/year key: ASIANPAINT / 2019
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2020,,,Duplicate company/year key: ASIANPAINT / 2020
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2021,,,Duplicate company/year key: ASIANPAINT / 2021
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2022,,,Duplicate company/year key: ASIANPAINT / 2022
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2023,,,Duplicate company/year key: ASIANPAINT / 2023
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ASIANPAINT,2024,,,Duplicate company/year key: ASIANPAINT / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ATGL,2024,,,Duplicate company/year key: ATGL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BAJAJ-AUTO,2024,,,Duplicate company/year key: BAJAJ-AUTO / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BAJAJFINSV,2024,,,Duplicate company/year key: BAJAJFINSV / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BAJAJHLDNG,2024,,,Duplicate company/year key: BAJAJHLDNG / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BAJFINANCE,2024,,,Duplicate company/year key: BAJFINANCE / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BEL,2024,,,Duplicate company/year key: BEL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BHARTIARTL,2024,,,Duplicate company/year key: BHARTIARTL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BHEL,2024,,,Duplicate company/year key: BHEL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BOSCHLTD,2024,,,Duplicate company/year key: BOSCHLTD / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BPCL,2024,,,Duplicate company/year key: BPCL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,BRITANNIA,2024,,,Duplicate company/year key: BRITANNIA / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,CHOLAFIN,2024,,,Duplicate company/year key: CHOLAFIN / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,CIPLA,2024,,,Duplicate company/year key: CIPLA / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,COALINDIA,2024,,,Duplicate company/year key: COALINDIA / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,DABUR,2024,,,Duplicate company/year key: DABUR / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,DIVISLAB,2024,,,Duplicate company/year key: DIVISLAB / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,DLF,2024,,,Duplicate company/year key: DLF / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,DMART,2024,,,Duplicate company/year key: DMART / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,DRREDDY,2024,,,Duplicate company/year key: DRREDDY / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,EICHERMOT,2024,,,Duplicate company/year key: EICHERMOT / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,GAIL,2024,,,Duplicate company/year key: GAIL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,GODREJCP,2024,,,Duplicate company/year key: GODREJCP / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,GRASIM,2024,,,Duplicate company/year key: GRASIM / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,HAL,2024,,,Duplicate company/year key: HAL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,HCLTECH,2024,,,Duplicate company/year key: HCLTECH / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,HAVELLS,2024,,,Duplicate company/year key: HAVELLS / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,HDFCLIFE,2024,,,Duplicate company/year key: HDFCLIFE / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,HEROMOTOCO,2024,,,Duplicate company/year key: HEROMOTOCO / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,HINDALCO,2024,,,Duplicate company/year key: HINDALCO / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,HINDUNILVR,2024,,,Duplicate company/year key: HINDUNILVR / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ICICIGI,2024,,,Duplicate company/year key: ICICIGI / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ICICIPRULI,2024,,,Duplicate company/year key: ICICIPRULI / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,INDIGO,2024,,,Duplicate company/year key: INDIGO / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,INFY,2024,,,Duplicate company/year key: INFY / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,IOC,2024,,,Duplicate company/year key: IOC / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,IRCTC,2024,,,Duplicate company/year key: IRCTC / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,IRFC,2024,,,Duplicate company/year key: IRFC / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ITC,2024,,,Duplicate company/year key: ITC / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,ONGC,2024,,,Duplicate company/year key: ONGC / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,NTPC,2024,,,Duplicate company/year key: NTPC / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,NHPC,2024,,,Duplicate company/year key: NHPC / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,NESTLEIND,2024,,,Duplicate company/year key: NESTLEIND / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,NAUKRI,2024,,,Duplicate company/year key: NAUKRI / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,MOTHERSON,2024,,,Duplicate company/year key: MOTHERSON / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,MARUTI,2024,,,Duplicate company/year key: MARUTI / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,LTIM,2024,,,Duplicate company/year key: LTIM / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,LT,2024,,,Duplicate company/year key: LT / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,LODHA,2024,,,Duplicate company/year key: LODHA / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,LICI,2024,,,Duplicate company/year key: LICI / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,JSWSTEEL,2024,,,Duplicate company/year key: JSWSTEEL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,JSWENERGY,2024,,,Duplicate company/year key: JSWENERGY / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,JIOFIN,2024,,,Duplicate company/year key: JIOFIN / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,JINDALSTEL,2024,,,Duplicate company/year key: JINDALSTEL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PFC,2024,,,Duplicate company/year key: PFC / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PIDILITIND,2024,,,Duplicate company/year key: PIDILITIND / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2013,,,Duplicate company/year key: PNB / 2013
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2014,,,Duplicate company/year key: PNB / 2014
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2015,,,Duplicate company/year key: PNB / 2015
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2016,,,Duplicate company/year key: PNB / 2016
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2017,,,Duplicate company/year key: PNB / 2017
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2018,,,Duplicate company/year key: PNB / 2018
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2019,,,Duplicate company/year key: PNB / 2019
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2020,,,Duplicate company/year key: PNB / 2020
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2021,,,Duplicate company/year key: PNB / 2021
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2022,,,Duplicate company/year key: PNB / 2022
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2023,,,Duplicate company/year key: PNB / 2023
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,PNB,2024,,,Duplicate company/year key: PNB / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2013,,,Duplicate company/year key: POWERGRID / 2013
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2014,,,Duplicate company/year key: POWERGRID / 2014
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2015,,,Duplicate company/year key: POWERGRID / 2015
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2016,,,Duplicate company/year key: POWERGRID / 2016
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2017,,,Duplicate company/year key: POWERGRID / 2017
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2018,,,Duplicate company/year key: POWERGRID / 2018
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2019,,,Duplicate company/year key: POWERGRID / 2019
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2020,,,Duplicate company/year key: POWERGRID / 2020
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2021,,,Duplicate company/year key: POWERGRID / 2021
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2022,,,Duplicate company/year key: POWERGRID / 2022
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2023,,,Duplicate company/year key: POWERGRID / 2023
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,POWERGRID,2024,,,Duplicate company/year key: POWERGRID / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,RECLTD,2024,,,Duplicate company/year key: RECLTD / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,RELIANCE,2024,,,Duplicate company/year key: RELIANCE / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,SBILIFE,2024,,,Duplicate company/year key: SBILIFE / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,SHREECEM,2024,,,Duplicate company/year key: SHREECEM / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,SHRIRAMFIN,2024,,,Duplicate company/year key: SHRIRAMFIN / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,SUNPHARMA,2024,,,Duplicate company/year key: SUNPHARMA / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TVSMOTOR,2024,,,Duplicate company/year key: TVSMOTOR / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TRENT,2024,,,Duplicate company/year key: TRENT / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TORNTPHARM,2024,,,Duplicate company/year key: TORNTPHARM / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TITAN,2024,,,Duplicate company/year key: TITAN / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2013,,,Duplicate company/year key: TECHM / 2013
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2014,,,Duplicate company/year key: TECHM / 2014
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2015,,,Duplicate company/year key: TECHM / 2015
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2016,,,Duplicate company/year key: TECHM / 2016
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2017,,,Duplicate company/year key: TECHM / 2017
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2018,,,Duplicate company/year key: TECHM / 2018
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2019,,,Duplicate company/year key: TECHM / 2019
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2020,,,Duplicate company/year key: TECHM / 2020
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2021,,,Duplicate company/year key: TECHM / 2021
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2022,,,Duplicate company/year key: TECHM / 2022
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2023,,,Duplicate company/year key: TECHM / 2023
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TECHM,2024,,,Duplicate company/year key: TECHM / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TATACONSUM,2024,,,Duplicate company/year key: TATACONSUM / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TCS,2024,,,Duplicate company/year key: TCS / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TATASTEEL,2024,,,Duplicate company/year key: TATASTEEL / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TATAPOWER,2024,,,Duplicate company/year key: TATAPOWER / 2024
-DQ-02,Company/year key uniqueness,WARNING,balancesheet.csv,TATAMOTORS,2024,,,Duplicate company/year key: TATAMOTORS / 2024
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,TCS,,,,Duplicate company/year key: TCS / nan
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2014,,,Duplicate company/year key: ABB / 2014
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2015,,,Duplicate company/year key: ABB / 2015
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2016,,,Duplicate company/year key: ABB / 2016
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2017,,,Duplicate company/year key: ABB / 2017
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2018,,,Duplicate company/year key: ABB / 2018
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2019,,,Duplicate company/year key: ABB / 2019
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2020,,,Duplicate company/year key: ABB / 2020
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2021,,,Duplicate company/year key: ABB / 2021
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2022,,,Duplicate company/year key: ABB / 2022
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2023,,,Duplicate company/year key: ABB / 2023
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,ABB,2024,,,Duplicate company/year key: ABB / 2024
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2013,,,Duplicate company/year key: BAJAJ-AUTO / 2013
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2014,,,Duplicate company/year key: BAJAJ-AUTO / 2014
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2015,,,Duplicate company/year key: BAJAJ-AUTO / 2015
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2016,,,Duplicate company/year key: BAJAJ-AUTO / 2016
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2017,,,Duplicate company/year key: BAJAJ-AUTO / 2017
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2018,,,Duplicate company/year key: BAJAJ-AUTO / 2018
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2019,,,Duplicate company/year key: BAJAJ-AUTO / 2019
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2020,,,Duplicate company/year key: BAJAJ-AUTO / 2020
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2021,,,Duplicate company/year key: BAJAJ-AUTO / 2021
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2022,,,Duplicate company/year key: BAJAJ-AUTO / 2022
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2023,,,Duplicate company/year key: BAJAJ-AUTO / 2023
-DQ-02,Company/year key uniqueness,WARNING,cashflow.csv,BAJAJ-AUTO,2024,,,Duplicate company/year key: BAJAJ-AUTO / 2024
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2014,,,Duplicate company/year key: ABB / 2014
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2015,,,Duplicate company/year key: ABB / 2015
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2016,,,Duplicate company/year key: ABB / 2016
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2017,,,Duplicate company/year key: ABB / 2017
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2018,,,Duplicate company/year key: ABB / 2018
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2019,,,Duplicate company/year key: ABB / 2019
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2020,,,Duplicate company/year key: ABB / 2020
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2021,,,Duplicate company/year key: ABB / 2021
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2022,,,Duplicate company/year key: ABB / 2022
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2023,,,Duplicate company/year key: ABB / 2023
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ABB,2024,,,Duplicate company/year key: ABB / 2024
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2013,,,Duplicate company/year key: ADANIPORTS / 2013
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2014,,,Duplicate company/year key: ADANIPORTS / 2014
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2015,,,Duplicate company/year key: ADANIPORTS / 2015
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2016,,,Duplicate company/year key: ADANIPORTS / 2016
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2017,,,Duplicate company/year key: ADANIPORTS / 2017
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2018,,,Duplicate company/year key: ADANIPORTS / 2018
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2019,,,Duplicate company/year key: ADANIPORTS / 2019
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2020,,,Duplicate company/year key: ADANIPORTS / 2020
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2021,,,Duplicate company/year key: ADANIPORTS / 2021
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2022,,,Duplicate company/year key: ADANIPORTS / 2022
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2023,,,Duplicate company/year key: ADANIPORTS / 2023
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ADANIPORTS,2024,,,Duplicate company/year key: ADANIPORTS / 2024
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2013,,,Duplicate company/year key: ASIANPAINT / 2013
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2014,,,Duplicate company/year key: ASIANPAINT / 2014
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2015,,,Duplicate company/year key: ASIANPAINT / 2015
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2016,,,Duplicate company/year key: ASIANPAINT / 2016
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2017,,,Duplicate company/year key: ASIANPAINT / 2017
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2018,,,Duplicate company/year key: ASIANPAINT / 2018
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2019,,,Duplicate company/year key: ASIANPAINT / 2019
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2020,,,Duplicate company/year key: ASIANPAINT / 2020
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2021,,,Duplicate company/year key: ASIANPAINT / 2021
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2022,,,Duplicate company/year key: ASIANPAINT / 2022
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2023,,,Duplicate company/year key: ASIANPAINT / 2023
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,ASIANPAINT,2024,,,Duplicate company/year key: ASIANPAINT / 2024
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2013,,,Duplicate company/year key: BAJAJ-AUTO / 2013
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2014,,,Duplicate company/year key: BAJAJ-AUTO / 2014
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2015,,,Duplicate company/year key: BAJAJ-AUTO / 2015
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2016,,,Duplicate company/year key: BAJAJ-AUTO / 2016
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2017,,,Duplicate company/year key: BAJAJ-AUTO / 2017
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2018,,,Duplicate company/year key: BAJAJ-AUTO / 2018
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2019,,,Duplicate company/year key: BAJAJ-AUTO / 2019
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2020,,,Duplicate company/year key: BAJAJ-AUTO / 2020
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2021,,,Duplicate company/year key: BAJAJ-AUTO / 2021
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2022,,,Duplicate company/year key: BAJAJ-AUTO / 2022
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2023,,,Duplicate company/year key: BAJAJ-AUTO / 2023
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,BAJAJ-AUTO,2024,,,Duplicate company/year key: BAJAJ-AUTO / 2024
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2013,,,Duplicate company/year key: PNB / 2013
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2014,,,Duplicate company/year key: PNB / 2014
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2015,,,Duplicate company/year key: PNB / 2015
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2016,,,Duplicate company/year key: PNB / 2016
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2017,,,Duplicate company/year key: PNB / 2017
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2018,,,Duplicate company/year key: PNB / 2018
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2019,,,Duplicate company/year key: PNB / 2019
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2020,,,Duplicate company/year key: PNB / 2020
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2021,,,Duplicate company/year key: PNB / 2021
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2022,,,Duplicate company/year key: PNB / 2022
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2023,,,Duplicate company/year key: PNB / 2023
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,PNB,2024,,,Duplicate company/year key: PNB / 2024
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2013,,,Duplicate company/year key: POWERGRID / 2013
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2014,,,Duplicate company/year key: POWERGRID / 2014
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2015,,,Duplicate company/year key: POWERGRID / 2015
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2016,,,Duplicate company/year key: POWERGRID / 2016
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2017,,,Duplicate company/year key: POWERGRID / 2017
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2018,,,Duplicate company/year key: POWERGRID / 2018
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2019,,,Duplicate company/year key: POWERGRID / 2019
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2020,,,Duplicate company/year key: POWERGRID / 2020
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2021,,,Duplicate company/year key: POWERGRID / 2021
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2022,,,Duplicate company/year key: POWERGRID / 2022
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2023,,,Duplicate company/year key: POWERGRID / 2023
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,POWERGRID,2024,,,Duplicate company/year key: POWERGRID / 2024
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2013,,,Duplicate company/year key: TECHM / 2013
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2014,,,Duplicate company/year key: TECHM / 2014
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2015,,,Duplicate company/year key: TECHM / 2015
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2016,,,Duplicate company/year key: TECHM / 2016
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2017,,,Duplicate company/year key: TECHM / 2017
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2018,,,Duplicate company/year key: TECHM / 2018
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2019,,,Duplicate company/year key: TECHM / 2019
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2020,,,Duplicate company/year key: TECHM / 2020
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2021,,,Duplicate company/year key: TECHM / 2021
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2022,,,Duplicate company/year key: TECHM / 2022
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2023,,,Duplicate company/year key: TECHM / 2023
-DQ-02,Company/year key uniqueness,WARNING,financial_ratios.csv,TECHM,2024,,,Duplicate company/year key: TECHM / 2024
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ADANIENSOL,2024.0,,30.0,OPM cross-check difference: 4.39
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2013.0,,1353.0,OPM cross-check difference: 1322.42
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2014.0,,2307.0,OPM cross-check difference: 2275.53
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2015.0,,3097.0,OPM cross-check difference: 3065.64
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2016.0,,3466.0,OPM cross-check difference: 3433.39
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2017.0,,-5715.0,OPM cross-check difference: 5768.45
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2018.0,,-10277.0,OPM cross-check difference: 10340.12
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2019.0,,-5447.0,OPM cross-check difference: 5496.39
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2020.0,,-9859.0,OPM cross-check difference: 9914.98
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2021.0,,-2510.0,OPM cross-check difference: 2560.12
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2022.0,,3170.0,OPM cross-check difference: 3125.53
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2023.0,,13857.0,OPM cross-check difference: 13822.84
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,2024.0,,11952.0,OPM cross-check difference: 11917.31
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,AXISBANK,,,9061.0,OPM cross-check difference: 9024.06
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2015.0,,1367.0,OPM cross-check difference: 1334.51
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2016.0,,1986.0,OPM cross-check difference: 1953.75
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2017.0,,2867.0,OPM cross-check difference: 2834.40
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2018.0,,3935.0,OPM cross-check difference: 3902.72
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2019.0,,6310.0,OPM cross-check difference: 6280.50
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2020.0,,7608.0,OPM cross-check difference: 7573.27
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2021.0,,6314.0,OPM cross-check difference: 6273.36
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2022.0,,9906.0,OPM cross-check difference: 9868.45
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2023.0,,16018.0,OPM cross-check difference: 15987.35
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,2024.0,,19987.0,OPM cross-check difference: 19957.71
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BAJFINANCE,,,21417.0,OPM cross-check difference: 21386.58
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2013.0,,1006.0,OPM cross-check difference: 975.95
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2014.0,,809.0,OPM cross-check difference: 779.22
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2015.0,,902.0,OPM cross-check difference: 872.02
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2016.0,,-11700.0,OPM cross-check difference: 11755.44
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2017.0,,-4372.0,OPM cross-check difference: 4415.28
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2018.0,,-9197.0,OPM cross-check difference: 9253.65
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2019.0,,-5414.0,OPM cross-check difference: 5462.79
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2020.0,,-11728.0,OPM cross-check difference: 11779.44
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2021.0,,-6957.0,OPM cross-check difference: 7008.23
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2022.0,,-2948.0,OPM cross-check difference: 2999.12
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2023.0,,6329.0,OPM cross-check difference: 6288.55
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,2024.0,,4102.0,OPM cross-check difference: 4064.51
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,BANKBARODA,,,3526.0,OPM cross-check difference: 3488.58
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2013.0,,655.0,OPM cross-check difference: 633.82
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2014.0,,-672.0,OPM cross-check difference: 696.35
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2015.0,,-621.0,OPM cross-check difference: 644.51
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2016.0,,-8008.0,OPM cross-check difference: 8048.38
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2017.0,,-5775.0,OPM cross-check difference: 5812.85
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2018.0,,-13350.0,OPM cross-check difference: 13411.87
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2019.0,,-11590.0,OPM cross-check difference: 11646.73
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2020.0,,-12867.0,OPM cross-check difference: 12920.88
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2021.0,,-18367.0,OPM cross-check difference: 18428.83
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2022.0,,-13657.0,OPM cross-check difference: 13715.39
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2023.0,,-9877.0,OPM cross-check difference: 9926.80
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,2024.0,,-7745.0,OPM cross-check difference: 7786.75
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CANBK,,,-8985.0,OPM cross-check difference: 9025.23
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2013.0,,472.0,OPM cross-check difference: 445.23
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2014.0,,578.0,OPM cross-check difference: 549.58
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2015.0,,696.0,OPM cross-check difference: 667.44
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2016.0,,899.0,OPM cross-check difference: 868.96
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2017.0,,1143.0,OPM cross-check difference: 1114.84
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2018.0,,1451.0,OPM cross-check difference: 1424.90
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2019.0,,1888.0,OPM cross-check difference: 1865.04
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2020.0,,1699.0,OPM cross-check difference: 1671.21
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2021.0,,2094.0,OPM cross-check difference: 2063.60
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2022.0,,2924.0,OPM cross-check difference: 2895.17
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2023.0,,3515.0,OPM cross-check difference: 3486.90
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,2024.0,,4548.0,OPM cross-check difference: 4519.90
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CHOLAFIN,,,5175.0,OPM cross-check difference: 5146.33
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2013.0,,2214.0,OPM cross-check difference: 2140.74
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2014.0,,2147.0,OPM cross-check difference: 2068.10
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2015.0,,2163.0,OPM cross-check difference: 2082.06
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2016.0,,2480.0,OPM cross-check difference: 2397.98
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2017.0,,2496.0,OPM cross-check difference: 2413.34
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2018.0,,2826.0,OPM cross-check difference: 2744.65
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2019.0,,3097.0,OPM cross-check difference: 3015.93
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2020.0,,3206.0,OPM cross-check difference: 3124.71
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2021.0,,4252.0,OPM cross-check difference: 4174.20
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2022.0,,4553.0,OPM cross-check difference: 4473.92
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2023.0,,5027.0,OPM cross-check difference: 4949.09
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,2024.0,,6291.0,OPM cross-check difference: 6215.41
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,CIPLA,,,6906.0,OPM cross-check difference: 6831.60
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2013.0,,18087.0,OPM cross-check difference: 18013.48
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2014.0,,17766.0,OPM cross-check difference: 17691.16
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2015.0,,17343.0,OPM cross-check difference: 17266.40
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2016.0,,18714.0,OPM cross-check difference: 18638.04
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2017.0,,12448.0,OPM cross-check difference: 12363.93
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2018.0,,9288.0,OPM cross-check difference: 9198.90
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2019.0,,25007.0,OPM cross-check difference: 24932.11
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2020.0,,21581.0,OPM cross-check difference: 21503.46
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2021.0,,18628.0,OPM cross-check difference: 18548.69
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2022.0,,24721.0,OPM cross-check difference: 24643.53
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2023.0,,44232.0,OPM cross-check difference: 44163.99
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,2024.0,,47971.0,OPM cross-check difference: 47904.71
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,COALINDIA,,,46610.0,OPM cross-check difference: 46543.22
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2013.0,,3534.0,OPM cross-check difference: 3498.78
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2014.0,,5602.0,OPM cross-check difference: 5570.26
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2015.0,,7214.0,OPM cross-check difference: 7182.10
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2016.0,,9037.0,OPM cross-check difference: 9005.25
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2017.0,,11374.0,OPM cross-check difference: 11341.44
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2018.0,,13374.0,OPM cross-check difference: 13339.37
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2019.0,,16592.0,OPM cross-check difference: 16558.85
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2020.0,,14593.0,OPM cross-check difference: 14555.80
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2021.0,,16848.0,OPM cross-check difference: 16807.19
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2022.0,,20795.0,OPM cross-check difference: 20753.39
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2023.0,,29932.0,OPM cross-check difference: 29895.08
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,2024.0,,-44685.0,OPM cross-check difference: 44746.41
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCBANK,,,-57587.0,OPM cross-check difference: 57649.61
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2013.0,,525.0,OPM cross-check difference: 428.73
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2014.0,,605.0,OPM cross-check difference: 508.52
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2015.0,,874.0,OPM cross-check difference: 777.21
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2016.0,,953.0,OPM cross-check difference: 858.26
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2017.0,,972.0,OPM cross-check difference: 875.17
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2018.0,,1074.0,OPM cross-check difference: 977.33
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2019.0,,1215.0,OPM cross-check difference: 1118.13
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2020.0,,1141.0,OPM cross-check difference: 1044.88
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2021.0,,1235.0,OPM cross-check difference: 1136.73
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2022.0,,778.0,OPM cross-check difference: 679.16
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2023.0,,80.0,OPM cross-check difference: 19.89
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,2024.0,,531.0,OPM cross-check difference: 431.52
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HDFCLIFE,,,725.0,OPM cross-check difference: 625.72
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2014.0,,3553.0,OPM cross-check difference: 3467.06
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2015.0,,3520.0,OPM cross-check difference: 3432.78
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2016.0,,4424.0,OPM cross-check difference: 4339.55
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2017.0,,4585.0,OPM cross-check difference: 4501.03
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2018.0,,5334.0,OPM cross-check difference: 5250.43
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2019.0,,5025.0,OPM cross-check difference: 4939.79
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2020.0,,4070.0,OPM cross-check difference: 3983.91
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2021.0,,4058.0,OPM cross-check difference: 3971.10
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2022.0,,3256.0,OPM cross-check difference: 3167.02
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2023.0,,4099.0,OPM cross-check difference: 4011.00
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,2024.0,,5235.0,OPM cross-check difference: 5148.85
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HEROMOTOCO,,,5561.0,OPM cross-check difference: 5474.87
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2013.0,,7699.0,OPM cross-check difference: 7608.60
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2014.0,,8024.0,OPM cross-check difference: 7933.15
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2015.0,,8844.0,OPM cross-check difference: 8752.48
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2016.0,,7778.0,OPM cross-check difference: 7685.88
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2017.0,,12317.0,OPM cross-check difference: 12229.29
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2018.0,,13695.0,OPM cross-check difference: 13606.89
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2019.0,,15511.0,OPM cross-check difference: 15422.88
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2020.0,,14306.0,OPM cross-check difference: 14218.11
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2021.0,,17559.0,OPM cross-check difference: 17472.30
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2022.0,,28347.0,OPM cross-check difference: 28261.53
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2023.0,,22666.0,OPM cross-check difference: 22576.15
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,2024.0,,23872.0,OPM cross-check difference: 23783.05
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDALCO,,,27931.0,OPM cross-check difference: 27843.47
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2013.0,,4220.0,OPM cross-check difference: 4135.63
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2014.0,,4759.0,OPM cross-check difference: 4675.28
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2015.0,,5412.0,OPM cross-check difference: 5328.93
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2016.0,,5910.0,OPM cross-check difference: 5828.36
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2017.0,,6328.0,OPM cross-check difference: 6247.08
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2018.0,,7499.0,OPM cross-check difference: 7420.10
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2019.0,,8880.0,OPM cross-check difference: 8802.59
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2020.0,,9861.0,OPM cross-check difference: 9785.79
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2021.0,,11626.0,OPM cross-check difference: 11550.72
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2022.0,,12857.0,OPM cross-check difference: 12781.51
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2023.0,,14147.0,OPM cross-check difference: 14070.35
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,2024.0,,14659.0,OPM cross-check difference: 14582.68
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,HINDUNILVR,,,14759.0,OPM cross-check difference: 14682.55
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2013.0,,-15085.0,OPM cross-check difference: 15155.59
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2014.0,,-13084.0,OPM cross-check difference: 13150.40
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2015.0,,-16120.0,OPM cross-check difference: 16190.53
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2016.0,,-26955.0,OPM cross-check difference: 27043.12
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2017.0,,-37737.0,OPM cross-check difference: 37841.76
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2018.0,,-44906.0,OPM cross-check difference: 45023.12
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2019.0,,-50971.0,OPM cross-check difference: 51087.38
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2020.0,,-45190.0,OPM cross-check difference: 45290.62
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2021.0,,-44805.0,OPM cross-check difference: 44907.41
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2022.0,,-26558.0,OPM cross-check difference: 26642.69
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2023.0,,-17341.0,OPM cross-check difference: 17413.57
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,2024.0,,-14152.0,OPM cross-check difference: 14214.41
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIBANK,,,-31575.0,OPM cross-check difference: 31644.63
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2013.0,,-178.0,OPM cross-check difference: 282.46
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2014.0,,-225.0,OPM cross-check difference: 330.19
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2015.0,,-221.0,OPM cross-check difference: 326.24
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2016.0,,764.0,OPM cross-check difference: 676.66
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2017.0,,919.0,OPM cross-check difference: 831.22
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2018.0,,-262.0,OPM cross-check difference: 365.79
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2019.0,,1669.0,OPM cross-check difference: 1583.95
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2020.0,,1772.0,OPM cross-check difference: 1687.39
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2021.0,,2072.0,OPM cross-check difference: 1989.03
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2022.0,,1016.0,OPM cross-check difference: 922.34
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2023.0,,1264.0,OPM cross-check difference: 1171.07
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,2024.0,,2577.0,OPM cross-check difference: 2489.58
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIGI,,,3363.0,OPM cross-check difference: 3277.43
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2013.0,,745.0,OPM cross-check difference: 648.72
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2014.0,,1504.0,OPM cross-check difference: 1410.87
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2015.0,,1655.0,OPM cross-check difference: 1559.80
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2016.0,,1842.0,OPM cross-check difference: 1750.83
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2017.0,,1806.0,OPM cross-check difference: 1710.78
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2018.0,,1771.0,OPM cross-check difference: 1675.56
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2019.0,,541.0,OPM cross-check difference: 442.30
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2020.0,,-319.0,OPM cross-check difference: 420.52
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2021.0,,-390.0,OPM cross-check difference: 490.47
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2022.0,,-2163.0,OPM cross-check difference: 2266.40
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2023.0,,-1757.0,OPM cross-check difference: 1860.48
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,2024.0,,-1829.0,OPM cross-check difference: 1931.03
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,ICICIPRULI,,,321.0,OPM cross-check difference: 221.41
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2013.0,,286.0,OPM cross-check difference: 258.12
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2014.0,,335.0,OPM cross-check difference: 304.05
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2015.0,,288.0,OPM cross-check difference: 255.67
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2016.0,,329.0,OPM cross-check difference: 293.72
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2017.0,,379.0,OPM cross-check difference: 339.54
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2018.0,,942.0,OPM cross-check difference: 904.07
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2019.0,,-437.0,OPM cross-check difference: 478.70
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2020.0,,-553.0,OPM cross-check difference: 596.81
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2021.0,,-2469.0,OPM cross-check difference: 2524.16
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2022.0,,-839.0,OPM cross-check difference: 890.39
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2023.0,,2067.0,OPM cross-check difference: 2024.31
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,2024.0,,2978.0,OPM cross-check difference: 2939.45
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDUSINDBK,,,1323.0,OPM cross-check difference: 1281.97
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,JIOFIN,2023.0,,88.0,OPM cross-check difference: 1.33
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2013.0,,-1789.0,OPM cross-check difference: 1849.92
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2014.0,,-1379.0,OPM cross-check difference: 1437.84
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2015.0,,-3366.0,OPM cross-check difference: 3438.96
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2016.0,,-2263.0,OPM cross-check difference: 2319.57
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2017.0,,-3965.0,OPM cross-check difference: 4031.44
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2018.0,,-4141.0,OPM cross-check difference: 4207.87
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2019.0,,-5114.0,OPM cross-check difference: 5180.23
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2020.0,,-5005.0,OPM cross-check difference: 5072.45
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2021.0,,-9958.0,OPM cross-check difference: 10048.83
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2022.0,,-8512.0,OPM cross-check difference: 8602.98
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2023.0,,-5746.0,OPM cross-check difference: 5825.44
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,2024.0,,-13382.0,OPM cross-check difference: 13465.67
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,KOTAKBANK,,,-14146.0,OPM cross-check difference: 14225.42
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,SUNPHARMA,2024.0,,28.0,OPM cross-check difference: 1.16
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2013.0,,855.0,OPM cross-check difference: 764.29
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2014.0,,433.0,OPM cross-check difference: 336.89
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2015.0,,1904.0,OPM cross-check difference: 1817.67
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2016.0,,3164.0,OPM cross-check difference: 3083.60
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2017.0,,2219.0,OPM cross-check difference: 2130.94
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2018.0,,3030.0,OPM cross-check difference: 2943.16
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2019.0,,-151.0,OPM cross-check difference: 251.53
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2020.0,,4069.0,OPM cross-check difference: 3980.38
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2021.0,,2.0,OPM cross-check difference: 97.98
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2022.0,,558.0,OPM cross-check difference: 460.15
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2023.0,,6521.0,OPM cross-check difference: 6432.98
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,2024.0,,16331.0,OPM cross-check difference: 16254.70
-DQ-05,OPM cross-check,WARNING,profitandloss.csv,INDIGO,,,15908.0,OPM cross-check difference: 15828.80
-DQ-06,Positive sales,WARNING,profitandloss.csv,ADANIENSOL,2014.0,,0,Sales must be positive: 0
-DQ-07,Net cash consistency,WARNING,cashflow.csv,TVSMOTOR,2022.0,,532.0,Net cash flow calculation mismatch
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,ADANIENT,2014.0,,-64.0,Invalid tax rate: -64.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,ADANIGREEN,2017.0,,-75.0,Invalid tax rate: -75.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,ADANIGREEN,2018.0,,-35.0,Invalid tax rate: -35.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,ADANIGREEN,2019.0,,-19.0,Invalid tax rate: -19.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,ADANIPOWER,2014.0,,-79.0,Invalid tax rate: -79.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,ADANIPOWER,2016.0,,-47.0,Invalid tax rate: -47.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,ADANIPOWER,2017.0,,-1.0,Invalid tax rate: -1.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,ADANIPOWER,2023.0,,-40.0,Invalid tax rate: -40.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,AMBUJACEM,2018.0,,-2.0,Invalid tax rate: -2.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,AXISBANK,2018.0,,-99.0,Invalid tax rate: -99.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,BANKBARODA,2016.0,,-19.0,Invalid tax rate: -19.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,BANKBARODA,2018.0,,-9.0,Invalid tax rate: -9.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,BANKBARODA,2020.0,,-99.0,Invalid tax rate: -99.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,BHARTIARTL,2019.0,,-99.0,Invalid tax rate: -99.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,BHARTIARTL,2020.0,,-28.0,Invalid tax rate: -28.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,BHEL,2016.0,,-39.0,Invalid tax rate: -39.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,BHEL,2021.0,,-25.0,Invalid tax rate: -25.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,BHEL,2024.0,,-16.0,Invalid tax rate: -16.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,CANBK,2016.0,,-13.0,Invalid tax rate: -13.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,CANBK,2018.0,,-36.0,Invalid tax rate: -36.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,CANBK,2019.0,,-99.0,Invalid tax rate: -99.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,DLF,2014.0,,-16.0,Invalid tax rate: -16.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,DRREDDY,2020.0,,-7.0,Invalid tax rate: -7.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,GODREJCP,2019.0,,-12.0,Invalid tax rate: -12.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,GRASIM,2020.0,,-1.0,Invalid tax rate: -1.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,HDFCLIFE,2024.0,,-61.0,Invalid tax rate: -61.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,IOC,2020.0,,-74.0,Invalid tax rate: -74.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,JINDALSTEL,2015.0,,-6.0,Invalid tax rate: -6.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,JINDALSTEL,2016.0,,-22.0,Invalid tax rate: -22.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,JINDALSTEL,2017.0,,-17.0,Invalid tax rate: -17.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,JINDALSTEL,2018.0,,-13.0,Invalid tax rate: -13.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,JINDALSTEL,2019.0,,-14.0,Invalid tax rate: -14.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,JSWSTEEL,2016.0,,-80.0,Invalid tax rate: -80.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,JSWSTEEL,2020.0,,-30.0,Invalid tax rate: -30.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,LODHA,2021.0,,-44.0,Invalid tax rate: -44.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,LODHA,2023.0,,-8.0,Invalid tax rate: -8.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,MOTHERSON,2020.0,,-5.0,Invalid tax rate: -5.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,NHPC,2020.0,,-2.0,Invalid tax rate: -2.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,NHPC,2022.0,,-17.0,Invalid tax rate: -17.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,NTPC,2016.0,,-2.0,Invalid tax rate: -2.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,NTPC,2019.0,,-25.0,Invalid tax rate: -25.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,PNB,2016.0,,-31.0,Invalid tax rate: -31.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,PNB,2018.0,,-37.0,Invalid tax rate: -37.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,PNB,2019.0,,-35.0,Invalid tax rate: -35.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,POWERGRID,2019.0,,-10.0,Invalid tax rate: -10.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,SBIN,2018.0,,-66.0,Invalid tax rate: -66.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,SHREECEM,2015.0,,-6.0,Invalid tax rate: -6.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,TATAMOTORS,2019.0,,-8.0,Invalid tax rate: -8.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,TATAMOTORS,2024.0,,-14.0,Invalid tax rate: -14.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,TATASTEEL,2020.0,,-99.0,Invalid tax rate: -99.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,TRENT,2021.0,,-12.0,Invalid tax rate: -12.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,INDIGO,2019.0,,-99.0,Invalid tax rate: -99.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,INDIGO,2020.0,,-10.0,Invalid tax rate: -10.0
-DQ-08,Tax rate validation,WARNING,profitandloss.csv,INDIGO,2024.0,,-2.0,Invalid tax rate: -2.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,AMBUJACEM,2020.0,,151.0,Dividend payout outside 0-100: 151.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,BHARTIARTL,2018.0,,194.0,Dividend payout outside 0-100: 194.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,BHARTIARTL,2019.0,,244.0,Dividend payout outside 0-100: 244.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,BHARTIARTL,2020.0,,-3.0,Dividend payout outside 0-100: -3.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,BHEL,2016.0,,-14.0,Dividend payout outside 0-100: -14.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,BHEL,2018.0,,151.0,Dividend payout outside 0-100: 151.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,BPCL,2020.0,,106.0,Dividend payout outside 0-100: 106.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,BPCL,2021.0,,102.0,Dividend payout outside 0-100: 102.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,BRITANNIA,2021.0,,204.0,Dividend payout outside 0-100: 204.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,COALINDIA,2014.0,,121.0,Dividend payout outside 0-100: 121.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,COALINDIA,2016.0,,121.0,Dividend payout outside 0-100: 121.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,COALINDIA,2017.0,,133.0,Dividend payout outside 0-100: 133.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,COALINDIA,2018.0,,146.0,Dividend payout outside 0-100: 146.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,DLF,2016.0,,117.0,Dividend payout outside 0-100: 117.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,DLF,2020.0,,-85.0,Dividend payout outside 0-100: -85.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,HINDALCO,2016.0,,-82.0,Dividend payout outside 0-100: -82.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,HINDUNILVR,2013.0,,104.0,Dividend payout outside 0-100: 104.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,HINDUNILVR,2021.0,,119.0,Dividend payout outside 0-100: 119.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,IOC,2020.0,,-437.0,Dividend payout outside 0-100: -437.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,ITC,2021.0,,101.0,Dividend payout outside 0-100: 101.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,JSWSTEEL,2016.0,,-67.0,Dividend payout outside 0-100: -67.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,NAUKRI,2015.0,,150.0,Dividend payout outside 0-100: 150.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,NAUKRI,2017.0,,-230.0,Dividend payout outside 0-100: -230.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,NAUKRI,2020.0,,-31.0,Dividend payout outside 0-100: -31.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,NAUKRI,2023.0,,-228.0,Dividend payout outside 0-100: -228.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,NESTLEIND,2019.0,,168.0,Dividend payout outside 0-100: 168.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,PNB,2016.0,,-2.0,Dividend payout outside 0-100: -2.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,SBIN,2017.0,,859.0,Dividend payout outside 0-100: 859.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATACONSUM,2016.0,,-999.0,Dividend payout outside 0-100: -999.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATAPOWER,2013.0,,-319.0,Dividend payout outside 0-100: -319.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATAPOWER,2014.0,,-114.0,Dividend payout outside 0-100: -114.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATAPOWER,2015.0,,210.0,Dividend payout outside 0-100: 210.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATASTEEL,2013.0,,-11.0,Dividend payout outside 0-100: -11.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATASTEEL,2015.0,,-20.0,Dividend payout outside 0-100: -20.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATASTEEL,2016.0,,-203.0,Dividend payout outside 0-100: -203.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATASTEEL,2017.0,,-23.0,Dividend payout outside 0-100: -23.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TATASTEEL,2024.0,,-101.0,Dividend payout outside 0-100: -101.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TECHM,2024.0,,150.0,Dividend payout outside 0-100: 150.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TORNTPHARM,2022.0,,105.0,Dividend payout outside 0-100: 105.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TRENT,2013.0,,-87.0,Dividend payout outside 0-100: -87.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TRENT,2014.0,,-125.0,Dividend payout outside 0-100: -125.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,TRENT,2021.0,,-15.0,Dividend payout outside 0-100: -15.0
-DQ-09,Dividend cap,WARNING,profitandloss.csv,INDIGO,2019.0,,123.0,Dividend payout outside 0-100: 123.0
-DQ-11,EPS sign validation,WARNING,profitandloss.csv,NAUKRI,2015.0,,2.0,EPS sign conflicts with net profit
-DQ-11,EPS sign validation,WARNING,profitandloss.csv,TATAPOWER,2014.0,,-1.0,EPS sign conflicts with net profit
-DQ-12,BSE balance validation,WARNING,companies.xlsx,TVSMOTOR,,bse_profile,,Missing or invalid BSE profile
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,BAJFINANCE,2022,,-700.6471,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,BAJFINANCE,2023,,-2546.4,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,BHARTIARTL,2020,,-0.0833,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,BHEL,2021,,-5.6874,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,HINDALCO,2015,,-114.7175,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,HINDALCO,2021,,-115.9696,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,ICICIGI,2017,,-3306.5,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,ICICIGI,2019,,-4754.5,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,NAUKRI,2020,,-4.5714,Negative interest coverage
-DQ-13,Interest coverage validation,WARNING,financial_ratios.csv,TATAMOTORS,2019,,-0.3511,Negative interest coverage
-DQ-14,Company coverage,WARNING,profitandloss.csv,M&M,,,,Company missing from dataset: M&M
-DQ-14,Company coverage,WARNING,balancesheet.csv,M&M,,,,Company missing from dataset: M&M
-DQ-14,Company coverage,WARNING,balancesheet.csv,SBIN,,,,Company missing from dataset: SBIN
-DQ-14,Company coverage,WARNING,cashflow.csv,ATGL,,,,Company missing from dataset: ATGL
-DQ-14,Company coverage,WARNING,cashflow.csv,M&M,,,,Company missing from dataset: M&M
-DQ-14,Company coverage,WARNING,financial_ratios.csv,ATGL,,,,Company missing from dataset: ATGL
-DQ-14,Company coverage,WARNING,financial_ratios.csv,M&M,,,,Company missing from dataset: M&M
-DQ-14,Company coverage,WARNING,financial_ratios.csv,SBIN,,,,Company missing from dataset: SBIN
-DQ-14,Company coverage,WARNING,market_cap.csv,M&M,,,,Company missing from dataset: M&M
-DQ-14,Company coverage,WARNING,stock_prices.csv,M&M,,,,Company missing from dataset: M&M
-DQ-15,Year coverage,WARNING,profitandloss.csv,JIOFIN,,,2,Only 2 years available
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ABB,2022-06-01,,"O=3362.05, H=3339.06, L=3241.42, C=3300.45",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIENSOL,2021-03-01,,"O=5575.31, H=5571.95, L=5000.52, C=5489.61",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIENSOL,2021-11-01,,"O=4760.63, H=4742.96, L=4551.21, C=4667.34",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIENSOL,2023-06-01,,"O=4113.49, H=4106.31, L=3675.98, C=4049.47",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIENT,2020-09-01,,"O=5221.43, H=5214.32, L=4849.1, C=5143.91",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIENT,2021-12-01,,"O=6171.41, H=6128.97, L=5774.78, C=6059.65",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIENT,2024-09-01,,"O=9234.12, H=9730.42, L=9300.6, C=9407.43",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIGREEN,2021-02-01,,"O=4182.59, H=4179.52, L=4057.13, C=4112.23",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIGREEN,2022-08-01,,"O=4994.85, H=5663.47, L=5001.81, C=5069.87",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIPORTS,2021-01-01,,"O=1172.75, H=1169.27, L=1029.9, C=1152.75",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ADANIPOWER,2023-06-01,,"O=1623.59, H=1609.82, L=1444.4, C=1592.27",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,AMBUJACEM,2022-11-01,,"O=430.13, H=463.66, L=431.29, C=436.66",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,APOLLOHOSP,2020-06-01,,"O=3199.24, H=3592.77, L=3215.54, C=3264.32",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,APOLLOHOSP,2021-12-01,,"O=4756.05, H=5163.26, L=4777.77, C=4845.4",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,APOLLOHOSP,2023-10-01,,"O=3453.25, H=3445.88, L=3373.57, C=3408.47",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ASIANPAINT,2021-07-01,,"O=1990.06, H=2165.93, L=2003.63, C=2029.27",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ASIANPAINT,2021-10-01,,"O=2349.33, H=2589.23, L=2364.22, C=2394.97",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ATGL,2022-03-01,,"O=2164.51, H=2382.84, L=2172.13, C=2201.76",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ATGL,2022-04-01,,"O=2057.03, H=2129.45, L=2059.07, C=2091.15",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BAJAJ-AUTO,2024-01-01,,"O=9620.33, H=10015.53, L=9670.98, C=9789.8",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BAJAJFINSV,2020-06-01,,"O=4559.69, H=4557.17, L=4159.66, C=4491.54",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BAJAJFINSV,2021-01-01,,"O=4465.14, H=4444.05, L=3986.64, C=4381.31",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BAJAJFINSV,2024-06-01,,"O=5911.92, H=6543.6, L=5936.1, C=6032.3",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BAJFINANCE,2021-01-01,,"O=1402.64, H=1402.06, L=1318.77, C=1386.09",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BAJFINANCE,2024-06-01,,"O=2072.69, H=2252.44, L=2083.73, C=2106.61",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BAJFINANCE,2024-07-01,,"O=2029.96, H=2025.98, L=1852.83, C=2004.4",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BEL,2020-12-01,,"O=1958.82, H=1958.13, L=1709.53, C=1934.32",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BHARTIARTL,2022-04-01,,"O=3673.83, H=4120.21, L=3690.94, C=3738.84",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BHARTIARTL,2023-05-01,,"O=4041.74, H=4038.33, L=3533.37, C=3990.74",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BHEL,2022-12-01,,"O=2271.01, H=2269.07, L=2041.31, C=2227.53",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BRITANNIA,2020-09-01,,"O=795.34, H=859.68, L=800.55, C=809.12",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,BRITANNIA,2022-09-01,,"O=385.93, H=421.36, L=386.74, C=392.48",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,CANBK,2020-03-01,,"O=1377.01, H=1416.56, L=1380.07, C=1396.44",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,CANBK,2023-05-01,,"O=2232.84, H=2514.23, L=2238.57, C=2268.22",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,CHOLAFIN,2022-12-01,,"O=1414.51, H=1583.4, L=1421.68, C=1436.76",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,CHOLAFIN,2024-11-01,,"O=1936.14, H=2062.48, L=1948.85, C=1972.13",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,CIPLA,2020-07-01,,"O=2300.54, H=2558.87, L=2309.86, C=2342.38",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,DABUR,2022-04-01,,"O=1514.23, H=1572.09, L=1519.2, C=1536.96",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,DIVISLAB,2020-04-01,,"O=3264.08, H=3435.69, L=3266.19, C=3317.47",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,DIVISLAB,2020-05-01,,"O=3641.92, H=3633.84, L=3397.8, C=3589.89",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,DLF,2022-03-01,,"O=2251.7, H=2243.87, L=2023.06, C=2211.83",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,DLF,2024-10-01,,"O=4263.63, H=4247.47, L=3843.33, C=4194.7",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,EICHERMOT,2021-12-01,,"O=1003.37, H=1039.03, L=1008.43, C=1021.33",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,EICHERMOT,2022-11-01,,"O=1139.19, H=1133.34, L=1108.38, C=1121.46",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,GAIL,2021-07-01,,"O=327.42, H=361.41, L=328.08, C=333.53",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,GRASIM,2022-03-01,,"O=6860.47, H=6836.31, L=6606.33, C=6726.04",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HAVELLS,2024-11-01,,"O=2338.34, H=2473.99, L=2342.5, C=2370.13",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HCLTECH,2024-01-01,,"O=1034.37, H=1162.43, L=1039.37, C=1052.89",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HCLTECH,2024-06-01,,"O=834.13, H=890.93, L=835.62, C=845.64",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HDFCBANK,2022-06-01,,"O=4313.19, H=4596.85, L=4343.95, C=4391.71",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HDFCBANK,2023-08-01,,"O=4584.29, H=4548.92, L=4439.99, C=4499.81",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HDFCLIFE,2020-01-01,,"O=2323.39, H=2440.24, L=2330.18, C=2361.06",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HEROMOTOCO,2021-06-01,,"O=920.43, H=913.04, L=805.36, C=903.75",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HEROMOTOCO,2022-09-01,,"O=716.03, H=748.13, L=718.47, C=727.47",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HINDALCO,2023-08-01,,"O=2805.58, H=2799.68, L=2658.35, C=2765.51",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HINDUNILVR,2022-06-01,,"O=441.55, H=440.68, L=408.28, C=434.12",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HINDUNILVR,2024-03-01,,"O=308.95, H=347.66, L=310.51, C=313.71",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,HINDUNILVR,2024-08-01,,"O=410.07, H=406.56, L=378.97, C=402.48",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ICICIGI,2024-02-01,,"O=1896.75, H=1886.72, L=1790.8, C=1859.89",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ICICIPRULI,2020-08-01,,"O=3624.0, H=3786.23, L=3631.98, C=3691.19",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,INDIGO,2022-02-01,,"O=2491.79, H=2576.72, L=2494.59, C=2522.2",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,INDUSINDBK,2022-03-01,,"O=4417.94, H=4397.92, L=4114.72, C=4340.65",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,INFY,2021-09-01,,"O=4302.19, H=4279.37, L=3951.08, C=4231.41",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,IOC,2022-02-01,,"O=754.68, H=753.81, L=718.87, C=746.05",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,IOC,2022-08-01,,"O=1108.96, H=1108.65, L=1072.45, C=1097.64",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,IRCTC,2022-05-01,,"O=6671.26, H=6640.61, L=5999.08, C=6543.04",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,IRCTC,2023-01-01,,"O=7278.95, H=7783.24, L=7343.22, C=7420.09",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,IRCTC,2024-06-01,,"O=9591.45, H=10801.8, L=9610.39, C=9745.82",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,IRFC,2020-06-01,,"O=4237.71, H=4461.3, L=4256.11, C=4310.89",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,IRFC,2021-03-01,,"O=4106.48, H=4240.86, L=4131.9, C=4175.38",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,IRFC,2024-06-01,,"O=5321.02, H=5283.65, L=5043.35, C=5219.03",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JINDALSTEL,2020-02-01,,"O=5097.91, H=5489.38, L=5106.78, C=5186.99",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JINDALSTEL,2020-11-01,,"O=6236.09, H=6911.64, L=6286.65, C=6354.45",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JINDALSTEL,2023-05-01,,"O=6815.33, H=7219.47, L=6835.03, C=6928.05",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JIOFIN,2022-02-01,,"O=5753.57, H=5710.95, L=5455.35, C=5648.39",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JIOFIN,2023-12-01,,"O=8502.48, H=9373.47, L=8506.92, C=8599.67",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JIOFIN,2024-01-01,,"O=8469.8, H=8454.55, L=7987.84, C=8364.35",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JIOFIN,2024-12-01,,"O=9759.81, H=11055.34, L=9841.56, C=9945.52",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JSWENERGY,2020-11-01,,"O=5046.93, H=5681.39, L=5058.05, C=5148.26",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JSWENERGY,2022-03-01,,"O=8436.25, H=9530.12, L=8475.13, C=8570.33",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JSWENERGY,2023-04-01,,"O=9290.93, H=9280.72, L=8247.47, C=9172.55",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JSWENERGY,2023-06-01,,"O=8619.9, H=8610.1, L=8107.53, C=8452.59",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JSWENERGY,2023-09-01,,"O=6328.2, H=7176.04, L=6352.98, C=6424.02",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,JSWENERGY,2024-05-01,,"O=7059.52, H=7601.52, L=7105.17, C=7199.04",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,KOTAKBANK,2023-07-01,,"O=1415.31, H=1458.23, L=1418.05, C=1436.48",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,LICI,2020-07-01,,"O=281.64, H=311.59, L=282.36, C=286.39",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,LT,2023-03-01,,"O=2472.11, H=2816.44, L=2489.76, C=2516.0",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,LT,2024-10-01,,"O=2917.68, H=3216.88, L=2935.62, C=2966.18",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,MARUTI,2021-03-01,,"O=1779.51, H=1971.05, L=1780.41, C=1805.24",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,MOTHERSON,2020-05-01,,"O=1511.03, H=1604.36, L=1517.6, C=1541.64",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,MOTHERSON,2023-04-01,,"O=2547.79, H=2545.54, L=2365.34, C=2501.67",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,NAUKRI,2024-02-01,,"O=3512.2, H=3775.02, L=3519.14, C=3570.82",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,NESTLEIND,2023-01-01,,"O=500.46, H=499.78, L=443.34, C=494.48",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,NHPC,2023-11-01,,"O=8927.35, H=8875.96, L=7776.26, C=8764.38",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,ONGC,2022-06-01,,"O=7757.04, H=7731.56, L=7191.33, C=7609.18",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,PFC,2022-10-01,,"O=7809.71, H=7807.18, L=7551.47, C=7696.24",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,PFC,2023-10-01,,"O=6799.54, H=6772.9, L=6527.33, C=6667.23",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,PIDILITIND,2023-01-01,,"O=764.07, H=762.91, L=718.22, C=749.18",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,PNB,2022-06-01,,"O=139.09, H=138.76, L=129.07, C=136.49",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,POWERGRID,2024-11-01,,"O=6672.46, H=6653.54, L=6444.57, C=6547.57",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,RECLTD,2020-05-01,,"O=4164.6, H=4149.22, L=3866.96, C=4094.41",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,RECLTD,2021-03-01,,"O=5782.74, H=5746.03, L=5610.99, C=5687.84",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,RELIANCE,2022-10-01,,"O=2508.51, H=2805.45, L=2522.75, C=2555.62",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,RELIANCE,2024-07-01,,"O=2221.78, H=2322.12, L=2225.64, C=2261.27",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SBIN,2021-07-01,,"O=651.56, H=690.19, L=655.88, C=664.67",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SHREECEM,2021-02-01,,"O=1218.67, H=1303.82, L=1228.08, C=1243.17",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SHREECEM,2023-11-01,,"O=2644.65, H=2638.67, L=2554.78, C=2601.72",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SHREECEM,2024-09-01,,"O=2517.31, H=2767.58, L=2523.14, C=2562.33",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SHREECEM,2024-10-01,,"O=2570.15, H=2817.21, L=2581.18, C=2617.1",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SHRIRAMFIN,2022-02-01,,"O=1127.48, H=1188.01, L=1130.95, C=1148.76",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SHRIRAMFIN,2022-07-01,,"O=1524.11, H=1524.1, L=1388.0, C=1501.14",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SHRIRAMFIN,2024-05-01,,"O=1149.16, H=1148.96, L=1027.38, C=1136.84",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,SIEMENS,2021-07-01,,"O=4058.13, H=4592.62, L=4073.55, C=4140.4",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,TATASTEEL,2021-11-01,,"O=2277.36, H=2345.02, L=2284.53, C=2314.96",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,TCS,2024-07-01,,"O=5044.73, H=5042.8, L=4613.67, C=4966.5",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,TORNTPHARM,2020-01-01,,"O=2333.77, H=2560.3, L=2339.89, C=2375.4",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,TORNTPHARM,2022-11-01,,"O=1784.99, H=1777.19, L=1662.67, C=1755.51",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,TORNTPHARM,2023-09-01,,"O=1952.98, H=1952.57, L=1703.72, C=1915.22",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,TORNTPHARM,2024-11-01,,"O=2158.88, H=2318.0, L=2164.57, C=2193.28",Invalid OHLC relationship
-DQ-16,Stock price OHLC validation,WARNING,stock_prices.csv,TRENT,2023-11-01,,"O=1442.21, H=1594.47, L=1446.87, C=1466.02",Invalid OHLC relationship
+id,company_id,year,sales,expenses,operating_profit,opm_percentage,other_income,interest,depreciation,profit_before_tax,tax_percentage,net_profit,eps,dividend_payout,rejection_reason,source_file,equity_capital,reserves,borrowings,other_liabilities,total_liabilities,fixed_assets,cwip,investments,other_asset,total_assets,operating_activity,investing_activity,financing_activity,net_cash_flow,Annual_Report,compounded_sales_growth,compounded_profit_growth,stock_price_cagr,roe,pros,cons,net_profit_margin_pct,operating_profit_margin_pct,return_on_equity_pct,debt_to_equity,interest_coverage,asset_turnover,free_cash_flow_cr,capex_cr,earnings_per_share,book_value_per_share,dividend_payout_ratio_pct,total_debt_cr,cash_from_operations_cr
+1263,ULTRACEMCO,2013.0,20514.0,15674.0,4839.0,24.0,304.0,252.0,1023.0,3867.0,30.0,2688.0,98.0,9.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1264,ULTRACEMCO,2014.0,20730.0,16695.0,4035.0,19.0,322.0,361.0,1139.0,2858.0,23.0,2213.0,80.0,11.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1265,ULTRACEMCO,2015.0,23306.0,18881.0,4425.0,19.0,350.0,587.0,1203.0,2986.0,30.0,2102.0,76.0,12.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1266,ULTRACEMCO,2016.0,25153.0,20252.0,4901.0,19.0,464.0,566.0,1377.0,3421.0,28.0,2480.0,90.0,11.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1267,ULTRACEMCO,2017.0,25375.0,20162.0,5212.0,21.0,648.0,640.0,1348.0,3872.0,30.0,2714.0,99.0,10.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1268,ULTRACEMCO,2018.0,30979.0,24834.0,6145.0,20.0,242.0,1238.0,1848.0,3301.0,33.0,2224.0,81.0,13.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1269,ULTRACEMCO,2019.0,41462.0,34115.0,7347.0,18.0,350.0,1778.0,2451.0,3468.0,31.0,2400.0,88.0,13.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1270,ULTRACEMCO,2020.0,42430.0,33184.0,9246.0,22.0,651.0,1992.0,2723.0,5183.0,-11.0,5751.0,199.0,7.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1271,ULTRACEMCO,2021.0,44726.0,33158.0,11568.0,26.0,619.0,1486.0,2700.0,8001.0,32.0,5462.0,189.0,20.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1272,ULTRACEMCO,2022.0,52599.0,41084.0,11514.0,22.0,669.0,945.0,2715.0,8524.0,14.0,7334.0,254.0,15.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1273,ULTRACEMCO,2023.0,63240.0,52620.0,10620.0,17.0,507.0,823.0,2888.0,7416.0,32.0,5073.0,175.0,22.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1274,ULTRACEMCO,2024.0,70908.0,57940.0,12969.0,18.0,567.0,968.0,3145.0,9422.0,26.0,7004.0,243.0,29.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1275,ULTRACEMCO,,71317.0,59261.0,12056.0,17.0,739.0,1216.0,3478.0,8101.0,,6252.0,216.0,,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1276,UNIONBANK,2013.0,25169.0,7268.0,325.0,1.0,2868.0,17575.0,156.0,3037.0,30.0,2146.0,36.0,22.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1277,UNIONBANK,2014.0,29394.0,8829.0,-902.0,-3.0,3141.0,21467.0,198.0,2040.0,18.0,1687.0,27.0,15.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1278,UNIONBANK,2015.0,32164.0,9498.0,-973.0,-3.0,3957.0,23640.0,225.0,2759.0,36.0,1771.0,28.0,22.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1279,UNIONBANK,2016.0,32316.0,10349.0,-1928.0,-6.0,3934.0,23894.0,249.0,1758.0,24.0,1347.0,20.0,10.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1280,UNIONBANK,2017.0,32817.0,13871.0,-4830.0,-15.0,5430.0,23771.0,241.0,359.0,-58.0,573.0,8.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1281,UNIONBANK,2018.0,32952.0,21181.0,-11700.0,-36.0,5462.0,23471.0,368.0,-6607.0,-21.0,-5212.0,-45.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1282,UNIONBANK,2019.0,34314.0,19019.0,-8601.0,-25.0,5042.0,23896.0,374.0,-3933.0,-25.0,-2922.0,-17.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1283,UNIONBANK,2020.0,37479.0,21166.0,-9523.0,-25.0,5789.0,25837.0,417.0,-4151.0,-27.0,-3121.0,-9.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1284,UNIONBANK,2021.0,69311.0,36270.0,-11071.0,-16.0,14307.0,44112.0,908.0,2327.0,-22.0,2863.0,4.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1285,UNIONBANK,2022.0,68230.0,32264.0,-4213.0,-6.0,13524.0,40178.0,745.0,8566.0,39.0,5265.0,8.0,25.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1286,UNIONBANK,2023.0,81163.0,36155.0,-3024.0,-4.0,15915.0,48033.0,745.0,12147.0,31.0,8512.0,12.0,24.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1287,UNIONBANK,2024.0,100376.0,32422.0,4590.0,5.0,17813.0,63364.0,895.0,21508.0,36.0,13797.0,18.0,20.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1288,UNIONBANK,,107058.0,35514.0,2090.0,2.0,20440.0,69454.0,0.0,22530.0,,16344.0,21.0,,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1289,UNITDSPR,2013.0,10378.0,9287.0,1091.0,11.0,146.0,985.0,178.0,73.0,99.0,-105.0,-2.0,-31.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1290,UNITDSPR,2014.0,10508.0,13876.0,-3368.0,-32.0,681.0,1323.0,203.0,-4213.0,7.0,-4489.0,-62.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1291,UNITDSPR,2015.0,9254.0,9619.0,-366.0,-4.0,-360.0,687.0,223.0,-1635.0,3.0,-1687.0,-23.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1292,UNITDSPR,2016.0,8495.0,8162.0,333.0,4.0,648.0,457.0,157.0,366.0,61.0,143.0,2.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1293,UNITDSPR,2017.0,8818.0,7826.0,991.0,11.0,-265.0,375.0,189.0,163.0,43.0,93.0,1.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1294,UNITDSPR,2018.0,8591.0,7381.0,1209.0,14.0,172.0,278.0,192.0,912.0,28.0,652.0,9.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1295,UNITDSPR,2019.0,9341.0,7947.0,1394.0,15.0,70.0,237.0,215.0,1012.0,32.0,684.0,10.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1296,UNITDSPR,2020.0,9325.0,7756.0,1569.0,17.0,89.0,212.0,285.0,1160.0,47.0,621.0,9.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1297,UNITDSPR,2021.0,8131.0,7080.0,1051.0,13.0,-25.0,188.0,299.0,540.0,33.0,362.0,5.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1298,UNITDSPR,2022.0,9712.0,8117.0,1595.0,16.0,-117.0,88.0,304.0,1087.0,25.0,811.0,11.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1299,UNITDSPR,2023.0,10612.0,9195.0,1417.0,13.0,249.0,104.0,283.0,1279.0,12.0,1126.0,16.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1300,UNITDSPR,2024.0,11321.0,9321.0,2000.0,18.0,208.0,76.0,275.0,1857.0,24.0,1408.0,19.0,46.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1301,UNITDSPR,,11821.0,9710.0,2111.0,18.0,176.0,96.0,286.0,1905.0,,1402.0,19.0,,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1302,VBL,2012.0,1800.0,1572.0,228.0,13.0,44.0,116.0,136.0,21.0,-20.0,25.0,2.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1303,VBL,2013.0,2115.0,1824.0,291.0,14.0,19.0,171.0,184.0,-46.0,-11.0,-40.0,0.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1304,VBL,2014.0,2502.0,2116.0,387.0,15.0,14.0,187.0,210.0,4.0,99.0,-20.0,0.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1305,VBL,2015.0,3394.0,2752.0,642.0,19.0,36.0,170.0,317.0,191.0,41.0,113.0,1.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1306,VBL,2016.0,3861.0,3052.0,810.0,21.0,27.0,435.0,322.0,79.0,39.0,48.0,0.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1307,VBL,2017.0,4004.0,3165.0,838.0,21.0,14.0,215.0,347.0,291.0,26.0,214.0,1.0,22.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1308,VBL,2018.0,5105.0,4069.0,1036.0,20.0,6.0,223.0,385.0,434.0,31.0,300.0,1.0,16.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1309,VBL,2019.0,7130.0,5667.0,1462.0,21.0,47.0,324.0,489.0,696.0,32.0,472.0,1.0,15.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1310,VBL,2020.0,6450.0,5235.0,1215.0,19.0,-30.0,294.0,529.0,363.0,1.0,357.0,1.0,22.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1311,VBL,2021.0,8823.0,7129.0,1694.0,19.0,51.0,207.0,531.0,1007.0,26.0,746.0,2.0,16.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1312,VBL,2022.0,13173.0,10310.0,2863.0,22.0,-18.0,204.0,617.0,2024.0,23.0,1550.0,5.0,15.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1313,VBL,2023.0,16043.0,12326.0,3717.0,23.0,-5.0,292.0,681.0,2739.0,23.0,2102.0,6.0,16.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1314,VBL,,18987.0,14438.0,4549.0,24.0,86.0,415.0,853.0,3367.0,,2582.0,8.0,,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1315,VEDL,2013.0,2749.0,2283.0,465.0,17.0,33.0,475.0,197.0,-174.0,-25.0,2280.0,26.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1316,VEDL,2014.0,66152.0,46557.0,19595.0,30.0,1874.0,5094.0,6882.0,9493.0,-9.0,11421.0,21.0,15.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1317,VEDL,2015.0,73710.0,51595.0,22114.0,30.0,-19222.0,5659.0,7159.0,-9925.0,15.0,-11369.0,-53.0,-8.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1318,VEDL,2016.0,64262.0,82741.0,-18479.0,-29.0,4290.0,5778.0,8572.0,-28540.0,-37.0,-17862.0,-41.0,-8.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1319,VEDL,2017.0,72225.0,50849.0,21376.0,30.0,4423.0,5855.0,6292.0,13652.0,17.0,11316.0,23.0,83.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1320,VEDL,2018.0,91866.0,66989.0,24877.0,27.0,6087.0,5112.0,6283.0,19569.0,30.0,13692.0,28.0,76.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1321,VEDL,2019.0,92048.0,68877.0,23171.0,25.0,4270.0,5689.0,8192.0,13560.0,28.0,9698.0,19.0,99.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1322,VEDL,2020.0,84447.0,63704.0,20743.0,25.0,-14932.0,4977.0,9093.0,-8259.0,-43.0,-4744.0,-18.0,-22.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1323,VEDL,2021.0,88021.0,60703.0,27318.0,31.0,2743.0,5210.0,7638.0,17213.0,13.0,15032.0,31.0,30.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1324,VEDL,2022.0,132732.0,87908.0,44824.0,34.0,1832.0,4797.0,8895.0,32964.0,28.0,23710.0,51.0,89.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1325,VEDL,2023.0,147308.0,112877.0,34431.0,23.0,2625.0,6225.0,10555.0,20276.0,28.0,14503.0,28.0,357.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1326,VEDL,2024.0,143727.0,108415.0,35312.0,25.0,5239.0,9465.0,10723.0,20363.0,63.0,7539.0,11.0,259.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1327,VEDL,,144448.0,107376.0,37072.0,26.0,5266.0,9721.0,10958.0,21659.0,,15841.0,30.0,,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1328,WIPRO,2013.0,37430.0,29773.0,7657.0,20.0,1440.0,289.0,940.0,7869.0,21.0,6182.0,5.0,28.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1329,WIPRO,2014.0,43424.0,33788.0,9635.0,22.0,1922.0,383.0,1060.0,10114.0,21.0,7991.0,6.0,25.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1330,WIPRO,2015.0,46951.0,36652.0,10299.0,22.0,2450.0,350.0,1175.0,11224.0,22.0,8714.0,7.0,34.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1331,WIPRO,2016.0,51244.0,40448.0,10796.0,21.0,2752.0,558.0,1496.0,11494.0,22.0,8957.0,7.0,17.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1332,WIPRO,2017.0,55448.0,44128.0,11321.0,20.0,2623.0,594.0,2310.0,11039.0,23.0,8518.0,7.0,6.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1333,WIPRO,2018.0,54487.0,44100.0,10387.0,19.0,2550.0,583.0,2112.0,10242.0,22.0,8003.0,7.0,6.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1334,WIPRO,2019.0,59019.0,47406.0,11613.0,20.0,2614.0,738.0,1947.0,11542.0,22.0,9018.0,7.0,7.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1335,WIPRO,2020.0,61138.0,48795.0,12342.0,20.0,2728.0,733.0,2086.0,12252.0,20.0,9772.0,9.0,6.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1336,WIPRO,2021.0,61935.0,47164.0,14771.0,24.0,2404.0,509.0,2763.0,13903.0,22.0,10868.0,10.0,5.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1337,WIPRO,2022.0,79312.0,62628.0,16684.0,21.0,2067.0,532.0,3078.0,15141.0,19.0,12243.0,11.0,27.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1338,WIPRO,2023.0,90488.0,73649.0,16839.0,19.0,2275.0,1008.0,3340.0,14766.0,23.0,11366.0,10.0,5.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1339,WIPRO,2024.0,89760.0,73008.0,16752.0,19.0,2631.0,1255.0,3407.0,14721.0,25.0,11112.0,11.0,5.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1340,WIPRO,,88792.0,71019.0,17773.0,20.0,3349.0,1431.0,3077.0,16615.0,,12488.0,12.0,,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1341,ZOMATO,2018.0,466.0,558.0,-92.0,-20.0,21.0,6.0,29.0,-107.0,0.0,-107.0,-3070.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1342,ZOMATO,2019.0,1313.0,3556.0,-2243.0,-171.0,1285.0,9.0,43.0,-1010.0,0.0,-1010.0,-28574.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1343,ZOMATO,2020.0,2605.0,4909.0,-2305.0,-88.0,16.0,13.0,84.0,-2386.0,0.0,-2386.0,-70097.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1344,ZOMATO,2021.0,1994.0,2461.0,-467.0,-23.0,-200.0,10.0,138.0,-815.0,0.0,-816.0,-23124.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1345,ZOMATO,2022.0,4192.0,6043.0,-1851.0,-44.0,793.0,12.0,150.0,-1220.0,0.0,-1222.0,-2.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1346,ZOMATO,2023.0,7079.0,8290.0,-1211.0,-17.0,682.0,49.0,437.0,-1015.0,-4.0,-971.0,-1.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1347,ZOMATO,2024.0,12114.0,12071.0,43.0,0.0,846.0,72.0,526.0,291.0,-21.0,351.0,0.0,0.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1348,ZOMATO,,17972.0,17321.0,651.0,4.0,944.0,118.0,716.0,761.0,,663.0,1.0,,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1349,ZYDUSLIFE,2013.0,6358.0,5228.0,1130.0,18.0,32.0,169.0,185.0,809.0,15.0,690.0,6.0,24.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1350,ZYDUSLIFE,2014.0,7224.0,6021.0,1203.0,17.0,30.0,90.0,201.0,942.0,11.0,836.0,8.0,23.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1351,ZYDUSLIFE,2015.0,8651.0,6896.0,1756.0,20.0,45.0,68.0,287.0,1446.0,18.0,1188.0,11.0,21.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1352,ZYDUSLIFE,2016.0,9427.0,7095.0,2332.0,25.0,112.0,53.0,292.0,2099.0,8.0,1964.0,19.0,17.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1353,ZYDUSLIFE,2017.0,9376.0,7474.0,1902.0,20.0,127.0,45.0,373.0,1612.0,8.0,1517.0,15.0,22.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1354,ZYDUSLIFE,2018.0,11905.0,9074.0,2831.0,24.0,111.0,91.0,539.0,2312.0,24.0,1810.0,17.0,20.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1355,ZYDUSLIFE,2019.0,13166.0,10174.0,2991.0,23.0,183.0,194.0,599.0,2382.0,22.0,1899.0,18.0,19.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1356,ZYDUSLIFE,2020.0,14253.0,11455.0,2798.0,20.0,-264.0,342.0,696.0,1495.0,21.0,1204.0,11.0,30.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1357,ZYDUSLIFE,2021.0,14404.0,11013.0,3391.0,24.0,-231.0,159.0,670.0,2331.0,8.0,2185.0,21.0,17.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1358,ZYDUSLIFE,2022.0,15110.0,11768.0,3342.0,22.0,2581.0,127.0,713.0,5084.0,10.0,4618.0,44.0,6.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1359,ZYDUSLIFE,2023.0,17237.0,13378.0,3860.0,22.0,-422.0,130.0,723.0,2585.0,23.0,2092.0,19.0,31.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1360,ZYDUSLIFE,2024.0,19547.0,14163.0,5384.0,28.0,293.0,81.0,764.0,4832.0,20.0,3973.0,38.0,8.0,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1361,ZYDUSLIFE,,21484.0,15205.0,6278.0,29.0,351.0,112.0,849.0,5668.0,,4439.0,43.0,,invalid_company_reference,profitandloss.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1200,ZYDUSLIFE,2013.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,2842.0,2918.0,1512.0,7374.0,3026.0,736.0,114.0,3498.0,7374.0,,,,,,,,,,,,,,,,,,,,,,,,
+1201,ZYDUSLIFE,2014.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,3337.0,2700.0,1847.0,7986.0,3124.0,892.0,87.0,3885.0,7986.0,,,,,,,,,,,,,,,,,,,,,,,,
+1202,ZYDUSLIFE,2015.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,4149.0,2651.0,2144.0,9047.0,3352.0,798.0,154.0,4743.0,9047.0,,,,,,,,,,,,,,,,,,,,,,,,
+1203,ZYDUSLIFE,2016.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,5597.0,2442.0,2208.0,10350.0,3748.0,951.0,416.0,5235.0,10350.0,,,,,,,,,,,,,,,,,,,,,,,,
+1204,ZYDUSLIFE,2017.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,6858.0,5207.0,2937.0,15104.0,5755.0,1543.0,435.0,7371.0,15104.0,,,,,,,,,,,,,,,,,,,,,,,,
+1205,ZYDUSLIFE,2018.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,8642.0,5407.0,3632.0,17783.0,6483.0,1527.0,746.0,9028.0,17783.0,,,,,,,,,,,,,,,,,,,,,,,,
+1206,ZYDUSLIFE,2019.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,10284.0,7899.0,4945.0,23231.0,12164.0,837.0,674.0,9556.0,23231.0,,,,,,,,,,,,,,,,,,,,,,,,
+1207,ZYDUSLIFE,2020.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,10273.0,7986.0,5115.0,23477.0,12230.0,742.0,765.0,9740.0,23477.0,,,,,,,,,,,,,,,,,,,,,,,,
+1208,ZYDUSLIFE,2021.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,12890.0,4608.0,6165.0,23765.0,12133.0,783.0,830.0,10019.0,23765.0,,,,,,,,,,,,,,,,,,,,,,,,
+1209,ZYDUSLIFE,2022.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,102.0,16897.0,4221.0,6421.0,27642.0,12188.0,726.0,3288.0,11439.0,27642.0,,,,,,,,,,,,,,,,,,,,,,,,
+1210,ZYDUSLIFE,2023.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,101.0,17415.0,1195.0,6851.0,25562.0,11521.0,1201.0,1547.0,11294.0,25562.0,,,,,,,,,,,,,,,,,,,,,,,,
+1211,ZYDUSLIFE,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,101.0,19729.0,804.0,8201.0,28834.0,12368.0,2423.0,1220.0,12822.0,28834.0,,,,,,,,,,,,,,,,,,,,,,,,
+1212,ZYDUSLIFE,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,101.0,21724.0,190.0,9431.0,31446.0,14304.0,1051.0,2596.0,13495.0,31446.0,,,,,,,,,,,,,,,,,,,,,,,,
+1226,ZOMATO,2018.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,0.0,1036.0,186.0,152.0,1374.0,190.0,1.0,829.0,354.0,1374.0,,,,,,,,,,,,,,,,,,,,,,,,
+1227,ZOMATO,2019.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,0.0,2356.0,348.0,709.0,3413.0,389.0,1.0,2145.0,879.0,3413.0,,,,,,,,,,,,,,,,,,,,,,,,
+1228,ZOMATO,2020.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,0.0,457.0,326.0,2117.0,2900.0,1591.0,1.0,324.0,985.0,2900.0,,,,,,,,,,,,,,,,,,,,,,,,
+1229,ZOMATO,2021.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,0.0,7644.0,527.0,532.0,8704.0,1539.0,0.0,2205.0,4959.0,8704.0,,,,,,,,,,,,,,,,,,,,,,,,
+1230,ZOMATO,2022.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,764.0,15741.0,70.0,751.0,17327.0,1404.0,1.0,4718.0,11204.0,17327.0,,,,,,,,,,,,,,,,,,,,,,,,
+1231,ZOMATO,2023.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,836.0,18624.0,507.0,1632.0,21599.0,6344.0,7.0,6765.0,8483.0,21599.0,,,,,,,,,,,,,,,,,,,,,,,,
+1232,ZOMATO,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,868.0,19545.0,749.0,2194.0,23356.0,6448.0,18.0,11645.0,5245.0,23356.0,,,,,,,,,,,,,,,,,,,,,,,,
+1233,ZOMATO,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,872.0,20446.0,1159.0,2728.0,25205.0,8390.0,59.0,11708.0,5048.0,25205.0,,,,,,,,,,,,,,,,,,,,,,,,
+1234,WIPRO,2013.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,492.0,26072.0,6381.0,10675.0,43621.0,9996.0,407.0,6765.0,26454.0,43621.0,,,,,,,,,,,,,,,,,,,,,,,,
+1235,WIPRO,2014.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,493.0,31636.0,5159.0,12245.0,49533.0,10649.0,369.0,6146.0,32368.0,49533.0,,,,,,,,,,,,,,,,,,,,,,,,
+1236,WIPRO,2015.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,494.0,36598.0,7891.0,13367.0,58350.0,10837.0,395.0,5532.0,41586.0,58350.0,,,,,,,,,,,,,,,,,,,,,,,,
+1237,WIPRO,2016.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,494.0,45651.0,12522.0,12924.0,71590.0,17279.0,381.0,20915.0,33016.0,71590.0,,,,,,,,,,,,,,,,,,,,,,,,
+1238,WIPRO,2017.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,486.0,51184.0,14241.0,12761.0,78672.0,19886.0,738.0,29913.0,28135.0,78672.0,,,,,,,,,,,,,,,,,,,,,,,,
+1239,WIPRO,2018.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,905.0,47022.0,13901.0,13563.0,75391.0,18127.0,1378.0,25797.0,30090.0,75391.0,,,,,,,,,,,,,,,,,,,,,,,,
+1240,WIPRO,2019.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1207.0,55216.0,9947.0,16217.0,82586.0,17465.0,2142.0,22887.0,40093.0,82586.0,,,,,,,,,,,,,,,,,,,,,,,,
+1241,WIPRO,2020.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1143.0,54179.0,9724.0,15954.0,81000.0,22062.0,1881.0,20032.0,37024.0,81000.0,,,,,,,,,,,,,,,,,,,,,,,,
+1242,WIPRO,2021.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1096.0,53805.0,10451.0,17213.0,82566.0,23040.0,1853.0,18775.0,38898.0,82566.0,,,,,,,,,,,,,,,,,,,,,,,,
+1243,WIPRO,2022.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1096.0,64307.0,17593.0,24280.0,107276.0,37990.0,1602.0,26154.0,41531.0,107276.0,,,,,,,,,,,,,,,,,,,,,,,,
+1244,WIPRO,2023.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1098.0,76570.0,17467.0,21789.0,116924.0,44757.0,617.0,33073.0,38477.0,116924.0,,,,,,,,,,,,,,,,,,,,,,,,
+1245,WIPRO,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1045.0,73488.0,16465.0,23611.0,114609.0,43628.0,723.0,33384.0,36873.0,114609.0,,,,,,,,,,,,,,,,,,,,,,,,
+1246,WIPRO,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1046.0,80330.0,19282.0,24893.0,125552.0,43476.0,846.0,43970.0,37260.0,125552.0,,,,,,,,,,,,,,,,,,,,,,,,
+1247,VEDL,2013.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,87.0,17388.0,4839.0,723.0,23037.0,4136.0,723.0,16059.0,2119.0,23037.0,,,,,,,,,,,,,,,,,,,,,,,,
+1248,VEDL,2014.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,296.0,72712.0,80566.0,60545.0,214120.0,87205.0,43128.0,37910.0,45877.0,214120.0,,,,,,,,,,,,,,,,,,,,,,,,
+1249,VEDL,2015.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,296.0,53579.0,77752.0,58654.0,190281.0,70108.0,38748.0,39606.0,41819.0,190281.0,,,,,,,,,,,,,,,,,,,,,,,,
+1250,VEDL,2016.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,296.0,43743.0,67778.0,80163.0,191980.0,67231.0,38461.0,53386.0,32903.0,191980.0,,,,,,,,,,,,,,,,,,,,,,,,
+1251,VEDL,2017.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,297.0,60128.0,71569.0,64952.0,196946.0,76756.0,27557.0,46962.0,45671.0,196946.0,,,,,,,,,,,,,,,,,,,,,,,,
+1252,VEDL,2018.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,372.0,62940.0,58159.0,58896.0,180367.0,80279.0,32055.0,28700.0,39333.0,180367.0,,,,,,,,,,,,,,,,,,,,,,,,
+1253,VEDL,2019.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,372.0,61925.0,66226.0,70045.0,198568.0,96397.0,24959.0,33065.0,44147.0,198568.0,,,,,,,,,,,,,,,,,,,,,,,,
+1254,VEDL,2020.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,372.0,54263.0,59187.0,66915.0,180737.0,88904.0,18585.0,24753.0,48495.0,180737.0,,,,,,,,,,,,,,,,,,,,,,,,
+1255,VEDL,2021.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,372.0,61906.0,57669.0,63549.0,183496.0,90470.0,16314.0,16660.0,60052.0,183496.0,,,,,,,,,,,,,,,,,,,,,,,,
+1256,VEDL,2022.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,372.0,65011.0,53583.0,74981.0,193947.0,93466.0,15879.0,17291.0,67311.0,193947.0,,,,,,,,,,,,,,,,,,,,,,,,
+1257,VEDL,2023.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,372.0,39051.0,80329.0,69703.0,189455.0,95744.0,19529.0,13150.0,61032.0,189455.0,,,,,,,,,,,,,,,,,,,,,,,,
+1258,VEDL,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,372.0,30350.0,87706.0,69690.0,188118.0,98963.0,22889.0,11869.0,54397.0,188118.0,,,,,,,,,,,,,,,,,,,,,,,,
+1259,VEDL,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,391.0,37097.0,79808.0,87879.0,205175.0,100699.0,27719.0,12823.0,63934.0,205175.0,,,,,,,,,,,,,,,,,,,,,,,,
+1285,UNITDSPR,2013.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,126.0,4661.0,8242.0,3453.0,16483.0,7869.0,131.0,218.0,8265.0,16483.0,,,,,,,,,,,,,,,,,,,,,,,,
+1286,UNITDSPR,2014.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,2887.0,8307.0,3518.0,14858.0,5700.0,110.0,238.0,8810.0,14858.0,,,,,,,,,,,,,,,,,,,,,,,,
+1287,UNITDSPR,2015.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,514.0,4987.0,2242.0,7889.0,1921.0,114.0,216.0,5637.0,7889.0,,,,,,,,,,,,,,,,,,,,,,,,
+1288,UNITDSPR,2016.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,1489.0,4242.0,2452.0,8329.0,1887.0,282.0,77.0,6084.0,8329.0,,,,,,,,,,,,,,,,,,,,,,,,
+1289,UNITDSPR,2017.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,1640.0,4144.0,2967.0,8896.0,1917.0,199.0,0.0,6780.0,8896.0,,,,,,,,,,,,,,,,,,,,,,,,
+1290,UNITDSPR,2018.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,2274.0,3421.0,3086.0,8926.0,1791.0,102.0,0.0,7033.0,8926.0,,,,,,,,,,,,,,,,,,,,,,,,
+1291,UNITDSPR,2019.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,2945.0,2883.0,3135.0,9109.0,1841.0,118.0,25.0,7124.0,9109.0,,,,,,,,,,,,,,,,,,,,,,,,
+1292,UNITDSPR,2020.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,3583.0,2570.0,2546.0,8844.0,1956.0,121.0,22.0,6745.0,8844.0,,,,,,,,,,,,,,,,,,,,,,,,
+1293,UNITDSPR,2021.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,3974.0,1037.0,3354.0,8511.0,1893.0,97.0,0.0,6521.0,8511.0,,,,,,,,,,,,,,,,,,,,,,,,
+1294,UNITDSPR,2022.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,4808.0,605.0,3304.0,8863.0,1855.0,96.0,222.0,6690.0,8863.0,,,,,,,,,,,,,,,,,,,,,,,,
+1295,UNITDSPR,2023.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,5854.0,183.0,3534.0,9716.0,1534.0,83.0,286.0,7813.0,9716.0,,,,,,,,,,,,,,,,,,,,,,,,
+1296,UNITDSPR,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,6976.0,265.0,3790.0,11176.0,1560.0,37.0,645.0,8934.0,11176.0,,,,,,,,,,,,,,,,,,,,,,,,
+1297,UNITDSPR,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,145.0,7487.0,518.0,3805.0,11955.0,1798.0,66.0,819.0,9272.0,11955.0,,,,,,,,,,,,,,,,,,,,,,,,
+1298,UNIONBANK,2013.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,597.0,16722.0,287589.0,8003.0,312912.0,2483.0,13.0,81808.0,228608.0,312912.0,,,,,,,,,,,,,,,,,,,,,,,,
+1299,UNIONBANK,2014.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,630.0,18004.0,327078.0,9300.0,355013.0,2621.0,2.0,94636.0,257753.0,355013.0,,,,,,,,,,,,,,,,,,,,,,,,
+1300,UNIONBANK,2015.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,636.0,19263.0,352618.0,11048.0,383566.0,2690.0,4.0,85818.0,295053.0,383566.0,,,,,,,,,,,,,,,,,,,,,,,,
+1301,UNIONBANK,2016.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,687.0,22361.0,374754.0,9562.0,407365.0,3939.0,13.0,90573.0,312840.0,407365.0,,,,,,,,,,,,,,,,,,,,,,,,
+1302,UNIONBANK,2017.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,687.0,23406.0,418420.0,13167.0,455681.0,3896.0,21.0,113441.0,338322.0,455681.0,,,,,,,,,,,,,,,,,,,,,,,,
+1303,UNIONBANK,2018.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1169.0,24083.0,455969.0,9900.0,491120.0,3824.0,34.0,125485.0,361777.0,491120.0,,,,,,,,,,,,,,,,,,,,,,,,
+1304,UNIONBANK,2019.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,1763.0,25073.0,460780.0,10964.0,498581.0,3743.0,44.0,128391.0,366402.0,498581.0,,,,,,,,,,,,,,,,,,,,,,,,
+1305,UNIONBANK,2020.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,3423.0,30567.0,505150.0,16369.0,555509.0,4734.0,54.0,154251.0,396470.0,555509.0,,,,,,,,,,,,,,,,,,,,,,,,
+1306,UNIONBANK,2021.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,6407.0,58331.0,977576.0,40063.0,1082377.0,7303.0,63.0,339059.0,735952.0,1082377.0,,,,,,,,,,,,,,,,,,,,,,,,
+1307,UNIONBANK,2022.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,6835.0,64026.0,1085613.0,37292.0,1193766.0,7171.0,37.0,351839.0,834718.0,1193766.0,,,,,,,,,,,,,,,,,,,,,,,,
+1308,UNIONBANK,2023.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,6835.0,71969.0,1163059.0,46495.0,1288357.0,8826.0,22.0,343727.0,935782.0,1288357.0,,,,,,,,,,,,,,,,,,,,,,,,
+1309,UNIONBANK,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,7634.0,89964.0,1251568.0,52831.0,1401996.0,9224.0,36.0,343953.0,1048783.0,1401996.0,,,,,,,,,,,,,,,,,,,,,,,,
+1323,ULTRACEMCO,2013.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,274.0,14955.0,7342.0,7010.0,29582.0,15050.0,3601.0,4709.0,6222.0,29582.0,,,,,,,,,,,,,,,,,,,,,,,,
+1324,ULTRACEMCO,2014.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,274.0,16908.0,7332.0,7671.0,32185.0,18100.0,2186.0,4862.0,7037.0,32185.0,,,,,,,,,,,,,,,,,,,,,,,,
+1325,ULTRACEMCO,2015.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,274.0,18767.0,9829.0,9183.0,38053.0,23343.0,2250.0,4500.0,7961.0,38053.0,,,,,,,,,,,,,,,,,,,,,,,,
+1326,ULTRACEMCO,2016.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,274.0,21671.0,10616.0,8631.0,41193.0,25309.0,1469.0,5095.0,9319.0,41193.0,,,,,,,,,,,,,,,,,,,,,,,,
+1327,ULTRACEMCO,2017.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,275.0,24117.0,8474.0,9343.0,42209.0,25904.0,921.0,6691.0,8693.0,42209.0,,,,,,,,,,,,,,,,,,,,,,,,
+1328,ULTRACEMCO,2018.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,275.0,26107.0,19480.0,11280.0,57141.0,39715.0,1511.0,5447.0,10468.0,57141.0,,,,,,,,,,,,,,,,,,,,,,,,
+1329,ULTRACEMCO,2019.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,275.0,33476.0,25337.0,17438.0,76525.0,56645.0,1153.0,2921.0,15806.0,76525.0,,,,,,,,,,,,,,,,,,,,,,,,
+1330,ULTRACEMCO,2020.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,289.0,38755.0,23019.0,17151.0,79214.0,57151.0,920.0,5929.0,15215.0,79214.0,,,,,,,,,,,,,,,,,,,,,,,,
+1331,ULTRACEMCO,2021.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,289.0,43886.0,21719.0,20282.0,86176.0,55412.0,1687.0,12178.0,16900.0,86176.0,,,,,,,,,,,,,,,,,,,,,,,,
+1332,ULTRACEMCO,2022.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,289.0,50147.0,11299.0,22077.0,83811.0,55488.0,4785.0,6336.0,17203.0,83811.0,,,,,,,,,,,,,,,,,,,,,,,,
+1333,ULTRACEMCO,2023.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,289.0,54036.0,11058.0,25998.0,91380.0,59579.0,4040.0,7297.0,20464.0,91380.0,,,,,,,,,,,,,,,,,,,,,,,,
+1334,ULTRACEMCO,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,289.0,59939.0,11403.0,29167.0,100797.0,62878.0,6811.0,8249.0,22859.0,100797.0,,,,,,,,,,,,,,,,,,,,,,,,
+1335,ULTRACEMCO,2024.0,,,,,,,,,,,,,invalid_company_reference,balancesheet.xlsx,289.0,61076.0,16964.0,29282.0,107611.0,68042.0,6410.0,7579.0,25579.0,107611.0,,,,,,,,,,,,,,,,,,,,,,,,
+189,AGTL,2018.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,277.0,-988.0,779.0,68.0,,,,,,,,,,,,,,,,,,,,
+190,AGTL,2019.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,356.0,791.0,-1077.0,70.0,,,,,,,,,,,,,,,,,,,,
+191,AGTL,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,492.0,-461.0,-102.0,-71.0,,,,,,,,,,,,,,,,,,,,
+192,AGTL,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,654.0,-770.0,39.0,-78.0,,,,,,,,,,,,,,,,,,,,
+193,AGTL,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,732.0,-1133.0,422.0,21.0,,,,,,,,,,,,,,,,,,,,
+194,AGTL,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,853.0,-1167.0,295.0,-19.0,,,,,,,,,,,,,,,,,,,,
+195,AGTL,2024.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,955.0,-752.0,-78.0,125.0,,,,,,,,,,,,,,,,,,,,
+1170,ULTRACEMCO,2013.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,3618.0,-4362.0,715.0,-30.0,,,,,,,,,,,,,,,,,,,,
+1171,ULTRACEMCO,2014.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,3455.0,-2342.0,-949.0,164.0,,,,,,,,,,,,,,,,,,,,
+1172,ULTRACEMCO,2015.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,4190.0,-2144.0,-2110.0,-63.0,,,,,,,,,,,,,,,,,,,,
+1173,ULTRACEMCO,2016.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,4526.0,-3673.0,-844.0,8.0,,,,,,,,,,,,,,,,,,,,
+1174,ULTRACEMCO,2017.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,5005.0,-2501.0,-2535.0,-31.0,,,,,,,,,,,,,,,,,,,,
+1175,ULTRACEMCO,2018.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,3888.0,1866.0,-5735.0,18.0,,,,,,,,,,,,,,,,,,,,
+1176,ULTRACEMCO,2019.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,5956.0,1165.0,-6757.0,364.0,,,,,,,,,,,,,,,,,,,,
+1177,ULTRACEMCO,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,8972.0,-4192.0,-5076.0,-295.0,,,,,,,,,,,,,,,,,,,,
+1178,ULTRACEMCO,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,12500.0,-8856.0,-4356.0,-712.0,,,,,,,,,,,,,,,,,,,,
+1179,ULTRACEMCO,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,9283.0,2257.0,-12498.0,-958.0,,,,,,,,,,,,,,,,,,,,
+1180,ULTRACEMCO,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,9069.0,-7188.0,-1631.0,250.0,,,,,,,,,,,,,,,,,,,,
+1181,ULTRACEMCO,2024.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,10898.0,-8789.0,-1926.0,183.0,,,,,,,,,,,,,,,,,,,,
+1182,UNIONBANK,2013.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-4245.0,-343.0,5096.0,507.0,,,,,,,,,,,,,,,,,,,,
+1183,UNIONBANK,2014.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,2570.0,-363.0,4902.0,7109.0,,,,,,,,,,,,,,,,,,,,
+1184,UNIONBANK,2015.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-3567.0,-318.0,3168.0,-718.0,,,,,,,,,,,,,,,,,,,,
+1185,UNIONBANK,2016.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,81.0,-9.0,-2.0,70.0,,,,,,,,,,,,,,,,,,,,
+1186,UNIONBANK,2017.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-6624.0,-280.0,10194.0,3289.0,,,,,,,,,,,,,,,,,,,,
+1187,UNIONBANK,2018.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,6097.0,-315.0,10792.0,16574.0,,,,,,,,,,,,,,,,,,,,
+1188,UNIONBANK,2019.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-7778.0,-297.0,1758.0,-6317.0,,,,,,,,,,,,,,,,,,,,
+1189,UNIONBANK,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-77.0,-4.0,201.0,121.0,,,,,,,,,,,,,,,,,,,,
+1190,UNIONBANK,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,20527.0,-601.0,-18861.0,1066.0,,,,,,,,,,,,,,,,,,,,
+1191,UNIONBANK,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,36339.0,-558.0,-786.0,34995.0,,,,,,,,,,,,,,,,,,,,
+1192,UNIONBANK,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,6056.0,-2561.0,-10654.0,-7159.0,,,,,,,,,,,,,,,,,,,,
+1193,UNIONBANK,2024.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,19930.0,-1394.0,-11489.0,7047.0,,,,,,,,,,,,,,,,,,,,
+1194,UNITDSPR,2013.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1969.0,-1121.0,-992.0,-145.0,,,,,,,,,,,,,,,,,,,,
+1195,UNITDSPR,2014.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-552.0,-252.0,1235.0,431.0,,,,,,,,,,,,,,,,,,,,
+1196,UNITDSPR,2015.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-196.0,3855.0,-4002.0,-343.0,,,,,,,,,,,,,,,,,,,,
+1197,UNITDSPR,2016.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,283.0,733.0,-1155.0,-139.0,,,,,,,,,,,,,,,,,,,,
+1198,UNITDSPR,2017.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,647.0,-227.0,-475.0,-56.0,,,,,,,,,,,,,,,,,,,,
+1199,UNITDSPR,2018.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,925.0,104.0,-966.0,63.0,,,,,,,,,,,,,,,,,,,,
+1200,UNITDSPR,2019.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,948.0,-66.0,-808.0,74.0,,,,,,,,,,,,,,,,,,,,
+1201,UNITDSPR,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,783.0,-194.0,-740.0,-150.0,,,,,,,,,,,,,,,,,,,,
+1202,UNITDSPR,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1818.0,-99.0,-1707.0,12.0,,,,,,,,,,,,,,,,,,,,
+1203,UNITDSPR,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,977.0,-313.0,-688.0,-23.0,,,,,,,,,,,,,,,,,,,,
+1204,UNITDSPR,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,615.0,-55.0,-500.0,60.0,,,,,,,,,,,,,,,,,,,,
+1205,UNITDSPR,2024.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1118.0,226.0,-407.0,937.0,,,,,,,,,,,,,,,,,,,,
+1206,VBL,2012.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,280.0,-507.0,229.0,3.0,,,,,,,,,,,,,,,,,,,,
+1207,VBL,2013.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,297.0,-574.0,274.0,-2.0,,,,,,,,,,,,,,,,,,,,
+1208,VBL,2014.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,431.0,-500.0,58.0,-11.0,,,,,,,,,,,,,,,,,,,,
+1209,VBL,2015.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,555.0,-300.0,-236.0,19.0,,,,,,,,,,,,,,,,,,,,
+1210,VBL,2016.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,826.0,-1048.0,230.0,8.0,,,,,,,,,,,,,,,,,,,,
+1211,VBL,2017.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,620.0,-746.0,159.0,32.0,,,,,,,,,,,,,,,,,,,,
+1212,VBL,2018.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1000.0,-937.0,-84.0,-22.0,,,,,,,,,,,,,,,,,,,,
+1213,VBL,2019.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1308.0,-2320.0,1107.0,95.0,,,,,,,,,,,,,,,,,,,,
+1214,VBL,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1012.0,-472.0,-574.0,-33.0,,,,,,,,,,,,,,,,,,,,
+1215,VBL,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1231.0,-1008.0,-178.0,46.0,,,,,,,,,,,,,,,,,,,,
+1216,VBL,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1790.0,-1769.0,-18.0,4.0,,,,,,,,,,,,,,,,,,,,
+1217,VBL,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,2391.0,-3288.0,985.0,88.0,,,,,,,,,,,,,,,,,,,,
+1218,VEDL,2013.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,22.0,-311.0,238.0,-51.0,,,,,,,,,,,,,,,,,,,,
+1219,VEDL,2014.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,15601.0,-2890.0,-5052.0,7659.0,,,,,,,,,,,,,,,,,,,,
+1220,VEDL,2015.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,17805.0,-4133.0,-13956.0,-284.0,,,,,,,,,,,,,,,,,,,,
+1221,VEDL,2016.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,20377.0,-7868.0,-11303.0,1206.0,,,,,,,,,,,,,,,,,,,,
+1222,VEDL,2017.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,18083.0,2681.0,-12425.0,8339.0,,,,,,,,,,,,,,,,,,,,
+1223,VEDL,2018.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,17366.0,15480.0,-39255.0,-6409.0,,,,,,,,,,,,,,,,,,,,
+1224,VEDL,2019.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,23754.0,-10594.0,-10242.0,2918.0,,,,,,,,,,,,,,,,,,,,
+1225,VEDL,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,19300.0,-5925.0,-15547.0,-2172.0,,,,,,,,,,,,,,,,,,,,
+1226,VEDL,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,23980.0,-6678.0,-17565.0,-263.0,,,,,,,,,,,,,,,,,,,,
+1227,VEDL,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,34963.0,-2243.0,-28903.0,3817.0,,,,,,,,,,,,,,,,,,,,
+1228,VEDL,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,33065.0,-668.0,-34142.0,-1745.0,,,,,,,,,,,,,,,,,,,,
+1229,VEDL,2024.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,35654.0,-13676.0,-26092.0,-4114.0,,,,,,,,,,,,,,,,,,,,
+1230,WIPRO,2013.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,6394.0,-4536.0,-1140.0,717.0,,,,,,,,,,,,,,,,,,,,
+1231,WIPRO,2014.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,6790.0,-284.0,-3570.0,2936.0,,,,,,,,,,,,,,,,,,,,
+1232,WIPRO,2015.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,7840.0,-2537.0,-830.0,4474.0,,,,,,,,,,,,,,,,,,,,
+1233,WIPRO,2016.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,7887.0,-13761.0,-159.0,-6032.0,,,,,,,,,,,,,,,,,,,,
+1234,WIPRO,2017.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,9277.0,-11770.0,-2275.0,-4767.0,,,,,,,,,,,,,,,,,,,,
+1235,WIPRO,2018.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,8423.0,3595.0,-12998.0,-979.0,,,,,,,,,,,,,,,,,,,,
+1236,WIPRO,2019.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,11632.0,5065.0,-4937.0,11760.0,,,,,,,,,,,,,,,,,,,,
+1237,WIPRO,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,10064.0,3593.0,-15100.0,-1442.0,,,,,,,,,,,,,,,,,,,,
+1238,WIPRO,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,14755.0,685.0,-12884.0,2556.0,,,,,,,,,,,,,,,,,,,,
+1239,WIPRO,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,11080.0,-22321.0,4659.0,-6583.0,,,,,,,,,,,,,,,,,,,,
+1240,WIPRO,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,13060.0,-8169.0,-6088.0,-1197.0,,,,,,,,,,,,,,,,,,,,
+1241,WIPRO,2024.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,17622.0,1144.0,-18257.0,509.0,,,,,,,,,,,,,,,,,,,,
+1242,ZOMATO,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-2144.0,1740.0,359.0,-45.0,,,,,,,,,,,,,,,,,,,,
+1243,ZOMATO,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-1018.0,-5245.0,6402.0,139.0,,,,,,,,,,,,,,,,,,,,
+1244,ZOMATO,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-693.0,-7971.0,8750.0,86.0,,,,,,,,,,,,,,,,,,,,
+1245,ZOMATO,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,-844.0,797.0,-127.0,-174.0,,,,,,,,,,,,,,,,,,,,
+1246,ZOMATO,2024.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,646.0,-348.0,-207.0,91.0,,,,,,,,,,,,,,,,,,,,
+1247,ZYDUSLIFE,2013.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,603.0,-682.0,286.0,207.0,,,,,,,,,,,,,,,,,,,,
+1248,ZYDUSLIFE,2014.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,903.0,-438.0,-529.0,-64.0,,,,,,,,,,,,,,,,,,,,
+1249,ZYDUSLIFE,2015.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,994.0,-465.0,-351.0,178.0,,,,,,,,,,,,,,,,,,,,
+1250,ZYDUSLIFE,2016.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1894.0,-860.0,-935.0,99.0,,,,,,,,,,,,,,,,,,,,
+1251,ZYDUSLIFE,2017.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1312.0,-2872.0,2316.0,756.0,,,,,,,,,,,,,,,,,,,,
+1252,ZYDUSLIFE,2018.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,919.0,-974.0,52.0,-3.0,,,,,,,,,,,,,,,,,,,,
+1253,ZYDUSLIFE,2019.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,1282.0,-3977.0,1885.0,-811.0,,,,,,,,,,,,,,,,,,,,
+1254,ZYDUSLIFE,2020.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,2932.0,-1004.0,-1528.0,399.0,,,,,,,,,,,,,,,,,,,,
+1255,ZYDUSLIFE,2021.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,3294.0,-837.0,-2548.0,-90.0,,,,,,,,,,,,,,,,,,,,
+1256,ZYDUSLIFE,2022.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,2104.0,-1018.0,-868.0,219.0,,,,,,,,,,,,,,,,,,,,
+1257,ZYDUSLIFE,2023.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,2689.0,1542.0,-4400.0,-170.0,,,,,,,,,,,,,,,,,,,,
+1258,ZYDUSLIFE,2024.0,,,,,,,,,,,,,invalid_company_reference,cashflow.xlsx,,,,,,,,,,,3228.0,-1492.0,-1810.0,-75.0,,,,,,,,,,,,,,,,,,,,
+1458,ULTRACEMCO,2024.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/954d56a4-0b0e-405d-b877-e7696fef9fb8.pdf,,,,,,,,,,,,,,,,,,,
+1459,ULTRACEMCO,2023.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis//26a2922a-4386-4819-a739-01f0196834a6.pdf,,,,,,,,,,,,,,,,,,,
+1460,ULTRACEMCO,2022.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/73874532538.pdf,,,,,,,,,,,,,,,,,,,
+1461,ULTRACEMCO,2021.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/69096532538.pdf,,,,,,,,,,,,,,,,,,,
+1462,ULTRACEMCO,2020.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380320.pdf,,,,,,,,,,,,,,,,,,,
+1463,ULTRACEMCO,2019.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380319.pdf,,,,,,,,,,,,,,,,,,,
+1464,ULTRACEMCO,2018.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380318.pdf,,,,,,,,,,,,,,,,,,,
+1465,ULTRACEMCO,2017.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380317.pdf,,,,,,,,,,,,,,,,,,,
+1466,ULTRACEMCO,2016.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380316.pdf,,,,,,,,,,,,,,,,,,,
+1467,ULTRACEMCO,2015.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380315.pdf,,,,,,,,,,,,,,,,,,,
+1468,ULTRACEMCO,2014.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380314.pdf,,,,,,,,,,,,,,,,,,,
+1469,ULTRACEMCO,2013.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380313.pdf,,,,,,,,,,,,,,,,,,,
+1470,ULTRACEMCO,2012.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380312.pdf,,,,,,,,,,,,,,,,,,,
+1471,ULTRACEMCO,2011.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1472,ULTRACEMCO,2010.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1473,ULTRACEMCO,2009.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1474,UNIONBANK,2024.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/a59b26ca-8c5f-424f-ae8d-27c1b78e35f3.pdf,,,,,,,,,,,,,,,,,,,
+1475,UNIONBANK,2023.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis//083844e2-7459-4598-a74d-1254dc28b4bc.pdf,,,,,,,,,,,,,,,,,,,
+1476,UNIONBANK,2022.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/73178532477.pdf,,,,,,,,,,,,,,,,,,,
+1477,UNIONBANK,2021.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/68848532477.pdf,,,,,,,,,,,,,,,,,,,
+1478,UNIONBANK,2020.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770320.pdf,,,,,,,,,,,,,,,,,,,
+1479,UNIONBANK,2019.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770319.pdf,,,,,,,,,,,,,,,,,,,
+1480,UNIONBANK,2018.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770318.pdf,,,,,,,,,,,,,,,,,,,
+1481,UNIONBANK,2017.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770317.pdf,,,,,,,,,,,,,,,,,,,
+1482,UNIONBANK,2016.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770316.pdf,,,,,,,,,,,,,,,,,,,
+1483,UNIONBANK,2015.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770315.pdf,,,,,,,,,,,,,,,,,,,
+1484,UNIONBANK,2014.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770314.pdf,,,,,,,,,,,,,,,,,,,
+1485,UNIONBANK,2013.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770313.pdf,,,,,,,,,,,,,,,,,,,
+1486,UNIONBANK,2012.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770312.pdf,,,,,,,,,,,,,,,,,,,
+1487,UNIONBANK,2011.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770311.pdf,,,,,,,,,,,,,,,,,,,
+1488,UNIONBANK,2010.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1489,UNIONBANK,2009.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1490,UNITDSPR,2024.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/5a3fca91-db50-4b8f-b441-b923f2fa20a5.pdf,,,,,,,,,,,,,,,,,,,
+1491,UNITDSPR,2023.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis//a9f48c17-7320-41cd-8732-3fa67c480f1e.pdf,,,,,,,,,,,,,,,,,,,
+1492,UNITDSPR,2022.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/73716532432.pdf,,,,,,,,,,,,,,,,,,,
+1493,UNITDSPR,2021.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/69199532432.pdf,,,,,,,,,,,,,,,,,,,
+1494,UNITDSPR,2020.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320320.pdf,,,,,,,,,,,,,,,,,,,
+1495,UNITDSPR,2019.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320319.pdf,,,,,,,,,,,,,,,,,,,
+1496,UNITDSPR,2018.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320318.pdf,,,,,,,,,,,,,,,,,,,
+1497,UNITDSPR,2017.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320317.pdf,,,,,,,,,,,,,,,,,,,
+1498,UNITDSPR,2016.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320316.pdf,,,,,,,,,,,,,,,,,,,
+1499,UNITDSPR,2015.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320315.pdf,,,,,,,,,,,,,,,,,,,
+1500,UNITDSPR,2014.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320314.pdf,,,,,,,,,,,,,,,,,,,
+1501,UNITDSPR,2013.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320313.pdf,,,,,,,,,,,,,,,,,,,
+1502,UNITDSPR,2012.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320312.pdf,,,,,,,,,,,,,,,,,,,
+1503,UNITDSPR,2011.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1504,UNITDSPR,2010.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1505,UNITDSPR,2009.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1506,VBL,2024.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1507,VBL,2023.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/2a9652ba-0b38-432b-8e1c-04a3c6a60cfd.pdf,,,,,,,,,,,,,,,,,,,
+1508,VBL,2022.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis//357821ff-40cf-4624-82fa-1c19624da856.pdf,,,,,,,,,,,,,,,,,,,
+1509,VBL,2021.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/540180/72941540180.pdf,,,,,,,,,,,,,,,,,,,
+1510,VBL,2020.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/540180/68364540180.pdf,,,,,,,,,,,,,,,,,,,
+1511,VBL,2019.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/540180/5401801219.pdf,,,,,,,,,,,,,,,,,,,
+1512,VBL,2018.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/540180/5401801218.pdf,,,,,,,,,,,,,,,,,,,
+1513,VBL,2017.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/540180/5401801217.pdf,,,,,,,,,,,,,,,,,,,
+1514,VBL,2016.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/540180/5401801216.pdf,,,,,,,,,,,,,,,,,,,
+1515,VBL,2015.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1516,VBL,2014.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1517,VBL,2013.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1518,VBL,2012.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1519,VBL,2011.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1520,VBL,2010.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1521,VBL,2009.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1522,VEDL,2024.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4d3e3bc-fe5a-4184-b181-b5455d60f11a.pdf,,,,,,,,,,,,,,,,,,,
+1523,VEDL,2023.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis//a04c4068-5204-4adb-8611-f12be2663d7d.pdf,,,,,,,,,,,,,,,,,,,
+1524,VEDL,2022.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/73739500295.pdf,,,,,,,,,,,,,,,,,,,
+1525,VEDL,2021.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/68971500295_28_09_21.pdf,,,,,,,,,,,,,,,,,,,
+1526,VEDL,2020.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/66998500295.pdf,,,,,,,,,,,,,,,,,,,
+1527,VEDL,2019.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950319.pdf,,,,,,,,,,,,,,,,,,,
+1528,VEDL,2018.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950318.pdf,,,,,,,,,,,,,,,,,,,
+1529,VEDL,2017.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950317.pdf,,,,,,,,,,,,,,,,,,,
+1530,VEDL,2016.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950316.pdf,,,,,,,,,,,,,,,,,,,
+1531,VEDL,2015.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950315.pdf,,,,,,,,,,,,,,,,,,,
+1532,VEDL,2014.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950312.pdf,,,,,,,,,,,,,,,,,,,
+1533,VEDL,2013.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950312.pdf,,,,,,,,,,,,,,,,,,,
+1534,VEDL,2012.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950312.pdf,,,,,,,,,,,,,,,,,,,
+1535,VEDL,2011.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950311.pdf,,,,,,,,,,,,,,,,,,,
+1536,VEDL,2010.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1537,VEDL,2009.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1538,WIPRO,2024.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/53cec073-5278-4dcd-9066-2fd101023af5.pdf,,,,,,,,,,,,,,,,,,,
+1539,WIPRO,2023.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis//ea6ff555-0162-4acf-98b2-0ef7a7a26699.pdf,,,,,,,,,,,,,,,,,,,
+1540,WIPRO,2022.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/73311507685.pdf,,,,,,,,,,,,,,,,,,,
+1541,WIPRO,2021.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/68597507685.pdf,,,,,,,,,,,,,,,,,,,
+1542,WIPRO,2020.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850320.pdf,,,,,,,,,,,,,,,,,,,
+1543,WIPRO,2019.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850319.pdf,,,,,,,,,,,,,,,,,,,
+1544,WIPRO,2018.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850318.pdf,,,,,,,,,,,,,,,,,,,
+1545,WIPRO,2017.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850317.pdf,,,,,,,,,,,,,,,,,,,
+1546,WIPRO,2016.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850316.pdf,,,,,,,,,,,,,,,,,,,
+1547,WIPRO,2015.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850315.pdf,,,,,,,,,,,,,,,,,,,
+1548,WIPRO,2014.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850314.pdf,,,,,,,,,,,,,,,,,,,
+1549,WIPRO,2013.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850313.pdf,,,,,,,,,,,,,,,,,,,
+1550,WIPRO,2012.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850312.pdf,,,,,,,,,,,,,,,,,,,
+1551,WIPRO,2011.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850311.pdf,,,,,,,,,,,,,,,,,,,
+1552,WIPRO,2010.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1553,WIPRO,2009.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1554,ZOMATO,2024.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/629bfe24-4e55-4b14-957e-8c8bc5828ff0.pdf,,,,,,,,,,,,,,,,,,,
+1555,ZOMATO,2023.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e0e9b68-2d04-41bf-9f59-fb539e330baf.pdf,,,,,,,,,,,,,,,,,,,
+1556,ZOMATO,2022.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/543320/74160543320.pdf,,,,,,,,,,,,,,,,,,,
+1557,ZOMATO,2021.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1558,ZOMATO,2020.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1559,ZOMATO,2019.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1560,ZOMATO,2018.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1561,ZOMATO,2017.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1562,ZOMATO,2016.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1563,ZOMATO,2015.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1564,ZOMATO,2014.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1565,ZOMATO,2013.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1566,ZOMATO,2012.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1567,ZOMATO,2011.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1568,ZOMATO,2010.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1569,ZOMATO,2009.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1570,ZYDUSLIFE,2024.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb20386b-4a53-40b3-a9fb-dc63f99696f3.pdf,,,,,,,,,,,,,,,,,,,
+1571,ZYDUSLIFE,2023.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/xml-data/corpfiling/AttachHis//fca8fc8e-6400-47eb-bbbe-1eaefff703d4.pdf,,,,,,,,,,,,,,,,,,,
+1572,ZYDUSLIFE,2022.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/73737532321.pdf,,,,,,,,,,,,,,,,,,,
+1573,ZYDUSLIFE,2021.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/68976532321.pdf,,,,,,,,,,,,,,,,,,,
+1574,ZYDUSLIFE,2020.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210320.pdf,,,,,,,,,,,,,,,,,,,
+1575,ZYDUSLIFE,2019.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210319.pdf,,,,,,,,,,,,,,,,,,,
+1576,ZYDUSLIFE,2018.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210318.pdf,,,,,,,,,,,,,,,,,,,
+1577,ZYDUSLIFE,2017.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210317.pdf,,,,,,,,,,,,,,,,,,,
+1578,ZYDUSLIFE,2016.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210316.pdf,,,,,,,,,,,,,,,,,,,
+1579,ZYDUSLIFE,2015.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210315.pdf,,,,,,,,,,,,,,,,,,,
+1580,ZYDUSLIFE,2014.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210314.pdf,,,,,,,,,,,,,,,,,,,
+1581,ZYDUSLIFE,2013.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210313.pdf,,,,,,,,,,,,,,,,,,,
+1582,ZYDUSLIFE,2012.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210312.pdf,,,,,,,,,,,,,,,,,,,
+1583,ZYDUSLIFE,2011.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210311.pdf,,,,,,,,,,,,,,,,,,,
+1584,ZYDUSLIFE,2010.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+1585,ZYDUSLIFE,2009.0,,,,,,,,,,,,,invalid_company_reference,documents.xlsx,,,,,,,,,,,,,,,Null,,,,,,,,,,,,,,,,,,,
+17,WIPRO,,,,,,,,,,,,,,invalid_company_reference,analysis.xlsx,,,,,,,,,,,,,,,,10 Years:     8%,10 Years:          3%,    10 Years:     12%,10 Years:        18%,,,,,,,,,,,,,,,
+18,WIPRO,,,,,,,,,,,,,,invalid_company_reference,analysis.xlsx,,,,,,,,,,,,,,,,5 Years:       9%,5 Years:            4%,      5 Years:     20%,5 Years:          17%,,,,,,,,,,,,,,,
+19,WIPRO,,,,,,,,,,,,,,invalid_company_reference,analysis.xlsx,,,,,,,,,,,,,,,,3 Years:      13%,3 Years:            0%,      3 Years:      -1%,3 Years:          17%,,,,,,,,,,,,,,,
+20,WIPRO,,,,,,,,,,,,,,invalid_company_reference,analysis.xlsx,,,,,,,,,,,,,,,,TTM:           -3%,TTM:                 1%,      1 Year:       39%,Last Year:       14%,,,,,,,,,,,,,,,
+12,WIPRO,,,,,,,,,,,,,,invalid_company_reference,prosandcons.xlsx,,,,,,,,,,,,,,,,,,,,,The company has delivered a poor sales growth of 8.75% over past five years.,,,,,,,,,,,,,
+13,WIPRO,,,,,,,,,,,,,,invalid_company_reference,prosandcons.xlsx,,,,,,,,,,,,,,,,,,,,,Dividend payout has been low at 12.2% of profits over last 3 years,,,,,,,,,,,,,
+1149,ULTRACEMCO,2013.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,13.1,24.0,17.65,0.4821,20.4087,0.6935,-744.0,4362.0,98.0,5.558,9.0,7342.0,3618.0
+1150,ULTRACEMCO,2014.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,10.68,19.0,12.88,0.4267,12.0693,0.6441,1113.0,2342.0,80.0,6.2708,11.0,7332.0,3455.0
+1151,ULTRACEMCO,2015.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,9.02,19.0,11.04,0.5162,8.1346,0.6125,2046.0,2144.0,76.0,6.9493,12.0,9829.0,4190.0
+1152,ULTRACEMCO,2016.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,9.86,19.0,11.3,0.4838,9.4788,0.6106,853.0,3673.0,90.0,8.0091,11.0,10616.0,4526.0
+1153,ULTRACEMCO,2017.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,10.7,21.0,11.13,0.3474,9.1562,0.6012,2504.0,2501.0,99.0,8.8698,10.0,8474.0,5005.0
+1154,ULTRACEMCO,2018.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,7.180000000000001,20.0,8.43,0.7384,5.1591,0.5422,5754.0,1866.0,81.0,9.5935,13.0,19480.0,3888.0
+1155,ULTRACEMCO,2019.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,5.79,18.0,7.109999999999999,0.7507,4.329,0.5418,7121.0,1165.0,88.0,12.2731,13.0,25337.0,5956.0
+1156,ULTRACEMCO,2020.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,13.55,22.0,14.73,0.5896,4.9684,0.5356,4780.0,4192.0,199.0,13.51,7.0,23019.0,8972.0
+1157,ULTRACEMCO,2021.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,12.21,26.0,12.36,0.4917,8.2012,0.519,3644.0,8856.0,189.0,15.2855,20.0,21719.0,12500.0
+1158,ULTRACEMCO,2022.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,13.94,22.0,14.54,0.224,12.8921,0.6276,11540.0,2257.0,254.0,17.4519,15.0,11299.0,9283.0
+1159,ULTRACEMCO,2023.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,8.02,17.0,9.34,0.2036,13.52,0.6921,1881.0,7188.0,175.0,18.7976,22.0,11058.0,9069.0
+1160,ULTRACEMCO,2024.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,9.879999999999999,18.0,11.63,0.1893,13.9835,0.7035,2109.0,8789.0,243.0,20.8401,29.0,11403.0,10898.0
+1161,UNIONBANK,2013.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,8.53,1.0,12.39,16.6054,0.1817,0.0804,-4588.0,343.0,36.0,2.901,22.0,287589.0,-4245.0
+1162,UNIONBANK,2014.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,5.74,-3.0,9.049999999999999,17.5528,0.1043,0.0828,2207.0,363.0,27.0,2.9578,15.0,327078.0,2570.0
+1163,UNIONBANK,2015.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,5.510000000000001,-3.0,8.9,17.7204,0.1262,0.0839,-3885.0,318.0,28.0,3.1288,22.0,352618.0,-3567.0
+1164,UNIONBANK,2016.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,4.17,-6.0,5.84,16.2597,0.084,0.0793,72.0,9.0,20.0,3.3549,10.0,374754.0,81.0
+1165,UNIONBANK,2017.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,1.75,-15.0,2.38,17.3669,0.0252,0.072,-6904.0,280.0,8.0,3.507,0.0,418420.0,-6624.0
+1166,UNIONBANK,2018.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,-15.82,-36.0,-20.64,18.0567,-0.2658,0.0671,5782.0,315.0,-45.0,2.1601,0.0,455969.0,6097.0
+1167,UNIONBANK,2019.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,-8.52,-25.0,-10.89,17.1702,-0.1489,0.0688,-8075.0,297.0,-17.0,1.5222,0.0,460780.0,-7778.0
+1168,UNIONBANK,2020.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,-8.33,-25.0,-9.180000000000001,14.8617,-0.1445,0.0675,-81.0,4.0,-9.0,0.993,0.0,505150.0,-77.0
+1169,UNIONBANK,2021.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,4.130000000000001,-16.0,4.42,15.1005,0.0734,0.064,19926.0,601.0,4.0,1.0104,0.0,977576.0,20527.0
+1170,UNIONBANK,2022.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,7.720000000000001,-6.0,7.430000000000001,15.3203,0.2317,0.0572,35781.0,558.0,8.0,1.0367,25.0,1085613.0,36339.0
+1171,UNIONBANK,2023.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,10.49,-4.0,10.8,14.7589,0.2684,0.063,3495.0,2561.0,12.0,1.1529,24.0,1163059.0,6056.0
+1172,UNIONBANK,2024.0,,,,,,,,,,,,,invalid_company_reference,financial_ratios.xlsx,,,,,,,,,,,,,,,,,,,,,,13.75,5.0,14.14,12.8237,0.3536,0.0716,18536.0,1394.0,18.0,1.2785,20.0,1251568.0,19930.0

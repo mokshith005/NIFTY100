@@ -49,6 +49,8 @@ def normalize_ticker(value):
         " reliance "  -> "RELIANCE"
         "reliance.NS" -> "RELIANCE"
         "TCS.BSE"     -> "TCS"
+        "BAJAJ-AUTO"  -> "BAJAJ-AUTO"
+        "M&M"         -> "M&M"
         "-"           -> None
     """
 
@@ -65,7 +67,9 @@ def normalize_ticker(value):
     if value == "-":
         return None
 
-    if not re.fullmatch(r"[A-Z0-9-]+", value):
+    # Allow letters, numbers, hyphens and ampersands.
+    # Ampersand is required for valid ticker: M&M.
+    if not re.fullmatch(r"[A-Z0-9&-]+", value):
         return None
 
     return value
