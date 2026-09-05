@@ -107,7 +107,7 @@ class PeerPercentileEngine:
             fr.year,
 
             fr.return_on_equity_pct,
-            fr.roce_pct,
+            NULL AS roce_pct,
             fr.net_profit_margin_pct,
             fr.debt_to_equity,
             fr.free_cash_flow_cr,
