@@ -1,0 +1,37 @@
+company_id,previous_year,previous_pattern,latest_year,latest_pattern
+ABB,2023.0,Mixed,2024.0,Reinvestor
+ADANIENSOL,2023.0,Mixed,2024.0,Reinvestor
+ADANIENT,2023.0,Reinvestor,2024.0,Mixed
+ADANIGREEN,2023.0,Reinvestor,2024.0,Mixed
+AXISBANK,2023.0,Mixed,2024.0,Growth Funded by Debt
+BAJAJ-AUTO,2023.0,Liquidating Assets,2024.0,Reinvestor
+BANKBARODA,2023.0,Pre-Revenue,2024.0,Growth Funded by Debt
+BEL,2023.0,Liquidating Assets,2024.0,Reinvestor
+BRITANNIA,2023.0,Reinvestor,2024.0,Liquidating Assets
+CANBK,2023.0,Growth Funded by Debt,2024.0,Reinvestor
+DLF,2023.0,Reinvestor,2024.0,Mixed
+GAIL,2023.0,Mixed,2024.0,Reinvestor
+GODREJCP,2023.0,Reinvestor,2024.0,Mixed
+HAVELLS,2023.0,Liquidating Assets,2024.0,Reinvestor
+HDFCBANK,2023.0,Mixed,2024.0,Liquidating Assets
+HDFCLIFE,2023.0,Mixed,2024.0,Reinvestor
+ICICIBANK,2023.0,Growth Funded by Debt,2024.0,Mixed
+ICICIPRULI,2023.0,Reinvestor,2024.0,Mixed
+INDUSINDBK,2023.0,Growth Funded by Debt,2024.0,Pre-Revenue
+IRFC,2023.0,Mixed,2024.0,Reinvestor
+ITC,2023.0,Reinvestor,2024.0,Liquidating Assets
+JINDALSTEL,2023.0,Reinvestor,2024.0,Mixed
+JIOFIN,2023.0,Reinvestor,2024.0,Mixed
+KOTAKBANK,2023.0,Growth Funded by Debt,2024.0,Mixed
+LODHA,2023.0,Liquidating Assets,2024.0,Mixed
+LT,2023.0,Reinvestor,2024.0,Liquidating Assets
+MOTHERSON,2023.0,Reinvestor,2024.0,Mixed
+PNB,2023.0,Mixed,2024.0,Growth Funded by Debt
+RELIANCE,2023.0,Mixed,2024.0,Reinvestor
+SBIN,2023.0,Growth Funded by Debt,2024.0,Reinvestor
+SHRIRAMFIN,2023.0,Distress Signal,2024.0,Growth Funded by Debt
+SUNPHARMA,2023.0,Mixed,2024.0,Reinvestor
+TATACONSUM,2023.0,Reinvestor,2024.0,Mixed
+TATAPOWER,2023.0,Mixed,2024.0,Reinvestor
+TITAN,2023.0,Mixed,2024.0,Reinvestor
+TORNTPHARM,2023.0,Mixed,2024.0,Reinvestor

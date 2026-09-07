@@ -1,1080 +1,1057 @@
-company_id,year,cfo_sign,cfi_sign,cff_sign,pattern_label
-ABB,2012.0,+,-,-,Shareholder Returns
-ABB,2014.0,+,-,-,Shareholder Returns
-ABB,2014.0,0,0,0,Mixed
-ABB,2015.0,+,-,-,Shareholder Returns
-ABB,2015.0,-,-,+,Growth Funded by Debt
-ABB,2016.0,+,-,-,Shareholder Returns
-ABB,2016.0,+,-,-,Shareholder Returns
-ABB,2017.0,+,-,-,Shareholder Returns
-ABB,2017.0,+,-,-,Shareholder Returns
-ABB,2018.0,+,-,-,Shareholder Returns
-ABB,2018.0,+,-,+,Mixed
-ABB,2019.0,+,-,-,Shareholder Returns
-ABB,2019.0,+,-,+,Mixed
-ABB,2020.0,+,-,-,Shareholder Returns
-ABB,2020.0,+,-,+,Mixed
-ABB,2021.0,+,-,-,Shareholder Returns
-ABB,2021.0,+,-,-,Shareholder Returns
-ABB,2022.0,+,-,-,Shareholder Returns
-ABB,2022.0,+,-,-,Shareholder Returns
-ABB,2023.0,+,-,-,Shareholder Returns
-ABB,2023.0,+,-,+,Mixed
-ABB,2024.0,+,-,-,Shareholder Returns
-ABB,2024.0,+,-,-,Shareholder Returns
-ADANIENSOL,2014.0,0,0,0,Mixed
-ADANIENSOL,2015.0,-,-,+,Growth Funded by Debt
-ADANIENSOL,2016.0,+,-,-,Shareholder Returns
-ADANIENSOL,2017.0,+,-,-,Shareholder Returns
-ADANIENSOL,2018.0,+,-,+,Mixed
-ADANIENSOL,2019.0,+,-,+,Mixed
-ADANIENSOL,2020.0,+,-,+,Mixed
-ADANIENSOL,2021.0,+,-,-,Shareholder Returns
-ADANIENSOL,2022.0,+,-,-,Shareholder Returns
-ADANIENSOL,2023.0,+,-,+,Mixed
-ADANIENSOL,2024.0,+,-,-,Shareholder Returns
-ADANIENT,2013.0,+,-,+,Mixed
-ADANIENT,2014.0,+,-,-,Shareholder Returns
-ADANIENT,2015.0,+,-,+,Mixed
-ADANIENT,2016.0,+,-,-,Shareholder Returns
-ADANIENT,2017.0,+,-,+,Mixed
-ADANIENT,2018.0,+,-,+,Mixed
-ADANIENT,2019.0,+,+,-,Liquidating Assets
-ADANIENT,2020.0,+,-,-,Shareholder Returns
-ADANIENT,2021.0,+,-,+,Mixed
-ADANIENT,2022.0,+,-,+,Mixed
-ADANIENT,2023.0,+,-,-,Shareholder Returns
-ADANIENT,2024.0,+,-,+,Mixed
-ADANIGREEN,2017.0,+,-,+,Mixed
-ADANIGREEN,2018.0,+,-,+,Mixed
-ADANIGREEN,2019.0,+,-,+,Mixed
-ADANIGREEN,2020.0,+,-,+,Mixed
-ADANIGREEN,2021.0,+,-,+,Mixed
-ADANIGREEN,2022.0,+,-,+,Mixed
-ADANIGREEN,2023.0,+,-,-,Reinvestor
-ADANIGREEN,2024.0,+,-,+,Mixed
-ADANIPORTS,2013.0,+,-,+,Mixed
-ADANIPORTS,2014.0,+,-,+,Mixed
-ADANIPORTS,2015.0,+,-,-,Shareholder Returns
-ADANIPORTS,2016.0,+,-,+,Mixed
-ADANIPORTS,2017.0,+,-,-,Shareholder Returns
-ADANIPORTS,2018.0,+,-,-,Shareholder Returns
-ADANIPORTS,2019.0,+,-,+,Mixed
-ADANIPORTS,2020.0,+,-,-,Shareholder Returns
-ADANIPORTS,2021.0,+,-,+,Mixed
-ADANIPORTS,2022.0,+,-,-,Shareholder Returns
-ADANIPORTS,2023.0,+,-,-,Shareholder Returns
-ADANIPORTS,2024.0,+,-,-,Shareholder Returns
-ADANIPOWER,2013.0,+,-,+,Mixed
-ADANIPOWER,2014.0,+,-,+,Mixed
-ADANIPOWER,2015.0,+,-,-,Shareholder Returns
-ADANIPOWER,2016.0,+,-,-,Shareholder Returns
-ADANIPOWER,2017.0,+,-,-,Shareholder Returns
-ADANIPOWER,2018.0,+,-,-,Shareholder Returns
-ADANIPOWER,2019.0,+,-,-,Shareholder Returns
-ADANIPOWER,2020.0,+,-,-,Shareholder Returns
-ADANIPOWER,2021.0,+,-,-,Shareholder Returns
-ADANIPOWER,2022.0,+,+,-,Liquidating Assets
-ADANIPOWER,2023.0,+,+,-,Liquidating Assets
-ADANIPOWER,2024.0,+,+,-,Liquidating Assets
-AMBUJACEM,2012.0,+,-,-,Shareholder Returns
-AMBUJACEM,2013.0,+,-,-,Shareholder Returns
-AMBUJACEM,2014.0,+,-,-,Shareholder Returns
-AMBUJACEM,2015.0,+,-,-,Shareholder Returns
-AMBUJACEM,2016.0,+,-,-,Shareholder Returns
-AMBUJACEM,2017.0,+,-,-,Shareholder Returns
-AMBUJACEM,2018.0,+,-,-,Shareholder Returns
-AMBUJACEM,2019.0,+,-,-,Shareholder Returns
-AMBUJACEM,2020.0,+,-,-,Shareholder Returns
-AMBUJACEM,2021.0,+,-,-,Shareholder Returns
-AMBUJACEM,2023.0,+,-,+,Mixed
-AMBUJACEM,2024.0,+,-,+,Mixed
-APOLLOHOSP,2013.0,+,-,+,Mixed
-APOLLOHOSP,2014.0,+,-,-,Shareholder Returns
-APOLLOHOSP,2015.0,+,-,+,Mixed
-APOLLOHOSP,2016.0,+,-,+,Mixed
-APOLLOHOSP,2017.0,+,-,+,Mixed
-APOLLOHOSP,2018.0,+,-,-,Shareholder Returns
-APOLLOHOSP,2019.0,+,-,-,Shareholder Returns
-APOLLOHOSP,2020.0,+,-,-,Shareholder Returns
-APOLLOHOSP,2021.0,+,-,-,Shareholder Returns
-APOLLOHOSP,2022.0,+,-,-,Shareholder Returns
-APOLLOHOSP,2023.0,+,-,-,Shareholder Returns
-APOLLOHOSP,2024.0,+,-,-,Shareholder Returns
-ASIANPAINT,2013.0,+,-,-,Reinvestor
-ASIANPAINT,2014.0,+,-,-,Reinvestor
-ASIANPAINT,2015.0,+,-,-,Reinvestor
-ASIANPAINT,2016.0,+,-,-,Reinvestor
-ASIANPAINT,2017.0,+,-,-,Reinvestor
-ASIANPAINT,2018.0,+,-,-,Reinvestor
-ASIANPAINT,2019.0,+,-,-,Reinvestor
-ASIANPAINT,2020.0,+,-,-,Reinvestor
-ASIANPAINT,2021.0,+,-,-,Reinvestor
-ASIANPAINT,2022.0,+,-,-,Reinvestor
-ASIANPAINT,2023.0,+,-,-,Reinvestor
-ASIANPAINT,2024.0,+,-,-,Reinvestor
-AXISBANK,2013.0,+,-,+,Mixed
-AXISBANK,2014.0,+,-,+,Mixed
-AXISBANK,2015.0,-,-,+,Growth Funded by Debt
-AXISBANK,2016.0,-,+,+,Distress Signal
-AXISBANK,2017.0,+,-,-,Shareholder Returns
-AXISBANK,2018.0,-,-,+,Growth Funded by Debt
-AXISBANK,2019.0,+,-,+,Mixed
-AXISBANK,2020.0,+,-,+,Mixed
-AXISBANK,2021.0,+,-,+,Mixed
-AXISBANK,2022.0,+,-,+,Mixed
-AXISBANK,2023.0,+,-,+,Mixed
-AXISBANK,2024.0,-,-,+,Growth Funded by Debt
-BAJAJ-AUTO,2013.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2013.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2014.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2014.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2015.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2015.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2016.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2016.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2017.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2017.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2018.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2018.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2019.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2019.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2020.0,+,+,-,Liquidating Assets
-BAJAJ-AUTO,2020.0,+,+,-,Liquidating Assets
-BAJAJ-AUTO,2021.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2021.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2022.0,+,+,-,Liquidating Assets
-BAJAJ-AUTO,2022.0,+,+,-,Liquidating Assets
-BAJAJ-AUTO,2023.0,+,+,-,Liquidating Assets
-BAJAJ-AUTO,2023.0,+,+,-,Liquidating Assets
-BAJAJ-AUTO,2024.0,+,-,-,Reinvestor
-BAJAJ-AUTO,2024.0,+,-,-,Reinvestor
-BAJAJFINSV,2013.0,-,+,+,Distress Signal
-BAJAJFINSV,2014.0,-,+,+,Distress Signal
-BAJAJFINSV,2015.0,-,+,+,Distress Signal
-BAJAJFINSV,2016.0,-,-,+,Growth Funded by Debt
-BAJAJFINSV,2017.0,-,+,+,Distress Signal
-BAJAJFINSV,2018.0,-,-,+,Growth Funded by Debt
-BAJAJFINSV,2019.0,-,-,+,Growth Funded by Debt
-BAJAJFINSV,2020.0,-,-,+,Growth Funded by Debt
-BAJAJFINSV,2021.0,+,-,+,Mixed
-BAJAJFINSV,2022.0,-,+,+,Distress Signal
-BAJAJFINSV,2023.0,-,-,+,Growth Funded by Debt
-BAJAJFINSV,2024.0,-,-,+,Growth Funded by Debt
-BAJAJHLDNG,2013.0,+,-,-,Reinvestor
-BAJAJHLDNG,2014.0,+,-,-,Reinvestor
-BAJAJHLDNG,2015.0,+,-,-,Reinvestor
-BAJAJHLDNG,2016.0,+,+,-,Liquidating Assets
-BAJAJHLDNG,2017.0,-,-,-,Pre-Revenue
-BAJAJHLDNG,2018.0,+,-,-,Reinvestor
-BAJAJHLDNG,2019.0,+,-,-,Reinvestor
-BAJAJHLDNG,2020.0,+,-,-,Reinvestor
-BAJAJHLDNG,2021.0,+,-,-,Reinvestor
-BAJAJHLDNG,2022.0,+,-,-,Reinvestor
-BAJAJHLDNG,2023.0,+,-,-,Reinvestor
-BAJAJHLDNG,2024.0,+,-,-,Reinvestor
-BAJFINANCE,2015.0,-,-,+,Growth Funded by Debt
-BAJFINANCE,2016.0,-,-,+,Growth Funded by Debt
-BAJFINANCE,2017.0,-,-,+,Growth Funded by Debt
-BAJFINANCE,2018.0,-,+,+,Distress Signal
-BAJFINANCE,2019.0,-,-,+,Growth Funded by Debt
-BAJFINANCE,2020.0,-,-,+,Growth Funded by Debt
-BAJFINANCE,2021.0,-,-,+,Growth Funded by Debt
-BAJFINANCE,2022.0,-,+,+,Distress Signal
-BAJFINANCE,2023.0,-,-,+,Growth Funded by Debt
-BAJFINANCE,2024.0,-,-,+,Growth Funded by Debt
-BANKBARODA,2013.0,+,-,-,Shareholder Returns
-BANKBARODA,2014.0,+,-,+,Mixed
-BANKBARODA,2015.0,+,-,-,Shareholder Returns
-BANKBARODA,2016.0,-,-,-,Pre-Revenue
-BANKBARODA,2017.0,+,-,-,Shareholder Returns
-BANKBARODA,2018.0,-,-,+,Growth Funded by Debt
-BANKBARODA,2019.0,-,-,+,Growth Funded by Debt
-BANKBARODA,2020.0,+,-,+,Mixed
-BANKBARODA,2021.0,-,-,-,Pre-Revenue
-BANKBARODA,2022.0,+,-,-,Shareholder Returns
-BANKBARODA,2023.0,-,-,-,Pre-Revenue
-BANKBARODA,2024.0,-,-,+,Growth Funded by Debt
-BEL,2013.0,-,+,-,Mixed
-BEL,2014.0,-,+,-,Mixed
-BEL,2015.0,+,-,-,Shareholder Returns
-BEL,2016.0,+,-,-,Shareholder Returns
-BEL,2017.0,-,+,-,Mixed
-BEL,2018.0,-,-,-,Pre-Revenue
-BEL,2019.0,+,-,-,Shareholder Returns
-BEL,2020.0,+,-,-,Shareholder Returns
-BEL,2021.0,+,-,-,Shareholder Returns
-BEL,2022.0,+,-,-,Shareholder Returns
-BEL,2023.0,+,+,-,Liquidating Assets
-BEL,2024.0,+,-,-,Shareholder Returns
-BHARTIARTL,2013.0,+,-,-,Shareholder Returns
-BHARTIARTL,2014.0,+,-,+,Mixed
-BHARTIARTL,2015.0,+,-,-,Shareholder Returns
-BHARTIARTL,2016.0,+,-,-,Shareholder Returns
-BHARTIARTL,2017.0,+,-,-,Shareholder Returns
-BHARTIARTL,2018.0,+,-,+,Mixed
-BHARTIARTL,2019.0,+,-,+,Mixed
-BHARTIARTL,2020.0,+,-,+,Mixed
-BHARTIARTL,2021.0,+,-,-,Shareholder Returns
-BHARTIARTL,2022.0,+,-,-,Shareholder Returns
-BHARTIARTL,2023.0,+,-,-,Shareholder Returns
-BHARTIARTL,2024.0,+,-,-,Shareholder Returns
-BHEL,2013.0,+,-,+,Mixed
-BHEL,2014.0,+,-,+,Mixed
-BHEL,2015.0,+,+,-,Liquidating Assets
-BHEL,2016.0,+,+,-,Liquidating Assets
-BHEL,2017.0,+,-,-,Reinvestor
-BHEL,2018.0,+,+,-,Liquidating Assets
-BHEL,2019.0,-,+,-,Mixed
-BHEL,2020.0,-,+,+,Distress Signal
-BHEL,2021.0,+,-,-,Reinvestor
-BHEL,2022.0,+,-,-,Reinvestor
-BHEL,2023.0,-,+,+,Distress Signal
-BHEL,2024.0,-,+,+,Distress Signal
-BOSCHLTD,2012.0,+,-,-,Shareholder Returns
-BOSCHLTD,2013.0,+,-,-,Shareholder Returns
-BOSCHLTD,2015.0,+,-,-,Shareholder Returns
-BOSCHLTD,2016.0,+,-,-,Shareholder Returns
-BOSCHLTD,2017.0,+,+,-,Liquidating Assets
-BOSCHLTD,2018.0,+,-,-,Shareholder Returns
-BOSCHLTD,2019.0,+,+,-,Liquidating Assets
-BOSCHLTD,2020.0,+,-,-,Shareholder Returns
-BOSCHLTD,2021.0,+,-,-,Shareholder Returns
-BOSCHLTD,2022.0,+,-,-,Shareholder Returns
-BOSCHLTD,2023.0,+,+,-,Liquidating Assets
-BOSCHLTD,2024.0,+,+,-,Liquidating Assets
-BPCL,2013.0,+,-,-,Shareholder Returns
-BPCL,2014.0,+,-,-,Shareholder Returns
-BPCL,2015.0,+,-,-,Shareholder Returns
-BPCL,2016.0,+,-,-,Shareholder Returns
-BPCL,2017.0,+,-,+,Mixed
-BPCL,2018.0,+,-,-,Shareholder Returns
-BPCL,2019.0,+,-,+,Mixed
-BPCL,2020.0,+,-,+,Mixed
-BPCL,2021.0,+,-,-,Shareholder Returns
-BPCL,2022.0,+,-,-,Shareholder Returns
-BPCL,2023.0,+,-,-,Shareholder Returns
-BPCL,2024.0,+,-,-,Shareholder Returns
-BRITANNIA,2013.0,+,+,-,Liquidating Assets
-BRITANNIA,2014.0,+,-,-,Shareholder Returns
-BRITANNIA,2015.0,+,-,-,Shareholder Returns
-BRITANNIA,2016.0,+,-,-,Shareholder Returns
-BRITANNIA,2017.0,+,-,-,Shareholder Returns
-BRITANNIA,2018.0,+,-,-,Shareholder Returns
-BRITANNIA,2019.0,+,-,-,Shareholder Returns
-BRITANNIA,2020.0,+,-,+,Mixed
-BRITANNIA,2021.0,+,+,-,Liquidating Assets
-BRITANNIA,2022.0,+,+,-,Liquidating Assets
-BRITANNIA,2023.0,+,-,-,Shareholder Returns
-BRITANNIA,2024.0,+,+,-,Liquidating Assets
-CANBK,2013.0,+,-,-,Shareholder Returns
-CANBK,2014.0,+,-,-,Shareholder Returns
-CANBK,2015.0,+,-,-,Shareholder Returns
-CANBK,2016.0,+,-,-,Shareholder Returns
-CANBK,2017.0,+,-,+,Mixed
-CANBK,2018.0,-,-,+,Growth Funded by Debt
-CANBK,2019.0,+,-,-,Shareholder Returns
-CANBK,2020.0,-,-,+,Growth Funded by Debt
-CANBK,2021.0,+,-,+,Mixed
-CANBK,2022.0,+,-,+,Mixed
-CANBK,2023.0,-,-,+,Growth Funded by Debt
-CANBK,2024.0,+,-,-,Shareholder Returns
-CHOLAFIN,2013.0,-,+,+,Distress Signal
-CHOLAFIN,2014.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2015.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2016.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2017.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2018.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2019.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2020.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2021.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2022.0,-,+,+,Distress Signal
-CHOLAFIN,2023.0,-,-,+,Growth Funded by Debt
-CHOLAFIN,2024.0,-,-,+,Growth Funded by Debt
-CIPLA,2013.0,+,-,+,Mixed
-CIPLA,2014.0,+,-,-,Shareholder Returns
-CIPLA,2015.0,+,-,+,Mixed
-CIPLA,2016.0,+,-,+,Mixed
-CIPLA,2017.0,+,-,-,Shareholder Returns
-CIPLA,2018.0,+,-,-,Shareholder Returns
-CIPLA,2019.0,+,-,-,Shareholder Returns
-CIPLA,2020.0,+,+,-,Liquidating Assets
-CIPLA,2021.0,+,-,-,Shareholder Returns
-CIPLA,2022.0,+,-,-,Shareholder Returns
-CIPLA,2023.0,+,-,-,Shareholder Returns
-CIPLA,2024.0,+,-,-,Shareholder Returns
-COALINDIA,2013.0,+,-,-,Shareholder Returns
-COALINDIA,2014.0,+,+,-,Liquidating Assets
-COALINDIA,2015.0,+,+,-,Liquidating Assets
-COALINDIA,2016.0,+,+,-,Liquidating Assets
-COALINDIA,2017.0,+,+,-,Liquidating Assets
-COALINDIA,2018.0,+,-,-,Shareholder Returns
-COALINDIA,2019.0,+,-,-,Shareholder Returns
-COALINDIA,2020.0,+,+,-,Liquidating Assets
-COALINDIA,2021.0,+,+,-,Liquidating Assets
-COALINDIA,2022.0,+,-,-,Shareholder Returns
-COALINDIA,2023.0,+,-,-,Shareholder Returns
-COALINDIA,2024.0,+,-,-,Shareholder Returns
-DABUR,2013.0,+,-,-,Shareholder Returns
-DABUR,2014.0,+,-,-,Shareholder Returns
-DABUR,2015.0,+,-,-,Shareholder Returns
-DABUR,2016.0,+,-,-,Shareholder Returns
-DABUR,2017.0,+,-,-,Shareholder Returns
-DABUR,2018.0,+,-,-,Shareholder Returns
-DABUR,2019.0,+,+,-,Liquidating Assets
-DABUR,2020.0,+,-,-,Shareholder Returns
-DABUR,2021.0,+,-,-,Shareholder Returns
-DABUR,2022.0,+,-,-,Shareholder Returns
-DABUR,2023.0,+,-,-,Shareholder Returns
-DABUR,2024.0,+,-,-,Shareholder Returns
-DIVISLAB,2013.0,+,-,-,Reinvestor
-DIVISLAB,2014.0,+,-,-,Reinvestor
-DIVISLAB,2015.0,+,-,-,Reinvestor
-DIVISLAB,2016.0,+,-,-,Reinvestor
-DIVISLAB,2017.0,+,-,+,Mixed
-DIVISLAB,2018.0,+,-,-,Reinvestor
-DIVISLAB,2019.0,+,-,-,Reinvestor
-DIVISLAB,2020.0,+,-,-,Reinvestor
-DIVISLAB,2021.0,+,+,-,Liquidating Assets
-DIVISLAB,2022.0,+,-,-,Reinvestor
-DIVISLAB,2023.0,+,-,-,Reinvestor
-DIVISLAB,2024.0,+,-,-,Reinvestor
-DLF,2013.0,+,+,-,Liquidating Assets
-DLF,2014.0,+,+,-,Liquidating Assets
-DLF,2015.0,+,+,-,Liquidating Assets
-DLF,2016.0,+,-,-,Reinvestor
-DLF,2017.0,-,+,+,Distress Signal
-DLF,2018.0,+,-,-,Reinvestor
-DLF,2019.0,+,+,+,Cash Accumulator
-DLF,2020.0,+,+,-,Liquidating Assets
-DLF,2021.0,+,+,-,Liquidating Assets
-DLF,2022.0,+,+,-,Liquidating Assets
-DLF,2023.0,+,-,-,Reinvestor
-DLF,2024.0,+,-,+,Mixed
-DMART,2013.0,+,-,+,Mixed
-DMART,2014.0,+,-,+,Mixed
-DMART,2015.0,+,-,+,Mixed
-DMART,2016.0,+,-,+,Mixed
-DMART,2017.0,+,-,+,Mixed
-DMART,2018.0,+,+,-,Liquidating Assets
-DMART,2019.0,+,-,+,Mixed
-DMART,2020.0,+,-,+,Mixed
-DMART,2021.0,+,-,-,Shareholder Returns
-DMART,2022.0,+,-,-,Shareholder Returns
-DMART,2023.0,+,-,-,Shareholder Returns
-DMART,2024.0,+,-,-,Shareholder Returns
-DRREDDY,2013.0,+,-,-,Shareholder Returns
-DRREDDY,2014.0,+,-,-,Shareholder Returns
-DRREDDY,2015.0,+,-,-,Shareholder Returns
-DRREDDY,2016.0,+,-,-,Shareholder Returns
-DRREDDY,2017.0,+,-,-,Shareholder Returns
-DRREDDY,2018.0,+,-,-,Shareholder Returns
-DRREDDY,2019.0,+,-,-,Shareholder Returns
-DRREDDY,2020.0,+,-,-,Shareholder Returns
-DRREDDY,2021.0,+,-,-,Shareholder Returns
-DRREDDY,2022.0,+,-,-,Shareholder Returns
-DRREDDY,2023.0,+,-,-,Shareholder Returns
-DRREDDY,2024.0,+,-,-,Shareholder Returns
-EICHERMOT,2012.0,+,-,-,Reinvestor
-EICHERMOT,2013.0,+,-,-,Reinvestor
-EICHERMOT,2014.0,+,-,-,Reinvestor
-EICHERMOT,2016.0,+,-,-,Reinvestor
-EICHERMOT,2017.0,+,-,+,Mixed
-EICHERMOT,2018.0,+,-,-,Reinvestor
-EICHERMOT,2019.0,+,-,-,Reinvestor
-EICHERMOT,2020.0,+,-,-,Reinvestor
-EICHERMOT,2021.0,+,-,-,Reinvestor
-EICHERMOT,2022.0,+,-,-,Reinvestor
-EICHERMOT,2023.0,+,-,-,Reinvestor
-EICHERMOT,2024.0,+,-,-,Reinvestor
-GAIL,2013.0,+,-,+,Mixed
-GAIL,2014.0,+,-,-,Reinvestor
-GAIL,2015.0,+,-,-,Reinvestor
-GAIL,2016.0,+,-,-,Reinvestor
-GAIL,2017.0,+,-,-,Reinvestor
-GAIL,2018.0,+,-,-,Reinvestor
-GAIL,2019.0,+,-,-,Reinvestor
-GAIL,2020.0,+,-,+,Mixed
-GAIL,2021.0,+,-,-,Reinvestor
-GAIL,2022.0,+,-,-,Reinvestor
-GAIL,2023.0,+,-,+,Mixed
-GAIL,2024.0,+,-,-,Reinvestor
-GODREJCP,2013.0,+,-,+,Mixed
-GODREJCP,2014.0,+,-,-,Reinvestor
-GODREJCP,2015.0,+,-,-,Reinvestor
-GODREJCP,2016.0,+,-,-,Reinvestor
-GODREJCP,2017.0,+,-,+,Mixed
-GODREJCP,2018.0,+,-,-,Reinvestor
-GODREJCP,2019.0,+,+,-,Liquidating Assets
-GODREJCP,2020.0,+,-,-,Reinvestor
-GODREJCP,2021.0,+,-,-,Reinvestor
-GODREJCP,2022.0,+,-,-,Reinvestor
-GODREJCP,2023.0,+,-,-,Reinvestor
-GODREJCP,2024.0,+,-,+,Mixed
-GRASIM,2013.0,+,-,+,Mixed
-GRASIM,2014.0,+,-,-,Reinvestor
-GRASIM,2015.0,+,-,-,Reinvestor
-GRASIM,2016.0,+,-,-,Reinvestor
-GRASIM,2017.0,+,-,-,Reinvestor
-GRASIM,2018.0,-,+,+,Distress Signal
-GRASIM,2019.0,-,-,+,Growth Funded by Debt
-GRASIM,2020.0,+,-,-,Reinvestor
-GRASIM,2021.0,+,-,-,Reinvestor
-GRASIM,2022.0,+,-,-,Reinvestor
-GRASIM,2023.0,-,-,+,Growth Funded by Debt
-GRASIM,2024.0,-,-,+,Growth Funded by Debt
-HAL,2017.0,-,+,-,Mixed
-HAL,2018.0,-,+,-,Mixed
-HAL,2019.0,-,+,+,Distress Signal
-HAL,2020.0,+,-,+,Mixed
-HAL,2021.0,+,-,-,Shareholder Returns
-HAL,2022.0,+,-,-,Shareholder Returns
-HAL,2023.0,+,-,-,Shareholder Returns
-HAL,2024.0,+,-,-,Shareholder Returns
-HAVELLS,2013.0,+,-,-,Shareholder Returns
-HAVELLS,2014.0,+,-,-,Shareholder Returns
-HAVELLS,2015.0,+,-,-,Shareholder Returns
-HAVELLS,2016.0,+,-,-,Shareholder Returns
-HAVELLS,2017.0,+,-,-,Shareholder Returns
-HAVELLS,2018.0,+,-,-,Shareholder Returns
-HAVELLS,2019.0,+,+,-,Liquidating Assets
-HAVELLS,2020.0,+,-,-,Shareholder Returns
-HAVELLS,2021.0,+,-,+,Mixed
-HAVELLS,2022.0,+,-,-,Shareholder Returns
-HAVELLS,2023.0,+,+,-,Liquidating Assets
-HAVELLS,2024.0,+,-,-,Shareholder Returns
-HCLTECH,2013.0,+,-,-,Shareholder Returns
-HCLTECH,2014.0,+,-,-,Shareholder Returns
-HCLTECH,2015.0,+,-,-,Shareholder Returns
-HCLTECH,2016.0,+,-,-,Shareholder Returns
-HCLTECH,2017.0,+,-,-,Shareholder Returns
-HCLTECH,2018.0,+,-,-,Shareholder Returns
-HCLTECH,2019.0,+,-,-,Shareholder Returns
-HCLTECH,2020.0,+,-,-,Shareholder Returns
-HCLTECH,2021.0,+,-,-,Shareholder Returns
-HCLTECH,2022.0,+,+,-,Liquidating Assets
-HCLTECH,2023.0,+,-,-,Shareholder Returns
-HCLTECH,2024.0,+,-,-,Shareholder Returns
-HDFCBANK,2013.0,-,-,+,Growth Funded by Debt
-HDFCBANK,2014.0,+,-,+,Mixed
-HDFCBANK,2015.0,-,-,+,Growth Funded by Debt
-HDFCBANK,2016.0,-,-,+,Growth Funded by Debt
-HDFCBANK,2017.0,+,-,-,Reinvestor
-HDFCBANK,2018.0,+,-,+,Mixed
-HDFCBANK,2019.0,-,-,+,Growth Funded by Debt
-HDFCBANK,2020.0,-,-,+,Growth Funded by Debt
-HDFCBANK,2021.0,+,-,-,Reinvestor
-HDFCBANK,2022.0,-,-,+,Growth Funded by Debt
-HDFCBANK,2023.0,+,-,+,Mixed
-HDFCBANK,2024.0,+,+,-,Liquidating Assets
-HDFCLIFE,2013.0,0,0,0,Pre-Revenue
-HDFCLIFE,2014.0,0,0,0,Pre-Revenue
-HDFCLIFE,2015.0,+,-,-,Shareholder Returns
-HDFCLIFE,2016.0,+,-,-,Shareholder Returns
-HDFCLIFE,2017.0,+,-,-,Shareholder Returns
-HDFCLIFE,2018.0,+,-,-,Shareholder Returns
-HDFCLIFE,2019.0,+,-,-,Shareholder Returns
-HDFCLIFE,2020.0,+,-,+,Mixed
-HDFCLIFE,2021.0,+,-,+,Mixed
-HDFCLIFE,2022.0,+,-,-,Shareholder Returns
-HDFCLIFE,2023.0,+,-,+,Mixed
-HDFCLIFE,2024.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2014.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2015.0,+,+,-,Liquidating Assets
-HEROMOTOCO,2016.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2017.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2018.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2019.0,+,+,-,Liquidating Assets
-HEROMOTOCO,2020.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2021.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2022.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2023.0,+,-,-,Shareholder Returns
-HEROMOTOCO,2024.0,+,-,-,Shareholder Returns
-HINDALCO,2013.0,+,-,+,Mixed
-HINDALCO,2014.0,+,-,+,Mixed
-HINDALCO,2015.0,+,-,-,Shareholder Returns
-HINDALCO,2016.0,+,-,-,Shareholder Returns
-HINDALCO,2017.0,+,-,-,Shareholder Returns
-HINDALCO,2018.0,+,+,-,Liquidating Assets
-HINDALCO,2019.0,+,-,-,Shareholder Returns
-HINDALCO,2020.0,+,-,+,Mixed
-HINDALCO,2021.0,+,-,-,Shareholder Returns
-HINDALCO,2022.0,+,-,-,Shareholder Returns
-HINDALCO,2023.0,+,-,-,Shareholder Returns
-HINDALCO,2024.0,+,-,-,Shareholder Returns
-HINDUNILVR,2013.0,+,+,-,Liquidating Assets
-HINDUNILVR,2014.0,+,-,-,Shareholder Returns
-HINDUNILVR,2015.0,+,+,-,Liquidating Assets
-HINDUNILVR,2016.0,+,-,-,Shareholder Returns
-HINDUNILVR,2017.0,+,-,-,Shareholder Returns
-HINDUNILVR,2018.0,+,-,-,Shareholder Returns
-HINDUNILVR,2019.0,+,-,-,Shareholder Returns
-HINDUNILVR,2020.0,+,+,-,Liquidating Assets
-HINDUNILVR,2021.0,+,-,-,Shareholder Returns
-HINDUNILVR,2022.0,+,-,-,Shareholder Returns
-HINDUNILVR,2023.0,+,-,-,Shareholder Returns
-HINDUNILVR,2024.0,+,-,-,Shareholder Returns
-ICICIBANK,2013.0,+,-,+,Mixed
-ICICIBANK,2014.0,+,-,+,Mixed
-ICICIBANK,2015.0,-,-,+,Growth Funded by Debt
-ICICIBANK,2016.0,+,-,+,Mixed
-ICICIBANK,2017.0,+,-,-,Shareholder Returns
-ICICIBANK,2018.0,+,-,+,Mixed
-ICICIBANK,2019.0,+,-,-,Shareholder Returns
-ICICIBANK,2020.0,+,-,+,Mixed
-ICICIBANK,2021.0,+,-,-,Shareholder Returns
-ICICIBANK,2022.0,+,-,+,Mixed
-ICICIBANK,2023.0,-,-,+,Growth Funded by Debt
-ICICIBANK,2024.0,+,-,+,Mixed
-ICICIGI,2013.0,+,-,+,Mixed
-ICICIGI,2014.0,+,-,+,Mixed
-ICICIGI,2015.0,-,+,-,Mixed
-ICICIGI,2016.0,+,-,-,Shareholder Returns
-ICICIGI,2017.0,+,-,+,Mixed
-ICICIGI,2018.0,+,-,-,Shareholder Returns
-ICICIGI,2019.0,+,-,-,Shareholder Returns
-ICICIGI,2020.0,+,-,-,Shareholder Returns
-ICICIGI,2021.0,+,-,-,Shareholder Returns
-ICICIGI,2022.0,+,+,-,Liquidating Assets
-ICICIGI,2023.0,+,-,-,Shareholder Returns
-ICICIGI,2024.0,+,-,-,Shareholder Returns
-ICICIPRULI,2013.0,-,+,-,Mixed
-ICICIPRULI,2014.0,-,+,-,Mixed
-ICICIPRULI,2015.0,+,-,-,Shareholder Returns
-ICICIPRULI,2016.0,+,+,-,Liquidating Assets
-ICICIPRULI,2017.0,+,-,-,Shareholder Returns
-ICICIPRULI,2018.0,+,-,-,Shareholder Returns
-ICICIPRULI,2019.0,+,-,-,Shareholder Returns
-ICICIPRULI,2020.0,+,-,-,Shareholder Returns
-ICICIPRULI,2021.0,+,-,+,Mixed
-ICICIPRULI,2022.0,+,-,-,Shareholder Returns
-ICICIPRULI,2023.0,+,-,-,Shareholder Returns
-ICICIPRULI,2024.0,-,+,-,Mixed
-INDIGO,2013.0,+,-,+,Mixed
-INDIGO,2014.0,+,-,+,Mixed
-INDIGO,2015.0,+,-,-,Reinvestor
-INDIGO,2016.0,+,-,-,Reinvestor
-INDIGO,2017.0,+,-,-,Reinvestor
-INDIGO,2018.0,+,-,+,Mixed
-INDIGO,2019.0,+,-,-,Reinvestor
-INDIGO,2020.0,+,-,-,Reinvestor
-INDIGO,2021.0,-,+,-,Mixed
-INDIGO,2022.0,+,+,-,Liquidating Assets
-INDIGO,2023.0,+,-,-,Reinvestor
-INDIGO,2024.0,+,-,-,Reinvestor
-INDUSINDBK,2013.0,-,-,+,Growth Funded by Debt
-INDUSINDBK,2014.0,-,-,+,Growth Funded by Debt
-INDUSINDBK,2015.0,-,-,+,Growth Funded by Debt
-INDUSINDBK,2016.0,-,-,+,Growth Funded by Debt
-INDUSINDBK,2017.0,+,-,-,Shareholder Returns
-INDUSINDBK,2018.0,-,-,+,Growth Funded by Debt
-INDUSINDBK,2019.0,-,-,+,Growth Funded by Debt
-INDUSINDBK,2020.0,-,+,+,Distress Signal
-INDUSINDBK,2021.0,+,-,-,Shareholder Returns
-INDUSINDBK,2022.0,+,-,-,Shareholder Returns
-INDUSINDBK,2023.0,-,-,+,Growth Funded by Debt
-INDUSINDBK,2024.0,-,-,-,Pre-Revenue
-INFY,2013.0,+,-,-,Shareholder Returns
-INFY,2014.0,+,-,-,Shareholder Returns
-INFY,2015.0,+,+,-,Liquidating Assets
-INFY,2016.0,+,-,-,Shareholder Returns
-INFY,2017.0,+,-,-,Shareholder Returns
-INFY,2018.0,+,+,-,Liquidating Assets
-INFY,2019.0,+,-,-,Shareholder Returns
-INFY,2020.0,+,-,-,Shareholder Returns
-INFY,2021.0,+,-,-,Shareholder Returns
-INFY,2022.0,+,-,-,Shareholder Returns
-INFY,2023.0,+,-,-,Shareholder Returns
-INFY,2024.0,+,-,-,Shareholder Returns
-IOC,2013.0,+,-,+,Mixed
-IOC,2014.0,+,-,-,Reinvestor
-IOC,2015.0,+,-,-,Reinvestor
-IOC,2016.0,+,-,-,Reinvestor
-IOC,2017.0,+,-,-,Reinvestor
-IOC,2018.0,+,-,-,Reinvestor
-IOC,2019.0,+,-,+,Mixed
-IOC,2020.0,+,-,+,Mixed
-IOC,2021.0,+,-,-,Reinvestor
-IOC,2022.0,+,-,-,Reinvestor
-IOC,2023.0,+,-,-,Reinvestor
-IOC,2024.0,+,-,-,Reinvestor
-IRCTC,2015.0,+,-,-,Reinvestor
-IRCTC,2016.0,+,+,-,Liquidating Assets
-IRCTC,2017.0,+,+,-,Liquidating Assets
-IRCTC,2018.0,+,+,-,Liquidating Assets
-IRCTC,2019.0,+,-,-,Reinvestor
-IRCTC,2020.0,+,+,-,Liquidating Assets
-IRCTC,2021.0,+,-,-,Reinvestor
-IRCTC,2022.0,+,-,-,Reinvestor
-IRCTC,2023.0,+,-,-,Reinvestor
-IRCTC,2024.0,+,-,-,Reinvestor
-IRFC,2016.0,-,+,+,Distress Signal
-IRFC,2017.0,-,+,+,Distress Signal
-IRFC,2018.0,-,+,+,Distress Signal
-IRFC,2019.0,-,+,+,Distress Signal
-IRFC,2020.0,-,+,+,Distress Signal
-IRFC,2021.0,-,0,+,Mixed
-IRFC,2022.0,-,-,+,Growth Funded by Debt
-IRFC,2023.0,-,0,+,Mixed
-IRFC,2024.0,+,-,-,Reinvestor
-ITC,2013.0,+,-,-,Reinvestor
-ITC,2014.0,+,-,-,Reinvestor
-ITC,2015.0,+,-,-,Reinvestor
-ITC,2016.0,+,-,-,Reinvestor
-ITC,2017.0,+,-,-,Reinvestor
-ITC,2018.0,+,-,-,Reinvestor
-ITC,2019.0,+,-,-,Reinvestor
-ITC,2020.0,+,-,-,Reinvestor
-ITC,2021.0,+,+,-,Liquidating Assets
-ITC,2022.0,+,-,-,Reinvestor
-ITC,2023.0,+,-,-,Reinvestor
-ITC,2024.0,+,+,-,Liquidating Assets
-JINDALSTEL,2013.0,+,-,+,Mixed
-JINDALSTEL,2014.0,+,-,+,Mixed
-JINDALSTEL,2015.0,+,-,+,Mixed
-JINDALSTEL,2016.0,+,-,-,Reinvestor
-JINDALSTEL,2017.0,+,-,-,Reinvestor
-JINDALSTEL,2018.0,+,-,-,Reinvestor
-JINDALSTEL,2019.0,+,-,-,Reinvestor
-JINDALSTEL,2020.0,+,-,-,Reinvestor
-JINDALSTEL,2021.0,+,-,-,Reinvestor
-JINDALSTEL,2022.0,+,-,-,Reinvestor
-JINDALSTEL,2023.0,+,-,-,Reinvestor
-JINDALSTEL,2024.0,+,-,+,Mixed
-JIOFIN,2023.0,+,-,-,Shareholder Returns
-JIOFIN,2024.0,-,+,-,Mixed
-JSWENERGY,2013.0,+,-,-,Shareholder Returns
-JSWENERGY,2014.0,+,-,-,Shareholder Returns
-JSWENERGY,2015.0,+,-,-,Shareholder Returns
-JSWENERGY,2016.0,+,-,-,Shareholder Returns
-JSWENERGY,2017.0,+,-,-,Shareholder Returns
-JSWENERGY,2018.0,+,-,-,Shareholder Returns
-JSWENERGY,2019.0,+,-,-,Shareholder Returns
-JSWENERGY,2020.0,+,+,-,Liquidating Assets
-JSWENERGY,2021.0,+,-,-,Shareholder Returns
-JSWENERGY,2022.0,+,-,-,Shareholder Returns
-JSWENERGY,2023.0,+,-,+,Mixed
-JSWENERGY,2024.0,+,-,+,Mixed
-JSWSTEEL,2013.0,+,-,-,Shareholder Returns
-JSWSTEEL,2014.0,+,-,+,Mixed
-JSWSTEEL,2015.0,+,-,-,Shareholder Returns
-JSWSTEEL,2016.0,+,-,-,Shareholder Returns
-JSWSTEEL,2017.0,+,-,-,Shareholder Returns
-JSWSTEEL,2018.0,+,-,-,Shareholder Returns
-JSWSTEEL,2019.0,+,-,+,Mixed
-JSWSTEEL,2020.0,+,-,+,Mixed
-JSWSTEEL,2021.0,+,-,-,Shareholder Returns
-JSWSTEEL,2022.0,+,-,-,Shareholder Returns
-JSWSTEEL,2023.0,+,-,-,Shareholder Returns
-JSWSTEEL,2024.0,+,-,-,Shareholder Returns
-KOTAKBANK,2013.0,+,-,+,Mixed
-KOTAKBANK,2014.0,+,-,-,Shareholder Returns
-KOTAKBANK,2015.0,+,-,+,Mixed
-KOTAKBANK,2016.0,+,-,+,Mixed
-KOTAKBANK,2017.0,+,-,+,Mixed
-KOTAKBANK,2018.0,-,-,+,Growth Funded by Debt
-KOTAKBANK,2019.0,+,-,+,Mixed
-KOTAKBANK,2020.0,+,-,-,Shareholder Returns
-KOTAKBANK,2021.0,+,-,-,Shareholder Returns
-KOTAKBANK,2022.0,+,-,+,Mixed
-KOTAKBANK,2023.0,-,-,+,Growth Funded by Debt
-KOTAKBANK,2024.0,+,-,+,Mixed
-LICI,2019.0,+,+,-,Liquidating Assets
-LICI,2020.0,+,-,-,Shareholder Returns
-LICI,2021.0,+,+,-,Liquidating Assets
-LICI,2022.0,-,+,0,Mixed
-LICI,2023.0,+,-,-,Shareholder Returns
-LICI,2024.0,+,-,-,Shareholder Returns
-LODHA,2016.0,+,-,+,Mixed
-LODHA,2017.0,+,-,-,Shareholder Returns
-LODHA,2018.0,+,-,+,Mixed
-LODHA,2019.0,-,-,+,Growth Funded by Debt
-LODHA,2020.0,+,+,-,Liquidating Assets
-LODHA,2021.0,+,+,-,Liquidating Assets
-LODHA,2022.0,+,+,-,Liquidating Assets
-LODHA,2023.0,+,+,-,Liquidating Assets
-LODHA,2024.0,+,-,+,Mixed
-LT,2013.0,-,-,+,Growth Funded by Debt
-LT,2014.0,-,-,+,Growth Funded by Debt
-LT,2015.0,-,-,+,Growth Funded by Debt
-LT,2016.0,-,-,+,Growth Funded by Debt
-LT,2017.0,+,-,+,Mixed
-LT,2018.0,-,+,+,Distress Signal
-LT,2019.0,-,-,+,Growth Funded by Debt
-LT,2020.0,+,-,+,Mixed
-LT,2021.0,+,-,-,Shareholder Returns
-LT,2022.0,+,-,-,Shareholder Returns
-LT,2023.0,+,-,-,Shareholder Returns
-LT,2024.0,+,+,-,Liquidating Assets
-LTIM,2013.0,+,-,-,Shareholder Returns
-LTIM,2014.0,+,+,-,Liquidating Assets
-LTIM,2015.0,+,-,-,Shareholder Returns
-LTIM,2016.0,+,-,-,Shareholder Returns
-LTIM,2017.0,+,-,-,Shareholder Returns
-LTIM,2018.0,+,-,-,Shareholder Returns
-LTIM,2019.0,+,-,-,Shareholder Returns
-LTIM,2020.0,+,-,-,Shareholder Returns
-LTIM,2021.0,+,-,-,Shareholder Returns
-LTIM,2022.0,+,-,-,Shareholder Returns
-LTIM,2023.0,+,-,-,Shareholder Returns
-LTIM,2024.0,+,-,-,Shareholder Returns
-MARUTI,2013.0,+,-,-,Shareholder Returns
-MARUTI,2014.0,+,-,-,Shareholder Returns
-MARUTI,2015.0,+,-,-,Shareholder Returns
-MARUTI,2016.0,+,-,-,Shareholder Returns
-MARUTI,2017.0,+,-,-,Shareholder Returns
-MARUTI,2018.0,+,-,-,Shareholder Returns
-MARUTI,2019.0,+,-,-,Shareholder Returns
-MARUTI,2020.0,+,-,-,Shareholder Returns
-MARUTI,2021.0,+,-,-,Shareholder Returns
-MARUTI,2022.0,+,-,-,Shareholder Returns
-MARUTI,2023.0,+,-,-,Shareholder Returns
-MARUTI,2024.0,+,-,-,Shareholder Returns
-MOTHERSON,2013.0,+,-,-,Shareholder Returns
-MOTHERSON,2014.0,+,-,-,Shareholder Returns
-MOTHERSON,2015.0,+,-,+,Mixed
-MOTHERSON,2016.0,+,-,-,Shareholder Returns
-MOTHERSON,2017.0,+,-,+,Mixed
-MOTHERSON,2018.0,+,-,-,Shareholder Returns
-MOTHERSON,2019.0,+,-,-,Shareholder Returns
-MOTHERSON,2020.0,+,-,-,Shareholder Returns
-MOTHERSON,2021.0,+,-,-,Shareholder Returns
-MOTHERSON,2022.0,+,-,-,Shareholder Returns
-MOTHERSON,2023.0,+,-,-,Shareholder Returns
-MOTHERSON,2024.0,+,-,+,Mixed
-NAUKRI,2013.0,+,-,-,Reinvestor
-NAUKRI,2014.0,+,-,+,Mixed
-NAUKRI,2015.0,+,-,+,Mixed
-NAUKRI,2016.0,+,-,-,Reinvestor
-NAUKRI,2017.0,+,-,-,Reinvestor
-NAUKRI,2018.0,+,-,-,Reinvestor
-NAUKRI,2019.0,+,-,-,Reinvestor
-NAUKRI,2020.0,+,+,-,Liquidating Assets
-NAUKRI,2021.0,+,-,+,Mixed
-NAUKRI,2022.0,+,-,+,Mixed
-NAUKRI,2023.0,+,-,+,Mixed
-NAUKRI,2024.0,+,-,+,Mixed
-NESTLEIND,2013.0,+,-,-,Shareholder Returns
-NESTLEIND,2014.0,+,-,-,Shareholder Returns
-NESTLEIND,2015.0,+,-,-,Shareholder Returns
-NESTLEIND,2016.0,+,-,-,Shareholder Returns
-NESTLEIND,2017.0,+,-,-,Shareholder Returns
-NESTLEIND,2018.0,+,-,-,Shareholder Returns
-NESTLEIND,2019.0,+,+,-,Liquidating Assets
-NESTLEIND,2020.0,+,-,-,Shareholder Returns
-NESTLEIND,2021.0,+,-,-,Shareholder Returns
-NESTLEIND,2022.0,+,-,-,Shareholder Returns
-NESTLEIND,2023.0,+,-,-,Shareholder Returns
-NESTLEIND,2024.0,+,-,-,Shareholder Returns
-NHPC,2013.0,+,-,-,Shareholder Returns
-NHPC,2014.0,+,-,-,Shareholder Returns
-NHPC,2015.0,+,-,-,Shareholder Returns
-NHPC,2016.0,+,-,-,Shareholder Returns
-NHPC,2017.0,+,-,-,Shareholder Returns
-NHPC,2018.0,+,-,-,Shareholder Returns
-NHPC,2019.0,+,-,-,Shareholder Returns
-NHPC,2020.0,+,-,+,Mixed
-NHPC,2021.0,+,-,-,Shareholder Returns
-NHPC,2022.0,+,-,-,Shareholder Returns
-NHPC,2023.0,+,-,-,Shareholder Returns
-NHPC,2024.0,+,-,-,Shareholder Returns
-NTPC,2013.0,+,-,+,Mixed
-NTPC,2014.0,+,-,-,Shareholder Returns
-NTPC,2015.0,+,-,-,Shareholder Returns
-NTPC,2016.0,+,-,-,Shareholder Returns
-NTPC,2017.0,+,-,+,Mixed
-NTPC,2018.0,+,-,+,Mixed
-NTPC,2019.0,+,-,+,Mixed
-NTPC,2020.0,+,-,+,Mixed
-NTPC,2021.0,+,-,-,Shareholder Returns
-NTPC,2022.0,+,-,-,Shareholder Returns
-NTPC,2023.0,+,-,-,Shareholder Returns
-NTPC,2024.0,+,-,-,Shareholder Returns
-ONGC,2013.0,+,-,-,Shareholder Returns
-ONGC,2014.0,+,-,+,Mixed
-ONGC,2015.0,+,-,-,Shareholder Returns
-ONGC,2016.0,+,-,-,Shareholder Returns
-ONGC,2017.0,+,-,-,Shareholder Returns
-ONGC,2018.0,+,-,+,Mixed
-ONGC,2019.0,+,-,-,Shareholder Returns
-ONGC,2020.0,+,-,-,Shareholder Returns
-ONGC,2021.0,+,-,-,Shareholder Returns
-ONGC,2022.0,+,-,-,Shareholder Returns
-ONGC,2023.0,+,-,-,Shareholder Returns
-ONGC,2024.0,+,-,-,Shareholder Returns
-PFC,2013.0,-,+,+,Distress Signal
-PFC,2014.0,-,+,+,Distress Signal
-PFC,2015.0,-,-,+,Growth Funded by Debt
-PFC,2016.0,-,-,+,Growth Funded by Debt
-PFC,2017.0,+,-,+,Mixed
-PFC,2018.0,-,+,+,Distress Signal
-PFC,2019.0,-,-,+,Growth Funded by Debt
-PFC,2020.0,-,-,+,Growth Funded by Debt
-PFC,2021.0,-,+,+,Distress Signal
-PFC,2022.0,+,-,-,Reinvestor
-PFC,2023.0,-,-,+,Growth Funded by Debt
-PFC,2024.0,-,-,+,Growth Funded by Debt
-PIDILITIND,2013.0,+,-,-,Shareholder Returns
-PIDILITIND,2014.0,+,-,-,Shareholder Returns
-PIDILITIND,2015.0,+,-,-,Shareholder Returns
-PIDILITIND,2016.0,+,-,-,Shareholder Returns
-PIDILITIND,2017.0,+,-,+,Mixed
-PIDILITIND,2018.0,+,+,-,Liquidating Assets
-PIDILITIND,2019.0,+,-,-,Shareholder Returns
-PIDILITIND,2020.0,+,+,-,Liquidating Assets
-PIDILITIND,2021.0,+,-,-,Shareholder Returns
-PIDILITIND,2022.0,+,-,-,Shareholder Returns
-PIDILITIND,2023.0,+,-,-,Shareholder Returns
-PIDILITIND,2024.0,+,-,-,Shareholder Returns
-PNB,2013.0,-,-,-,Pre-Revenue
-PNB,2014.0,+,-,+,Mixed
-PNB,2015.0,+,-,+,Mixed
-PNB,2016.0,+,-,+,Mixed
-PNB,2017.0,+,+,-,Liquidating Assets
-PNB,2018.0,-,+,+,Distress Signal
-PNB,2019.0,-,-,+,Growth Funded by Debt
-PNB,2020.0,-,-,+,Growth Funded by Debt
-PNB,2021.0,+,-,+,Mixed
-PNB,2022.0,+,-,+,Mixed
-PNB,2023.0,+,-,+,Mixed
-PNB,2024.0,-,-,+,Growth Funded by Debt
-POWERGRID,2013.0,+,-,+,Mixed
-POWERGRID,2014.0,+,-,+,Mixed
-POWERGRID,2015.0,+,-,+,Mixed
-POWERGRID,2016.0,+,-,+,Mixed
-POWERGRID,2017.0,+,-,+,Mixed
-POWERGRID,2018.0,+,-,+,Mixed
-POWERGRID,2019.0,+,-,-,Shareholder Returns
-POWERGRID,2020.0,+,-,-,Shareholder Returns
-POWERGRID,2021.0,+,-,-,Shareholder Returns
-POWERGRID,2022.0,+,+,-,Liquidating Assets
-POWERGRID,2023.0,+,-,-,Shareholder Returns
-POWERGRID,2024.0,+,-,-,Shareholder Returns
-RECLTD,2013.0,-,+,+,Distress Signal
-RECLTD,2014.0,-,+,+,Distress Signal
-RECLTD,2015.0,-,+,+,Distress Signal
-RECLTD,2016.0,-,-,+,Growth Funded by Debt
-RECLTD,2017.0,+,-,-,Reinvestor
-RECLTD,2018.0,-,+,+,Distress Signal
-RECLTD,2019.0,-,+,+,Distress Signal
-RECLTD,2020.0,-,+,+,Distress Signal
-RECLTD,2021.0,-,+,+,Distress Signal
-RECLTD,2022.0,-,-,+,Growth Funded by Debt
-RECLTD,2023.0,-,-,+,Growth Funded by Debt
-RECLTD,2024.0,-,-,+,Growth Funded by Debt
-RELIANCE,2013.0,+,-,+,Mixed
-RELIANCE,2014.0,+,-,+,Mixed
-RELIANCE,2015.0,+,-,+,Mixed
-RELIANCE,2016.0,+,-,-,Shareholder Returns
-RELIANCE,2017.0,+,-,+,Mixed
-RELIANCE,2018.0,+,-,-,Shareholder Returns
-RELIANCE,2019.0,+,-,+,Mixed
-RELIANCE,2020.0,+,-,-,Shareholder Returns
-RELIANCE,2021.0,+,-,+,Mixed
-RELIANCE,2022.0,+,-,+,Mixed
-RELIANCE,2023.0,+,-,+,Mixed
-RELIANCE,2024.0,+,-,-,Shareholder Returns
-SBILIFE,2013.0,+,-,-,Shareholder Returns
-SBILIFE,2014.0,+,-,-,Shareholder Returns
-SBILIFE,2015.0,+,-,-,Shareholder Returns
-SBILIFE,2016.0,+,-,-,Shareholder Returns
-SBILIFE,2017.0,+,-,-,Shareholder Returns
-SBILIFE,2018.0,+,-,-,Shareholder Returns
-SBILIFE,2019.0,+,-,-,Shareholder Returns
-SBILIFE,2020.0,+,-,-,Shareholder Returns
-SBILIFE,2021.0,+,-,+,Mixed
-SBILIFE,2022.0,+,-,-,Shareholder Returns
-SBILIFE,2023.0,+,-,-,Shareholder Returns
-SBILIFE,2024.0,+,-,-,Shareholder Returns
-SBIN,2013.0,+,-,-,Shareholder Returns
-SBIN,2014.0,+,-,+,Mixed
-SBIN,2015.0,+,-,-,Shareholder Returns
-SBIN,2016.0,+,-,+,Mixed
-SBIN,2017.0,+,-,-,Shareholder Returns
-SBIN,2018.0,-,+,+,Distress Signal
-SBIN,2019.0,+,+,+,Cash Accumulator
-SBIN,2020.0,+,-,+,Mixed
-SBIN,2021.0,+,-,+,Mixed
-SBIN,2022.0,+,-,-,Shareholder Returns
-SBIN,2023.0,-,-,+,Growth Funded by Debt
-SBIN,2024.0,+,-,-,Shareholder Returns
-SHREECEM,2013.0,+,-,-,Shareholder Returns
-SHREECEM,2014.0,+,-,-,Shareholder Returns
-SHREECEM,2015.0,+,-,-,Shareholder Returns
-SHREECEM,2016.0,+,-,-,Shareholder Returns
-SHREECEM,2017.0,+,-,-,Shareholder Returns
-SHREECEM,2018.0,+,-,+,Mixed
-SHREECEM,2019.0,+,-,-,Shareholder Returns
-SHREECEM,2020.0,+,-,+,Mixed
-SHREECEM,2021.0,+,-,-,Shareholder Returns
-SHREECEM,2022.0,+,-,-,Shareholder Returns
-SHREECEM,2023.0,+,-,-,Shareholder Returns
-SHREECEM,2024.0,+,-,-,Shareholder Returns
-SHRIRAMFIN,2013.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2014.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2015.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2016.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2017.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2018.0,-,+,+,Distress Signal
-SHRIRAMFIN,2019.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2020.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2021.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2022.0,-,-,+,Growth Funded by Debt
-SHRIRAMFIN,2023.0,-,+,+,Distress Signal
-SHRIRAMFIN,2024.0,-,-,+,Growth Funded by Debt
-SIEMENS,2011.0,+,+,-,Liquidating Assets
-SIEMENS,2014.0,+,+,-,Liquidating Assets
-SIEMENS,2015.0,+,+,-,Liquidating Assets
-SIEMENS,2016.0,+,+,-,Liquidating Assets
-SIEMENS,2017.0,+,+,-,Liquidating Assets
-SIEMENS,2018.0,+,-,-,Reinvestor
-SIEMENS,2019.0,+,-,-,Reinvestor
-SIEMENS,2020.0,+,+,-,Liquidating Assets
-SIEMENS,2021.0,+,-,-,Reinvestor
-SIEMENS,2022.0,+,-,-,Reinvestor
-SIEMENS,2023.0,+,-,-,Reinvestor
-SIEMENS,2024.0,+,-,-,Reinvestor
-SUNPHARMA,2013.0,+,-,-,Shareholder Returns
-SUNPHARMA,2014.0,+,-,+,Mixed
-SUNPHARMA,2015.0,+,-,-,Shareholder Returns
-SUNPHARMA,2016.0,+,-,-,Shareholder Returns
-SUNPHARMA,2017.0,+,-,-,Shareholder Returns
-SUNPHARMA,2018.0,+,-,-,Shareholder Returns
-SUNPHARMA,2019.0,+,-,-,Shareholder Returns
-SUNPHARMA,2020.0,+,-,-,Shareholder Returns
-SUNPHARMA,2021.0,+,+,-,Liquidating Assets
-SUNPHARMA,2022.0,+,-,-,Shareholder Returns
-SUNPHARMA,2023.0,+,-,+,Mixed
-SUNPHARMA,2024.0,+,-,-,Shareholder Returns
-TATACONSUM,2013.0,+,+,+,Cash Accumulator
-TATACONSUM,2014.0,+,-,-,Shareholder Returns
-TATACONSUM,2015.0,+,-,-,Shareholder Returns
-TATACONSUM,2016.0,+,+,-,Liquidating Assets
-TATACONSUM,2017.0,+,+,-,Liquidating Assets
-TATACONSUM,2018.0,+,-,-,Shareholder Returns
-TATACONSUM,2019.0,+,+,-,Liquidating Assets
-TATACONSUM,2020.0,+,-,-,Shareholder Returns
-TATACONSUM,2021.0,+,-,-,Shareholder Returns
-TATACONSUM,2022.0,+,-,-,Shareholder Returns
-TATACONSUM,2023.0,+,-,-,Shareholder Returns
-TATACONSUM,2024.0,+,-,+,Mixed
-TATAMOTORS,2013.0,+,-,-,Shareholder Returns
-TATAMOTORS,2014.0,+,-,-,Shareholder Returns
-TATAMOTORS,2015.0,+,-,+,Mixed
-TATAMOTORS,2016.0,+,-,-,Shareholder Returns
-TATAMOTORS,2017.0,+,-,+,Mixed
-TATAMOTORS,2018.0,+,-,+,Mixed
-TATAMOTORS,2019.0,+,-,+,Mixed
-TATAMOTORS,2020.0,+,-,+,Mixed
-TATAMOTORS,2021.0,+,-,+,Mixed
-TATAMOTORS,2022.0,+,-,-,Shareholder Returns
-TATAMOTORS,2023.0,+,-,-,Shareholder Returns
-TATAMOTORS,2024.0,+,-,-,Shareholder Returns
-TATAPOWER,2013.0,+,-,-,Shareholder Returns
-TATAPOWER,2014.0,+,-,-,Shareholder Returns
-TATAPOWER,2015.0,+,-,-,Shareholder Returns
-TATAPOWER,2016.0,+,-,-,Shareholder Returns
-TATAPOWER,2017.0,+,-,+,Mixed
-TATAPOWER,2018.0,+,-,-,Shareholder Returns
-TATAPOWER,2019.0,+,-,-,Shareholder Returns
-TATAPOWER,2020.0,+,-,-,Shareholder Returns
-TATAPOWER,2021.0,+,+,-,Liquidating Assets
-TATAPOWER,2022.0,+,-,-,Shareholder Returns
-TATAPOWER,2023.0,+,-,+,Mixed
-TATAPOWER,2024.0,+,-,-,Shareholder Returns
-TATASTEEL,2013.0,+,-,-,Shareholder Returns
-TATASTEEL,2014.0,+,-,+,Mixed
-TATASTEEL,2015.0,+,-,-,Shareholder Returns
-TATASTEEL,2016.0,+,-,-,Shareholder Returns
-TATASTEEL,2017.0,+,-,-,Shareholder Returns
-TATASTEEL,2018.0,+,-,+,Mixed
-TATASTEEL,2019.0,+,-,-,Shareholder Returns
-TATASTEEL,2020.0,+,-,-,Shareholder Returns
-TATASTEEL,2021.0,+,-,-,Shareholder Returns
-TATASTEEL,2022.0,+,-,-,Shareholder Returns
-TATASTEEL,2023.0,+,-,-,Shareholder Returns
-TATASTEEL,2024.0,+,-,-,Shareholder Returns
-TCS,,+,-,-,Shareholder Returns
-TCS,,+,-,-,Shareholder Returns
-TCS,,+,-,-,Shareholder Returns
-TCS,,+,-,-,Shareholder Returns
-TCS,,+,-,-,Shareholder Returns
-TCS,,+,+,-,Liquidating Assets
-TCS,,+,+,-,Liquidating Assets
-TCS,,+,+,-,Liquidating Assets
-TCS,,+,-,-,Shareholder Returns
-TCS,,+,-,-,Shareholder Returns
-TCS,,+,+,-,Liquidating Assets
-TCS,,+,+,-,Liquidating Assets
-TCS,2013.0,+,-,-,Shareholder Returns
-TCS,2014.0,+,-,-,Shareholder Returns
-TCS,2015.0,+,-,-,Shareholder Returns
-TCS,2016.0,+,-,-,Shareholder Returns
-TCS,2017.0,+,-,-,Shareholder Returns
-TCS,2018.0,+,+,-,Liquidating Assets
-TCS,2019.0,+,+,-,Liquidating Assets
-TCS,2020.0,+,+,-,Liquidating Assets
-TCS,2021.0,+,-,-,Shareholder Returns
-TCS,2022.0,+,-,-,Shareholder Returns
-TCS,2023.0,+,+,-,Liquidating Assets
-TCS,2024.0,+,+,-,Liquidating Assets
-TECHM,2013.0,+,-,+,Mixed
-TECHM,2014.0,+,+,-,Liquidating Assets
-TECHM,2015.0,+,-,-,Shareholder Returns
-TECHM,2016.0,+,-,-,Shareholder Returns
-TECHM,2017.0,+,-,-,Shareholder Returns
-TECHM,2018.0,+,-,-,Shareholder Returns
-TECHM,2019.0,+,-,-,Shareholder Returns
-TECHM,2020.0,+,+,-,Liquidating Assets
-TECHM,2021.0,+,-,-,Shareholder Returns
-TECHM,2022.0,+,+,-,Liquidating Assets
-TECHM,2023.0,+,-,-,Shareholder Returns
-TECHM,2024.0,+,-,-,Shareholder Returns
-TITAN,2013.0,+,-,-,Reinvestor
-TITAN,2014.0,-,-,+,Growth Funded by Debt
-TITAN,2015.0,+,-,-,Reinvestor
-TITAN,2016.0,+,-,-,Reinvestor
-TITAN,2017.0,+,-,-,Reinvestor
-TITAN,2018.0,-,+,-,Mixed
-TITAN,2019.0,+,-,-,Reinvestor
-TITAN,2020.0,-,+,-,Mixed
-TITAN,2021.0,+,-,-,Reinvestor
-TITAN,2022.0,-,+,-,Mixed
-TITAN,2023.0,+,-,+,Mixed
-TITAN,2024.0,+,-,-,Reinvestor
-TORNTPHARM,2013.0,+,-,+,Mixed
-TORNTPHARM,2014.0,+,-,+,Mixed
-TORNTPHARM,2015.0,+,-,+,Mixed
-TORNTPHARM,2016.0,+,-,-,Shareholder Returns
-TORNTPHARM,2017.0,+,-,-,Shareholder Returns
-TORNTPHARM,2018.0,+,-,+,Mixed
-TORNTPHARM,2019.0,+,-,-,Shareholder Returns
-TORNTPHARM,2020.0,+,+,-,Liquidating Assets
-TORNTPHARM,2021.0,+,-,-,Shareholder Returns
-TORNTPHARM,2022.0,+,-,-,Shareholder Returns
-TORNTPHARM,2023.0,+,-,+,Mixed
-TORNTPHARM,2024.0,+,-,-,Shareholder Returns
-TRENT,2013.0,+,-,+,Mixed
-TRENT,2014.0,-,-,-,Pre-Revenue
-TRENT,2015.0,-,-,+,Growth Funded by Debt
-TRENT,2016.0,+,-,-,Shareholder Returns
-TRENT,2017.0,+,-,-,Shareholder Returns
-TRENT,2018.0,+,-,-,Shareholder Returns
-TRENT,2019.0,+,-,+,Mixed
-TRENT,2020.0,+,-,+,Mixed
-TRENT,2021.0,+,+,-,Liquidating Assets
-TRENT,2022.0,+,+,-,Liquidating Assets
-TRENT,2023.0,+,-,-,Shareholder Returns
-TRENT,2024.0,+,-,-,Shareholder Returns
-TVSMOTOR,2013.0,+,-,-,Reinvestor
-TVSMOTOR,2014.0,+,-,-,Reinvestor
-TVSMOTOR,2015.0,+,-,+,Mixed
-TVSMOTOR,2016.0,+,-,-,Reinvestor
-TVSMOTOR,2017.0,+,-,-,Reinvestor
-TVSMOTOR,2018.0,+,-,+,Mixed
-TVSMOTOR,2019.0,-,-,+,Growth Funded by Debt
-TVSMOTOR,2020.0,+,-,+,Mixed
-TVSMOTOR,2021.0,+,-,+,Mixed
-TVSMOTOR,2022.0,-,-,+,Growth Funded by Debt
-TVSMOTOR,2023.0,-,-,+,Growth Funded by Debt
-TVSMOTOR,2024.0,-,-,+,Growth Funded by Debt
+company_id,year,cfo,cfi,cff,fcf,borrowings_change,pattern_label
+ABB,2012.0,101.0,-59.0,-42.0,42.0,0.0,Reinvestor
+ABB,2014.0,0.0,0.0,0.0,0.0,0.0,Mixed
+ABB,2015.0,-35.0,-1864.0,1902.0,-1899.0,0.0,Growth Funded by Debt
+ABB,2016.0,1544.0,-816.0,-722.0,728.0,0.0,Reinvestor
+ABB,2017.0,2189.0,-1730.0,-455.0,459.0,0.0,Reinvestor
+ABB,2018.0,2198.0,-3192.0,1589.0,-994.0,0.0,Mixed
+ABB,2019.0,2591.0,-3050.0,38.0,-459.0,0.0,Mixed
+ABB,2020.0,5437.0,-5643.0,1250.0,-206.0,175.0,Mixed
+ABB,2021.0,3784.0,-4009.0,-745.0,-225.0,-22.0,Reinvestor
+ABB,2022.0,4097.0,-3936.0,-235.0,161.0,-1.0,Reinvestor
+ABB,2023.0,3777.0,-4699.0,923.0,-922.0,-39.0,Mixed
+ABB,2024.0,6038.0,-4943.0,-543.0,1095.0,-53.0,Reinvestor
+ADANIENSOL,2014.0,0.0,0.0,0.0,0.0,0.0,Mixed
+ADANIENSOL,2015.0,-35.0,-1864.0,1902.0,-1899.0,9701.0,Growth Funded by Debt
+ADANIENSOL,2016.0,1544.0,-816.0,-722.0,728.0,-1116.0,Reinvestor
+ADANIENSOL,2017.0,2189.0,-1730.0,-455.0,459.0,390.0,Reinvestor
+ADANIENSOL,2018.0,2198.0,-3192.0,1589.0,-994.0,1453.0,Mixed
+ADANIENSOL,2019.0,2591.0,-3050.0,38.0,-459.0,9709.0,Mixed
+ADANIENSOL,2020.0,5437.0,-5643.0,1250.0,-206.0,4109.0,Mixed
+ADANIENSOL,2021.0,3784.0,-4009.0,-745.0,-225.0,2849.0,Reinvestor
+ADANIENSOL,2022.0,4097.0,-3936.0,-235.0,161.0,2807.0,Reinvestor
+ADANIENSOL,2023.0,3777.0,-4699.0,923.0,-922.0,4368.0,Mixed
+ADANIENSOL,2024.0,6038.0,-4943.0,-543.0,1095.0,4739.0,Reinvestor
+ADANIENT,2013.0,7666.0,-14790.0,7199.0,-7124.0,0.0,Mixed
+ADANIENT,2014.0,8228.0,-8007.0,-1109.0,221.0,2648.0,Reinvestor
+ADANIENT,2015.0,8532.0,-11465.0,3445.0,-2933.0,11591.0,Mixed
+ADANIENT,2016.0,5112.0,-1825.0,-3448.0,3287.0,-64402.0,Reinvestor
+ADANIENT,2017.0,774.0,-1460.0,716.0,-686.0,1677.0,Mixed
+ADANIENT,2018.0,2942.0,-7649.0,5120.0,-4707.0,-3209.0,Mixed
+ADANIENT,2019.0,3236.0,2487.0,-6158.0,5723.0,-6394.0,Liquidating Assets
+ADANIENT,2020.0,2454.0,-1082.0,-221.0,1372.0,1176.0,Reinvestor
+ADANIENT,2021.0,4043.0,-8611.0,3109.0,-4568.0,3808.0,Mixed
+ADANIENT,2022.0,1385.0,-17041.0,15901.0,-15656.0,25377.0,Mixed
+ADANIENT,2023.0,17626.0,-15459.0,-1198.0,2167.0,11596.0,Reinvestor
+ADANIENT,2024.0,10312.0,-18767.0,8879.0,-8455.0,27227.0,Mixed
+ADANIGREEN,2017.0,28.0,-1511.0,1559.0,-1483.0,0.0,Mixed
+ADANIGREEN,2018.0,649.0,-4428.0,3942.0,-3779.0,5517.0,Mixed
+ADANIGREEN,2019.0,1625.0,-2666.0,1045.0,-1041.0,1278.0,Mixed
+ADANIGREEN,2020.0,1965.0,-3743.0,2161.0,-1778.0,3724.0,Mixed
+ADANIGREEN,2021.0,1601.0,-9137.0,7083.0,-7536.0,9343.0,Mixed
+ADANIGREEN,2022.0,3127.0,-18730.0,15986.0,-15603.0,28623.0,Mixed
+ADANIGREEN,2023.0,7265.0,-3857.0,-2973.0,3408.0,1391.0,Reinvestor
+ADANIGREEN,2024.0,7713.0,-21060.0,13953.0,-13347.0,13207.0,Mixed
+ADANIPORTS,2013.0,1379.0,-5136.0,4138.0,-3757.0,0.0,Mixed
+ADANIPORTS,2014.0,1132.0,-2510.0,772.0,-1378.0,1359.0,Mixed
+ADANIPORTS,2015.0,3057.0,-2485.0,-237.0,572.0,4797.0,Reinvestor
+ADANIPORTS,2016.0,2381.0,-4153.0,2170.0,-1772.0,4566.0,Mixed
+ADANIPORTS,2017.0,4063.0,-2629.0,-1325.0,1434.0,-128.0,Reinvestor
+ADANIPORTS,2018.0,5608.0,-3846.0,-1889.0,1762.0,156.0,Reinvestor
+ADANIPORTS,2019.0,6029.0,-4368.0,2313.0,1661.0,5342.0,Mixed
+ADANIPORTS,2020.0,7402.0,-749.0,-4256.0,6653.0,2530.0,Reinvestor
+ADANIPORTS,2021.0,7556.0,-14064.0,3514.0,-6508.0,5613.0,Mixed
+ADANIPORTS,2022.0,10420.0,-5493.0,-586.0,4927.0,12080.0,Reinvestor
+ADANIPORTS,2023.0,11900.0,-16716.0,-2734.0,-4816.0,5499.0,Reinvestor
+ADANIPORTS,2024.0,15018.0,-6768.0,-7800.0,8250.0,-2949.0,Reinvestor
+ADANIPOWER,2013.0,3001.0,-4064.0,861.0,-1063.0,0.0,Mixed
+ADANIPOWER,2014.0,3238.0,-4700.0,1631.0,-1462.0,2355.0,Mixed
+ADANIPOWER,2015.0,5824.0,-4737.0,-1144.0,1087.0,592.0,Reinvestor
+ADANIPOWER,2016.0,5257.0,-2692.0,-2713.0,2565.0,7987.0,Reinvestor
+ADANIPOWER,2017.0,4725.0,-1212.0,-3539.0,3513.0,-245.0,Reinvestor
+ADANIPOWER,2018.0,5101.0,-520.0,-4600.0,4581.0,351.0,Reinvestor
+ADANIPOWER,2019.0,5610.0,-984.0,-4663.0,4626.0,-5855.0,Reinvestor
+ADANIPOWER,2020.0,5598.0,-2304.0,-2377.0,3294.0,8219.0,Reinvestor
+ADANIPOWER,2021.0,7014.0,-2188.0,-5655.0,4826.0,-2680.0,Reinvestor
+ADANIPOWER,2022.0,10233.0,774.0,-10338.0,11007.0,-3374.0,Liquidating Assets
+ADANIPOWER,2023.0,8431.0,1545.0,-10408.0,9976.0,-6795.0,Liquidating Assets
+ADANIPOWER,2024.0,14170.0,3481.0,-16864.0,17651.0,-4645.0,Liquidating Assets
+AMBUJACEM,2012.0,1860.0,-388.0,-509.0,1472.0,0.0,Reinvestor
+AMBUJACEM,2013.0,1267.0,-496.0,-672.0,771.0,-12.0,Reinvestor
+AMBUJACEM,2014.0,1675.0,-456.0,-721.0,1219.0,-14.0,Reinvestor
+AMBUJACEM,2015.0,1557.0,-83.0,-900.0,1474.0,1.0,Reinvestor
+AMBUJACEM,2016.0,2810.0,-4165.0,-958.0,-1355.0,-6.0,Reinvestor
+AMBUJACEM,2017.0,3416.0,-738.0,-1015.0,2678.0,-5.0,Reinvestor
+AMBUJACEM,2018.0,1703.0,-765.0,-719.0,938.0,16.0,Reinvestor
+AMBUJACEM,2019.0,4739.0,-1191.0,-629.0,3548.0,1.0,Reinvestor
+AMBUJACEM,2020.0,4832.0,-1317.0,-3956.0,3515.0,430.0,Reinvestor
+AMBUJACEM,2021.0,5309.0,-2007.0,-516.0,3302.0,6.0,Reinvestor
+AMBUJACEM,2023.0,735.0,-14481.0,2931.0,-13746.0,46.0,Mixed
+AMBUJACEM,2024.0,5646.0,-8941.0,5689.0,-3295.0,256.0,Mixed
+APOLLOHOSP,2013.0,443.0,-733.0,373.0,-290.0,0.0,Mixed
+APOLLOHOSP,2014.0,373.0,-356.0,-63.0,17.0,131.0,Reinvestor
+APOLLOHOSP,2015.0,470.0,-759.0,392.0,-289.0,648.0,Mixed
+APOLLOHOSP,2016.0,597.0,-888.0,330.0,-291.0,842.0,Mixed
+APOLLOHOSP,2017.0,623.0,-1152.0,477.0,-529.0,291.0,Mixed
+APOLLOHOSP,2018.0,537.0,-405.0,-108.0,132.0,302.0,Reinvestor
+APOLLOHOSP,2019.0,905.0,-711.0,-215.0,194.0,246.0,Reinvestor
+APOLLOHOSP,2020.0,1293.0,-289.0,-910.0,1004.0,-77.0,Reinvestor
+APOLLOHOSP,2021.0,1265.0,-880.0,-340.0,385.0,564.0,Reinvestor
+APOLLOHOSP,2022.0,1696.0,-747.0,-792.0,949.0,-92.0,Reinvestor
+APOLLOHOSP,2023.0,1377.0,-857.0,-633.0,520.0,264.0,Reinvestor
+APOLLOHOSP,2024.0,1920.0,-1537.0,-311.0,383.0,3039.0,Reinvestor
+ASIANPAINT,2013.0,1187.0,-463.0,-601.0,724.0,0.0,Reinvestor
+ASIANPAINT,2014.0,1402.0,-586.0,-626.0,816.0,-2.0,Reinvestor
+ASIANPAINT,2015.0,1188.0,-465.0,-576.0,723.0,169.0,Reinvestor
+ASIANPAINT,2016.0,2243.0,-866.0,-849.0,1377.0,-95.0,Reinvestor
+ASIANPAINT,2017.0,1527.0,-681.0,-756.0,846.0,237.0,Reinvestor
+ASIANPAINT,2018.0,2113.0,-1556.0,-1379.0,557.0,-27.0,Reinvestor
+ASIANPAINT,2019.0,2470.0,-918.0,-1117.0,1552.0,787.0,Reinvestor
+ASIANPAINT,2020.0,3038.0,-518.0,-2871.0,2520.0,-202.0,Reinvestor
+ASIANPAINT,2021.0,3683.0,-541.0,-650.0,3142.0,-25.0,Reinvestor
+ASIANPAINT,2022.0,986.0,-317.0,-1808.0,669.0,494.0,Reinvestor
+ASIANPAINT,2023.0,4193.0,-1282.0,-2140.0,2911.0,346.0,Reinvestor
+ASIANPAINT,2024.0,6104.0,-2548.0,-2982.0,3556.0,583.0,Reinvestor
+AXISBANK,2013.0,2573.0,-10939.0,14931.0,-8366.0,0.0,Mixed
+AXISBANK,2014.0,14464.0,-14166.0,7785.0,298.0,37026.0,Mixed
+AXISBANK,2015.0,-15162.0,-7972.0,31045.0,-23134.0,73358.0,Growth Funded by Debt
+AXISBANK,2016.0,-34495.0,9211.0,22495.0,-25284.0,65512.0,Distress Signal
+AXISBANK,2017.0,32209.0,-12458.0,-2487.0,19751.0,55287.0,Reinvestor
+AXISBANK,2018.0,-38390.0,-10007.0,41342.0,-48397.0,83988.0,Growth Funded by Debt
+AXISBANK,2019.0,37125.0,-18674.0,5643.0,18451.0,100571.0,Mixed
+AXISBANK,2020.0,30416.0,-9485.0,8865.0,20931.0,85341.0,Mixed
+AXISBANK,2021.0,12633.0,-54288.0,7279.0,-41655.0,53214.0,Mixed
+AXISBANK,2022.0,28137.0,-27112.0,47894.0,1025.0,170392.0,Mixed
+AXISBANK,2023.0,22075.0,-32351.0,6641.0,-10276.0,131095.0,Mixed
+AXISBANK,2024.0,-5555.0,-9001.0,22341.0,-14556.0,143264.0,Growth Funded by Debt
+BAJAJ-AUTO,2013.0,2218.0,-1394.0,-1445.0,824.0,0.0,Reinvestor
+BAJAJ-AUTO,2014.0,3502.0,-2072.0,-1496.0,1430.0,-57.0,Reinvestor
+BAJAJ-AUTO,2015.0,2114.0,-380.0,-1644.0,1734.0,53.0,Reinvestor
+BAJAJ-AUTO,2016.0,3690.0,-68.0,-3384.0,3622.0,6.0,Reinvestor
+BAJAJ-AUTO,2017.0,3267.0,-3610.0,-190.0,-343.0,2.0,Reinvestor
+BAJAJ-AUTO,2018.0,4328.0,-1954.0,-1885.0,2374.0,1.0,Reinvestor
+BAJAJ-AUTO,2019.0,2487.0,-273.0,-2074.0,2214.0,4.0,Reinvestor
+BAJAJ-AUTO,2020.0,3850.0,1766.0,-6247.0,5616.0,1.0,Liquidating Assets
+BAJAJ-AUTO,2021.0,3120.0,-2869.0,-20.0,251.0,-5.0,Reinvestor
+BAJAJ-AUTO,2022.0,4197.0,276.0,-4056.0,4473.0,2.0,Liquidating Assets
+BAJAJ-AUTO,2023.0,5277.0,1211.0,-7181.0,6488.0,1.0,Liquidating Assets
+BAJAJ-AUTO,2024.0,6558.0,-72.0,-6167.0,6486.0,5121.0,Reinvestor
+BAJAJFINSV,2013.0,-6922.0,2953.0,4592.0,-3969.0,0.0,Distress Signal
+BAJAJFINSV,2014.0,-9807.0,3764.0,6521.0,-6043.0,6516.0,Distress Signal
+BAJAJFINSV,2015.0,-10731.0,3709.0,6839.0,-7022.0,6805.0,Distress Signal
+BAJAJFINSV,2016.0,-9795.0,-886.0,11602.0,-10681.0,9750.0,Growth Funded by Debt
+BAJAJFINSV,2017.0,-10922.0,151.0,12513.0,-10771.0,12220.0,Distress Signal
+BAJAJFINSV,2018.0,-19580.0,-922.0,19590.0,-20502.0,17413.0,Growth Funded by Debt
+BAJAJFINSV,2019.0,-27076.0,-6903.0,34535.0,-33979.0,34059.0,Growth Funded by Debt
+BAJAJFINSV,2020.0,-23369.0,-9948.0,34479.0,-33317.0,27458.0,Growth Funded by Debt
+BAJAJFINSV,2021.0,4547.0,-3684.0,1687.0,863.0,1249.0,Mixed
+BAJAJFINSV,2022.0,-33670.0,1445.0,32326.0,-32225.0,32718.0,Distress Signal
+BAJAJFINSV,2023.0,-39480.0,-13945.0,51016.0,-53425.0,51086.0,Growth Funded by Debt
+BAJAJFINSV,2024.0,-68674.0,-10960.0,82709.0,-79634.0,106410.0,Growth Funded by Debt
+BAJAJHLDNG,2013.0,473.0,-369.0,-332.0,104.0,0.0,Reinvestor
+BAJAJHLDNG,2014.0,872.0,-519.0,-326.0,353.0,0.0,Reinvestor
+BAJAJHLDNG,2015.0,796.0,-464.0,-391.0,332.0,0.0,Reinvestor
+BAJAJHLDNG,2016.0,1147.0,1019.0,-761.0,2166.0,0.0,Liquidating Assets
+BAJAJHLDNG,2017.0,-923.0,-372.0,-110.0,-1295.0,0.0,Pre-Revenue
+BAJAJHLDNG,2018.0,1631.0,-1123.0,-434.0,508.0,0.0,Reinvestor
+BAJAJHLDNG,2019.0,628.0,-163.0,-536.0,465.0,0.0,Reinvestor
+BAJAJHLDNG,2020.0,1920.0,-800.0,-1028.0,1120.0,168.0,Reinvestor
+BAJAJHLDNG,2021.0,272.0,-308.0,-37.0,-36.0,-32.0,Reinvestor
+BAJAJHLDNG,2022.0,1610.0,-151.0,-1460.0,1459.0,-22.0,Reinvestor
+BAJAJHLDNG,2023.0,1728.0,-137.0,-1587.0,1591.0,-21.0,Reinvestor
+BAJAJHLDNG,2024.0,1941.0,-472.0,-1455.0,1469.0,-46.0,Reinvestor
+BAJFINANCE,2015.0,-7064.0,-360.0,6867.0,-7424.0,0.0,Growth Funded by Debt
+BAJFINANCE,2016.0,-9870.0,-687.0,11656.0,-10557.0,10370.0,Growth Funded by Debt
+BAJFINANCE,2017.0,-10439.0,-3047.0,12513.0,-13486.0,12225.0,Growth Funded by Debt
+BAJFINANCE,2018.0,-20566.0,1075.0,19503.0,-19491.0,17307.0,Distress Signal
+BAJFINANCE,2019.0,-29062.0,-5379.0,34449.0,-34441.0,35031.0,Growth Funded by Debt
+BAJFINANCE,2020.0,-24412.0,-8758.0,34167.0,-33170.0,28218.0,Growth Funded by Debt
+BAJFINANCE,2021.0,-807.0,-429.0,1741.0,-1236.0,1828.0,Growth Funded by Debt
+BAJFINANCE,2022.0,-37090.0,6347.0,32275.0,-30743.0,33598.0,Distress Signal
+BAJFINANCE,2023.0,-42112.0,-10394.0,50675.0,-52506.0,51458.0,Growth Funded by Debt
+BAJFINANCE,2024.0,-72760.0,-7171.0,82415.0,-79931.0,107528.0,Growth Funded by Debt
+BANKBARODA,2013.0,23196.0,-514.0,-790.0,22682.0,0.0,Reinvestor
+BANKBARODA,2014.0,42233.0,-730.0,5151.0,41503.0,107781.0,Mixed
+BANKBARODA,2015.0,17838.0,-556.0,-6.0,17282.0,48510.0,Reinvestor
+BANKBARODA,2016.0,-10011.0,-4005.0,-616.0,-14016.0,-44947.0,Pre-Revenue
+BANKBARODA,2017.0,17865.0,-551.0,-198.0,17314.0,27963.0,Reinvestor
+BANKBARODA,2018.0,-59692.0,-414.0,3413.0,-60106.0,23812.0,Growth Funded by Debt
+BANKBARODA,2019.0,-1449.0,-2537.0,4449.0,-3986.0,62145.0,Growth Funded by Debt
+BANKBARODA,2020.0,18531.0,-139.0,14729.0,18392.0,334525.0,Mixed
+BANKBARODA,2021.0,-887.0,-471.0,-986.0,-1358.0,-1808.0,Pre-Revenue
+BANKBARODA,2022.0,6210.0,-3645.0,-998.0,2565.0,118158.0,Reinvestor
+BANKBARODA,2023.0,-21354.0,-1096.0,-5405.0,-22450.0,157261.0,Pre-Revenue
+BANKBARODA,2024.0,-6274.0,-1285.0,5476.0,-7559.0,111169.0,Growth Funded by Debt
+BEL,2013.0,-1539.0,1753.0,-158.0,214.0,0.0,Mixed
+BEL,2014.0,-569.0,759.0,-213.0,190.0,-3.0,Mixed
+BEL,2015.0,1434.0,-839.0,-209.0,595.0,5.0,Reinvestor
+BEL,2016.0,2260.0,-1470.0,-318.0,790.0,-1.0,Reinvestor
+BEL,2017.0,-61.0,3115.0,-2857.0,3054.0,4.0,Mixed
+BEL,2018.0,-687.0,-6.0,-1202.0,-693.0,19.0,Pre-Revenue
+BEL,2019.0,1514.0,-896.0,-663.0,618.0,-1.0,Reinvestor
+BEL,2020.0,2570.0,-649.0,-1061.0,1921.0,-3.0,Reinvestor
+BEL,2021.0,5093.0,-2595.0,-1076.0,2498.0,5.0,Reinvestor
+BEL,2022.0,4207.0,-4872.0,-1078.0,-665.0,9.0,Reinvestor
+BEL,2023.0,1199.0,2708.0,-1262.0,3907.0,-19.0,Liquidating Assets
+BEL,2024.0,4659.0,-5924.0,-1475.0,-1265.0,39.0,Reinvestor
+BHARTIARTL,2013.0,22608.0,-18676.0,-4566.0,3932.0,0.0,Reinvestor
+BHARTIARTL,2014.0,26233.0,-25181.0,2774.0,1052.0,9160.0,Mixed
+BHARTIARTL,2015.0,28059.0,-22301.0,-9672.0,5758.0,7519.0,Reinvestor
+BHARTIARTL,2016.0,27942.0,-14091.0,-11946.0,13851.0,17231.0,Reinvestor
+BHARTIARTL,2017.0,28280.0,-30680.0,-351.0,-2400.0,6642.0,Reinvestor
+BHARTIARTL,2018.0,29854.0,-27940.0,1920.0,1914.0,4046.0,Mixed
+BHARTIARTL,2019.0,20070.0,-28286.0,9464.0,-8216.0,14094.0,Mixed
+BHARTIARTL,2020.0,18129.0,-29598.0,19144.0,-11469.0,22800.0,Mixed
+BHARTIARTL,2021.0,48205.0,-27286.0,-24910.0,20919.0,14557.0,Reinvestor
+BHARTIARTL,2022.0,55017.0,-41478.0,-15203.0,13539.0,6893.0,Reinvestor
+BHARTIARTL,2023.0,65325.0,-39232.0,-24470.0,26093.0,56342.0,Reinvestor
+BHARTIARTL,2024.0,78898.0,-51089.0,-27778.0,27809.0,-479.0,Reinvestor
+BHEL,2013.0,1759.0,-1113.0,472.0,646.0,0.0,Mixed
+BHEL,2014.0,4512.0,-868.0,523.0,3644.0,1995.0,Mixed
+BHEL,2015.0,821.0,650.0,-3543.0,1471.0,-2804.0,Liquidating Assets
+BHEL,2016.0,374.0,23.0,-122.0,397.0,-1678.0,Liquidating Assets
+BHEL,2017.0,560.0,-565.0,-468.0,-5.0,-55.0,Reinvestor
+BHEL,2018.0,989.0,961.0,-667.0,1950.0,-46.0,Liquidating Assets
+BHEL,2019.0,-3860.0,1919.0,-32.0,-1941.0,2488.0,Mixed
+BHEL,2020.0,-2892.0,1877.0,1622.0,-1015.0,2482.0,Distress Signal
+BHEL,2021.0,560.0,-42.0,-394.0,518.0,-129.0,Reinvestor
+BHEL,2022.0,660.0,-1118.0,-329.0,-458.0,-121.0,Reinvestor
+BHEL,2023.0,-741.0,1480.0,89.0,739.0,624.0,Distress Signal
+BHEL,2024.0,-3713.0,1331.0,2656.0,-2382.0,3674.0,Distress Signal
+BOSCHLTD,2012.0,871.0,-824.0,-156.0,47.0,0.0,Reinvestor
+BOSCHLTD,2013.0,1057.0,-846.0,-238.0,211.0,-47.0,Reinvestor
+BOSCHLTD,2015.0,1396.0,-1183.0,-237.0,213.0,-72.0,Reinvestor
+BOSCHLTD,2016.0,1318.0,-995.0,-356.0,323.0,-61.0,Reinvestor
+BOSCHLTD,2017.0,1457.0,1246.0,-2670.0,2703.0,-50.0,Liquidating Assets
+BOSCHLTD,2018.0,1729.0,-1170.0,-325.0,559.0,0.0,Reinvestor
+BOSCHLTD,2019.0,593.0,1766.0,-2531.0,2359.0,0.0,Liquidating Assets
+BOSCHLTD,2020.0,1336.0,-873.0,-399.0,463.0,74.0,Reinvestor
+BOSCHLTD,2021.0,835.0,-463.0,-338.0,372.0,-20.0,Reinvestor
+BOSCHLTD,2022.0,271.0,-33.0,-383.0,238.0,19.0,Reinvestor
+BOSCHLTD,2023.0,1214.0,262.0,-1239.0,1476.0,-20.0,Liquidating Assets
+BOSCHLTD,2024.0,1253.0,283.0,-1452.0,1536.0,-22.0,Liquidating Assets
+BPCL,2013.0,5926.0,-3604.0,-846.0,2322.0,0.0,Reinvestor
+BPCL,2014.0,9588.0,-6881.0,-3736.0,2707.0,-5.0,Reinvestor
+BPCL,2015.0,20742.0,-10536.0,-9792.0,10206.0,-7660.0,Reinvestor
+BPCL,2016.0,11119.0,-9233.0,-1332.0,1886.0,-2104.0,Reinvestor
+BPCL,2017.0,9041.0,-15274.0,4804.0,-6233.0,12337.0,Mixed
+BPCL,2018.0,11068.0,-7066.0,-4218.0,4002.0,1934.0,Reinvestor
+BPCL,2019.0,10157.0,-10451.0,207.0,-294.0,7180.0,Mixed
+BPCL,2020.0,7881.0,-11135.0,3583.0,-3254.0,20637.0,Mixed
+BPCL,2021.0,23455.0,-2474.0,-13981.0,20981.0,-10944.0,Reinvestor
+BPCL,2022.0,20336.0,-8138.0,-17672.0,12198.0,10002.0,Reinvestor
+BPCL,2023.0,12466.0,-7806.0,-4402.0,4660.0,4842.0,Reinvestor
+BPCL,2024.0,35936.0,-10521.0,-25427.0,25415.0,-10496.0,Reinvestor
+BRITANNIA,2013.0,320.0,28.0,-378.0,348.0,0.0,Liquidating Assets
+BRITANNIA,2014.0,671.0,-246.0,-357.0,425.0,-230.0,Reinvestor
+BRITANNIA,2015.0,584.0,-450.0,-181.0,134.0,-5.0,Reinvestor
+BRITANNIA,2016.0,959.0,-705.0,-246.0,254.0,-14.0,Reinvestor
+BRITANNIA,2017.0,441.0,-150.0,-295.0,291.0,-6.0,Reinvestor
+BRITANNIA,2018.0,1249.0,-957.0,-232.0,292.0,76.0,Reinvestor
+BRITANNIA,2019.0,1156.0,-852.0,-353.0,304.0,-45.0,Reinvestor
+BRITANNIA,2020.0,1485.0,-1526.0,58.0,-41.0,1382.0,Mixed
+BRITANNIA,2021.0,1876.0,433.0,-2242.0,2309.0,584.0,Liquidating Assets
+BRITANNIA,2022.0,1300.0,914.0,-2246.0,2214.0,359.0,Liquidating Assets
+BRITANNIA,2023.0,2526.0,-1507.0,-1028.0,1019.0,516.0,Reinvestor
+BRITANNIA,2024.0,2573.0,477.0,-2830.0,3050.0,-243.0,Liquidating Assets
+CANBK,2013.0,8010.0,-435.0,-1043.0,7575.0,0.0,Reinvestor
+CANBK,2014.0,14244.0,-380.0,-3771.0,13864.0,71873.0,Reinvestor
+CANBK,2015.0,6344.0,-1104.0,-1464.0,5240.0,51575.0,Reinvestor
+CANBK,2016.0,9346.0,-443.0,-806.0,8903.0,7224.0,Reinvestor
+CANBK,2017.0,2575.0,-476.0,124.0,2099.0,28146.0,Mixed
+CANBK,2018.0,-11120.0,-487.0,2865.0,-11607.0,28898.0,Growth Funded by Debt
+CANBK,2019.0,18237.0,-745.0,-1185.0,17492.0,76410.0,Reinvestor
+CANBK,2020.0,-5289.0,-445.0,7792.0,-5734.0,28004.0,Growth Funded by Debt
+CANBK,2021.0,59118.0,-1116.0,290.0,58002.0,392828.0,Mixed
+CANBK,2022.0,919.0,-1429.0,4035.0,-510.0,71628.0,Mixed
+CANBK,2023.0,-39978.0,-1156.0,445.0,-41134.0,104534.0,Growth Funded by Debt
+CANBK,2024.0,15046.0,-1750.0,-3834.0,13296.0,132620.0,Reinvestor
+CHOLAFIN,2013.0,-3754.0,5.0,4067.0,-3749.0,0.0,Distress Signal
+CHOLAFIN,2014.0,-2447.0,-83.0,2749.0,-2530.0,2806.0,Growth Funded by Debt
+CHOLAFIN,2015.0,-2264.0,-40.0,1819.0,-2304.0,1875.0,Growth Funded by Debt
+CHOLAFIN,2016.0,-2809.0,-137.0,3031.0,-2946.0,2596.0,Growth Funded by Debt
+CHOLAFIN,2017.0,-1468.0,-222.0,1692.0,-1690.0,1525.0,Growth Funded by Debt
+CHOLAFIN,2018.0,-7926.0,-60.0,8009.0,-7986.0,14259.0,Growth Funded by Debt
+CHOLAFIN,2019.0,-9317.0,-11.0,12191.0,-9328.0,12237.0,Growth Funded by Debt
+CHOLAFIN,2020.0,-2075.0,-54.0,2452.0,-2129.0,4438.0,Growth Funded by Debt
+CHOLAFIN,2021.0,-8848.0,-1746.0,8707.0,-10594.0,8725.0,Growth Funded by Debt
+CHOLAFIN,2022.0,-5571.0,1640.0,5150.0,-3931.0,5444.0,Distress Signal
+CHOLAFIN,2023.0,-27105.0,-2148.0,27466.0,-29253.0,28184.0,Growth Funded by Debt
+CHOLAFIN,2024.0,-35683.0,-2855.0,38471.0,-38538.0,60585.0,Growth Funded by Debt
+CIPLA,2013.0,1398.0,-2063.0,718.0,-665.0,0.0,Mixed
+CIPLA,2014.0,1563.0,-1265.0,-266.0,298.0,281.0,Reinvestor
+CIPLA,2015.0,1173.0,-950.0,165.0,223.0,455.0,Mixed
+CIPLA,2016.0,1741.0,-4533.0,3104.0,-2792.0,3499.0,Mixed
+CIPLA,2017.0,2382.0,-1304.0,-1326.0,1078.0,-1089.0,Reinvestor
+CIPLA,2018.0,1463.0,-834.0,-385.0,629.0,-15.0,Reinvestor
+CIPLA,2019.0,1691.0,-1688.0,-349.0,3.0,218.0,Reinvestor
+CIPLA,2020.0,3068.0,114.0,-2949.0,3182.0,-1500.0,Liquidating Assets
+CIPLA,2021.0,3755.0,-2374.0,-1240.0,1381.0,-802.0,Reinvestor
+CIPLA,2022.0,3326.0,-1858.0,-1600.0,1468.0,-958.0,Reinvestor
+CIPLA,2023.0,3238.0,-2376.0,-958.0,862.0,-253.0,Reinvestor
+CIPLA,2024.0,4134.0,-2982.0,-1200.0,1152.0,-342.0,Reinvestor
+COALINDIA,2013.0,9109.0,-1833.0,-7852.0,7276.0,0.0,Reinvestor
+COALINDIA,2014.0,14525.0,8580.0,-25350.0,23105.0,-1127.0,Liquidating Assets
+COALINDIA,2015.0,14382.0,894.0,-15026.0,15276.0,230.0,Liquidating Assets
+COALINDIA,2016.0,13154.0,8154.0,-19587.0,21308.0,791.0,Liquidating Assets
+COALINDIA,2017.0,16461.0,455.0,-17598.0,16916.0,1815.0,Liquidating Assets
+COALINDIA,2018.0,21115.0,-7747.0,-13564.0,13368.0,-1476.0,Reinvestor
+COALINDIA,2019.0,16356.0,-7896.0,-10885.0,8460.0,672.0,Reinvestor
+COALINDIA,2020.0,4977.0,1033.0,-4791.0,6010.0,4224.0,Liquidating Assets
+COALINDIA,2021.0,10592.0,182.0,-8453.0,10774.0,-550.0,Liquidating Assets
+COALINDIA,2022.0,41107.0,-25715.0,-13441.0,15392.0,-2370.0,Reinvestor
+COALINDIA,2023.0,35734.0,-23465.0,-13704.0,12269.0,817.0,Reinvestor
+COALINDIA,2024.0,18103.0,-4486.0,-13899.0,13617.0,3485.0,Reinvestor
+DABUR,2013.0,870.0,-622.0,-234.0,248.0,0.0,Reinvestor
+DABUR,2014.0,1098.0,-104.0,-804.0,994.0,-443.0,Reinvestor
+DABUR,2015.0,1047.0,-876.0,-417.0,171.0,26.0,Reinvestor
+DABUR,2016.0,1187.0,-730.0,-374.0,457.0,71.0,Reinvestor
+DABUR,2017.0,1227.0,-807.0,-339.0,420.0,170.0,Reinvestor
+DABUR,2018.0,1092.0,-541.0,-577.0,551.0,-37.0,Reinvestor
+DABUR,2019.0,1499.0,338.0,-1888.0,1837.0,-239.0,Liquidating Assets
+DABUR,2020.0,1614.0,-517.0,-1043.0,1097.0,-177.0,Reinvestor
+DABUR,2021.0,2115.0,-1404.0,-613.0,711.0,-13.0,Reinvestor
+DABUR,2022.0,1802.0,-1273.0,-490.0,529.0,521.0,Reinvestor
+DABUR,2023.0,1488.0,-583.0,-1035.0,905.0,144.0,Reinvestor
+DABUR,2024.0,2013.0,-971.0,-1161.0,1042.0,578.0,Reinvestor
+DIVISLAB,2013.0,480.0,-255.0,-231.0,225.0,0.0,Reinvestor
+DIVISLAB,2014.0,557.0,-305.0,-248.0,252.0,-15.0,Reinvestor
+DIVISLAB,2015.0,826.0,-521.0,-303.0,305.0,9.0,Reinvestor
+DIVISLAB,2016.0,1038.0,-406.0,-631.0,632.0,15.0,Reinvestor
+DIVISLAB,2017.0,1150.0,-1140.0,2.0,10.0,-6.0,Mixed
+DIVISLAB,2018.0,776.0,-478.0,-314.0,298.0,27.0,Reinvestor
+DIVISLAB,2019.0,954.0,-685.0,-246.0,269.0,43.0,Reinvestor
+DIVISLAB,2020.0,1216.0,-83.0,-1091.0,1133.0,-67.0,Reinvestor
+DIVISLAB,2021.0,1947.0,75.0,-35.0,2022.0,-34.0,Liquidating Assets
+DIVISLAB,2022.0,1912.0,-2195.0,-532.0,-283.0,-1.0,Reinvestor
+DIVISLAB,2023.0,2459.0,-2707.0,-797.0,-248.0,0.0,Reinvestor
+DIVISLAB,2024.0,1261.0,-269.0,-799.0,992.0,4.0,Reinvestor
+DLF,2013.0,2009.0,1995.0,-3951.0,4004.0,0.0,Liquidating Assets
+DLF,2014.0,1468.0,3924.0,-4532.0,5392.0,-2467.0,Liquidating Assets
+DLF,2015.0,2037.0,98.0,-1547.0,2135.0,362.0,Liquidating Assets
+DLF,2016.0,2957.0,-818.0,-1929.0,2139.0,769.0,Reinvestor
+DLF,2017.0,-898.0,872.0,787.0,-26.0,3938.0,Distress Signal
+DLF,2018.0,270.0,-2102.0,-232.0,-1832.0,-11711.0,Reinvestor
+DLF,2019.0,2043.0,3.0,875.0,2046.0,-269.0,Cash Accumulator
+DLF,2020.0,356.0,6508.0,-9522.0,6864.0,-9119.0,Liquidating Assets
+DLF,2021.0,1460.0,150.0,-2184.0,1610.0,-1217.0,Liquidating Assets
+DLF,2022.0,2832.0,267.0,-3828.0,3099.0,-2704.0,Liquidating Assets
+DLF,2023.0,2375.0,-461.0,-2013.0,1914.0,-848.0,Reinvestor
+DLF,2024.0,2539.0,-1529.0,177.0,1010.0,956.0,Mixed
+DMART,2013.0,127.0,-231.0,118.0,-104.0,0.0,Mixed
+DMART,2014.0,198.0,-270.0,65.0,-72.0,115.0,Mixed
+DMART,2015.0,222.0,-474.0,234.0,-252.0,263.0,Mixed
+DMART,2016.0,433.0,-633.0,196.0,-200.0,288.0,Mixed
+DMART,2017.0,455.0,-2482.0,2025.0,-2027.0,305.0,Mixed
+DMART,2018.0,730.0,464.0,-1159.0,1194.0,-1058.0,Liquidating Assets
+DMART,2019.0,807.0,-958.0,209.0,-151.0,261.0,Mixed
+DMART,2020.0,1280.0,-4657.0,3357.0,-3377.0,-367.0,Mixed
+DMART,2021.0,1375.0,-1110.0,-180.0,265.0,60.0,Reinvestor
+DMART,2022.0,1372.0,-1289.0,-179.0,83.0,254.0,Reinvestor
+DMART,2023.0,2630.0,-2313.0,-205.0,317.0,-4.0,Reinvestor
+DMART,2024.0,2746.0,-2468.0,-148.0,278.0,70.0,Reinvestor
+DRREDDY,2013.0,1378.0,-1437.0,-157.0,-59.0,0.0,Reinvestor
+DRREDDY,2014.0,1970.0,-1604.0,-24.0,366.0,795.0,Reinvestor
+DRREDDY,2015.0,2524.0,-2370.0,-433.0,154.0,-163.0,Reinvestor
+DRREDDY,2016.0,3263.0,-1610.0,-1700.0,1653.0,-962.0,Reinvestor
+DRREDDY,2017.0,2144.0,-1890.0,-369.0,254.0,1566.0,Reinvestor
+DRREDDY,2018.0,1803.0,-1483.0,-444.0,320.0,153.0,Reinvestor
+DRREDDY,2019.0,2870.0,-769.0,-2133.0,2101.0,-1233.0,Reinvestor
+DRREDDY,2020.0,2984.0,-495.0,-2516.0,2489.0,-1628.0,Reinvestor
+DRREDDY,2021.0,3570.0,-2255.0,-30.0,1315.0,821.0,Reinvestor
+DRREDDY,2022.0,2811.0,-2565.0,-242.0,246.0,353.0,Reinvestor
+DRREDDY,2023.0,5888.0,-4109.0,-2686.0,1779.0,-2037.0,Reinvestor
+DRREDDY,2024.0,4543.0,-4034.0,-376.0,509.0,3507.0,Reinvestor
+EICHERMOT,2012.0,496.0,-773.0,-111.0,-277.0,0.0,Reinvestor
+EICHERMOT,2013.0,716.0,-790.0,-47.0,-74.0,61.0,Reinvestor
+EICHERMOT,2014.0,1047.0,-1214.0,-162.0,-167.0,-26.0,Reinvestor
+EICHERMOT,2016.0,1463.0,-1001.0,-466.0,462.0,-35.0,Reinvestor
+EICHERMOT,2017.0,1708.0,-1744.0,25.0,-36.0,89.0,Mixed
+EICHERMOT,2018.0,2482.0,-2145.0,-262.0,337.0,39.0,Reinvestor
+EICHERMOT,2019.0,1575.0,-660.0,-292.0,915.0,36.0,Reinvestor
+EICHERMOT,2020.0,1694.0,-1508.0,-858.0,186.0,62.0,Reinvestor
+EICHERMOT,2021.0,1691.0,-1625.0,-15.0,66.0,-30.0,Reinvestor
+EICHERMOT,2022.0,1527.0,-983.0,-593.0,544.0,-111.0,Reinvestor
+EICHERMOT,2023.0,2823.0,-2397.0,-417.0,426.0,180.0,Reinvestor
+EICHERMOT,2024.0,3724.0,-2834.0,-844.0,890.0,116.0,Reinvestor
+GAIL,2013.0,6603.0,-8626.0,3642.0,-2023.0,0.0,Mixed
+GAIL,2014.0,4615.0,-4466.0,-3.0,149.0,2065.0,Reinvestor
+GAIL,2015.0,4214.0,-2809.0,-3058.0,1405.0,-246.0,Reinvestor
+GAIL,2016.0,3960.0,-904.0,-3028.0,3056.0,-9239.0,Reinvestor
+GAIL,2017.0,6024.0,-334.0,-5275.0,5690.0,-2499.0,Reinvestor
+GAIL,2018.0,8769.0,-2660.0,-5252.0,6109.0,-2677.0,Reinvestor
+GAIL,2019.0,7984.0,-5701.0,-3364.0,2283.0,-1652.0,Reinvestor
+GAIL,2020.0,8345.0,-8299.0,281.0,46.0,4688.0,Mixed
+GAIL,2021.0,8993.0,-4640.0,-3471.0,4353.0,961.0,Reinvestor
+GAIL,2022.0,9420.0,-5490.0,-3917.0,3930.0,1343.0,Reinvestor
+GAIL,2023.0,3205.0,-7453.0,2972.0,-4248.0,8600.0,Mixed
+GAIL,2024.0,12586.0,-8226.0,-3457.0,4360.0,1816.0,Reinvestor
+GODREJCP,2013.0,820.0,-865.0,282.0,-45.0,0.0,Mixed
+GODREJCP,2014.0,1116.0,-494.0,-620.0,622.0,-83.0,Reinvestor
+GODREJCP,2015.0,1027.0,-1236.0,-12.0,-209.0,344.0,Reinvestor
+GODREJCP,2016.0,847.0,-622.0,-202.0,225.0,174.0,Reinvestor
+GODREJCP,2017.0,1860.0,-2243.0,665.0,-383.0,1110.0,Mixed
+GODREJCP,2018.0,1723.0,-336.0,-1384.0,1387.0,-493.0,Reinvestor
+GODREJCP,2019.0,1729.0,274.0,-2039.0,2003.0,-126.0,Liquidating Assets
+GODREJCP,2020.0,1588.0,-552.0,-1295.0,1036.0,193.0,Reinvestor
+GODREJCP,2021.0,2030.0,-292.0,-1816.0,1738.0,-1711.0,Reinvestor
+GODREJCP,2022.0,1451.0,-844.0,-380.0,607.0,-160.0,Reinvestor
+GODREJCP,2023.0,2151.0,-1754.0,-794.0,397.0,-574.0,Reinvestor
+GODREJCP,2024.0,2070.0,-3435.0,1406.0,-1365.0,2698.0,Mixed
+GRASIM,2013.0,4242.0,-5687.0,1348.0,-1445.0,0.0,Mixed
+GRASIM,2014.0,3549.0,-2336.0,-1046.0,1213.0,131.0,Reinvestor
+GRASIM,2015.0,4594.0,-2359.0,-2278.0,2235.0,2249.0,Reinvestor
+GRASIM,2016.0,5868.0,-4515.0,-1365.0,1353.0,575.0,Reinvestor
+GRASIM,2017.0,7288.0,-3509.0,-3799.0,3779.0,-3292.0,Reinvestor
+GRASIM,2018.0,-4140.0,1546.0,3449.0,-2594.0,57857.0,Distress Signal
+GRASIM,2019.0,-1659.0,-2212.0,4158.0,-3871.0,17417.0,Growth Funded by Debt
+GRASIM,2020.0,16620.0,-11364.0,-3418.0,5256.0,290.0,Reinvestor
+GRASIM,2021.0,15075.0,-7146.0,-8003.0,7929.0,-5699.0,Reinvestor
+GRASIM,2022.0,7038.0,-1053.0,-6733.0,5985.0,-4334.0,Reinvestor
+GRASIM,2023.0,-12685.0,-13712.0,26469.0,-26397.0,28295.0,Growth Funded by Debt
+GRASIM,2024.0,-10719.0,-23114.0,33908.0,-33833.0,55120.0,Growth Funded by Debt
+HAL,2017.0,-423.0,3021.0,-164.0,2598.0,0.0,Mixed
+HAL,2018.0,-734.0,594.0,-2540.0,-140.0,1.0,Mixed
+HAL,2019.0,-7694.0,5292.0,2321.0,-2402.0,5.0,Distress Signal
+HAL,2020.0,1537.0,-1334.0,64.0,203.0,-6.0,Mixed
+HAL,2021.0,15124.0,-1190.0,-7070.0,13934.0,4.0,Reinvestor
+HAL,2022.0,10180.0,-12789.0,-1464.0,-2609.0,6.0,Reinvestor
+HAL,2023.0,8836.0,-5734.0,-1731.0,3102.0,35.0,Reinvestor
+HAL,2024.0,8226.0,-6412.0,-1999.0,1814.0,77.0,Reinvestor
+HAVELLS,2013.0,638.0,-144.0,-252.0,494.0,0.0,Reinvestor
+HAVELLS,2014.0,868.0,-376.0,-310.0,492.0,72.0,Reinvestor
+HAVELLS,2015.0,963.0,-485.0,-754.0,478.0,-630.0,Reinvestor
+HAVELLS,2016.0,513.0,-121.0,-621.0,392.0,-290.0,Reinvestor
+HAVELLS,2017.0,767.0,-220.0,-98.0,547.0,74.0,Reinvestor
+HAVELLS,2018.0,1100.0,-946.0,-409.0,154.0,-93.0,Reinvestor
+HAVELLS,2019.0,501.0,185.0,-318.0,686.0,-21.0,Liquidating Assets
+HAVELLS,2020.0,827.0,-548.0,-716.0,279.0,-22.0,Reinvestor
+HAVELLS,2021.0,660.0,-763.0,190.0,-103.0,449.0,Mixed
+HAVELLS,2022.0,1728.0,-759.0,-547.0,969.0,95.0,Reinvestor
+HAVELLS,2023.0,565.0,31.0,-907.0,596.0,-393.0,Liquidating Assets
+HAVELLS,2024.0,1953.0,-1618.0,-534.0,335.0,109.0,Reinvestor
+HCLTECH,2013.0,4492.0,-2361.0,-2086.0,2131.0,0.0,Reinvestor
+HCLTECH,2014.0,6457.0,-4842.0,-1308.0,1615.0,-26.0,Reinvestor
+HCLTECH,2015.0,5539.0,-2088.0,-3140.0,3451.0,-370.0,Reinvestor
+HCLTECH,2016.0,3823.0,-2208.0,-2237.0,1615.0,442.0,Reinvestor
+HCLTECH,2017.0,8995.0,-3890.0,-4517.0,5105.0,-508.0,Reinvestor
+HCLTECH,2018.0,8328.0,-2236.0,-5714.0,6092.0,-25.0,Reinvestor
+HCLTECH,2019.0,8971.0,-3256.0,-1471.0,5715.0,3638.0,Reinvestor
+HCLTECH,2020.0,13359.0,-12332.0,-3168.0,1027.0,3791.0,Reinvestor
+HCLTECH,2021.0,19618.0,-5665.0,-11192.0,13953.0,-1122.0,Reinvestor
+HCLTECH,2022.0,16900.0,1597.0,-14508.0,18497.0,-521.0,Liquidating Assets
+HCLTECH,2023.0,18009.0,-3573.0,-15881.0,14436.0,-1549.0,Reinvestor
+HCLTECH,2024.0,22448.0,-6608.0,-15464.0,15840.0,997.0,Reinvestor
+HDFCBANK,2013.0,-5847.0,-902.0,13105.0,-6749.0,0.0,Growth Funded by Debt
+HDFCBANK,2014.0,4211.0,-1099.0,9270.0,3112.0,81089.0,Mixed
+HDFCBANK,2015.0,-21281.0,-800.0,18694.0,-22081.0,93085.0,Growth Funded by Debt
+HDFCBANK,2016.0,-34435.0,-837.0,37815.0,-35272.0,139825.0,Growth Funded by Debt
+HDFCBANK,2017.0,17282.0,-1146.0,-5893.0,16136.0,91963.0,Reinvestor
+HDFCBANK,2018.0,17214.0,-842.0,57378.0,16372.0,203267.0,Mixed
+HDFCBANK,2019.0,-62872.0,-1503.0,23131.0,-64375.0,135418.0,Growth Funded by Debt
+HDFCBANK,2020.0,-16869.0,-1403.0,24394.0,-18272.0,252806.0,Growth Funded by Debt
+HDFCBANK,2021.0,42476.0,-1823.0,-7321.0,40653.0,178377.0,Reinvestor
+HDFCBANK,2022.0,-11960.0,-2051.0,48124.0,-14011.0,273552.0,Growth Funded by Debt
+HDFCBANK,2023.0,20814.0,-2992.0,23941.0,17822.0,354242.0,Mixed
+HDFCBANK,2024.0,19069.0,16600.0,-3983.0,35669.0,968291.0,Liquidating Assets
+HDFCLIFE,2013.0,0.0,0.0,0.0,0.0,0.0,Mixed
+HDFCLIFE,2014.0,0.0,0.0,0.0,0.0,0.0,Mixed
+HDFCLIFE,2015.0,4459.0,-3514.0,-168.0,945.0,0.0,Reinvestor
+HDFCLIFE,2016.0,5687.0,-3962.0,-212.0,1725.0,0.0,Reinvestor
+HDFCLIFE,2017.0,6230.0,-5177.0,-236.0,1053.0,0.0,Reinvestor
+HDFCLIFE,2018.0,6739.0,-4421.0,-196.0,2318.0,0.0,Reinvestor
+HDFCLIFE,2019.0,9868.0,-10182.0,-337.0,-314.0,0.0,Reinvestor
+HDFCLIFE,2020.0,7388.0,-7789.0,38.0,-401.0,0.0,Mixed
+HDFCLIFE,2021.0,9703.0,-8952.0,678.0,751.0,600.0,Mixed
+HDFCLIFE,2022.0,5943.0,-801.0,-238.0,5142.0,0.0,Reinvestor
+HDFCLIFE,2023.0,6883.0,-10071.0,1985.0,-3188.0,350.0,Mixed
+HDFCLIFE,2024.0,10721.0,-13614.0,-403.0,-2893.0,0.0,Reinvestor
+HEROMOTOCO,2014.0,2963.0,-1616.0,-1414.0,1347.0,0.0,Reinvestor
+HEROMOTOCO,2015.0,2186.0,31.0,-2131.0,2217.0,-184.0,Liquidating Assets
+HEROMOTOCO,2016.0,3722.0,-2300.0,-1475.0,1422.0,132.0,Reinvestor
+HEROMOTOCO,2017.0,4007.0,-1972.0,-2036.0,2035.0,29.0,Reinvestor
+HEROMOTOCO,2018.0,4017.0,-1858.0,-2102.0,2159.0,-33.0,Reinvestor
+HEROMOTOCO,2019.0,1032.0,1298.0,-2252.0,2330.0,84.0,Liquidating Assets
+HEROMOTOCO,2020.0,5518.0,-2819.0,-2602.0,2699.0,141.0,Reinvestor
+HEROMOTOCO,2021.0,4110.0,-2289.0,-1852.0,1821.0,131.0,Reinvestor
+HEROMOTOCO,2022.0,2104.0,-222.0,-1975.0,1882.0,21.0,Reinvestor
+HEROMOTOCO,2023.0,2614.0,-421.0,-2147.0,2193.0,-37.0,Reinvestor
+HEROMOTOCO,2024.0,4923.0,-1828.0,-2717.0,3095.0,20.0,Reinvestor
+HINDALCO,2013.0,2977.0,-13801.0,10278.0,-10824.0,0.0,Mixed
+HINDALCO,2014.0,7956.0,-8095.0,1493.0,-139.0,7805.0,Mixed
+HINDALCO,2015.0,7143.0,-3873.0,-2437.0,3270.0,3712.0,Reinvestor
+HINDALCO,2016.0,11688.0,-3220.0,-8862.0,8468.0,-916.0,Reinvestor
+HINDALCO,2017.0,12687.0,-2876.0,-5552.0,9811.0,-3735.0,Reinvestor
+HINDALCO,2018.0,10898.0,5333.0,-16412.0,16231.0,-11743.0,Liquidating Assets
+HINDALCO,2019.0,11977.0,-5456.0,-5466.0,6521.0,341.0,Reinvestor
+HINDALCO,2020.0,12745.0,-7227.0,6656.0,5518.0,15984.0,Mixed
+HINDALCO,2021.0,17232.0,-25280.0,-4882.0,-8048.0,-1193.0,Reinvestor
+HINDALCO,2022.0,16838.0,-6773.0,-6765.0,10065.0,-2720.0,Reinvestor
+HINDALCO,2023.0,19208.0,-7559.0,-10450.0,11649.0,-4195.0,Reinvestor
+HINDALCO,2024.0,24056.0,-14267.0,-10817.0,9789.0,668.0,Reinvestor
+HINDUNILVR,2013.0,3605.0,63.0,-4147.0,3668.0,0.0,Liquidating Assets
+HINDUNILVR,2014.0,3818.0,-475.0,-2960.0,3343.0,21.0,Reinvestor
+HINDUNILVR,2015.0,3292.0,138.0,-3462.0,3430.0,-3.0,Liquidating Assets
+HINDUNILVR,2016.0,4171.0,-282.0,-3864.0,3889.0,134.0,Reinvestor
+HINDUNILVR,2017.0,5185.0,-1173.0,-4214.0,4012.0,100.0,Reinvestor
+HINDUNILVR,2018.0,6059.0,-1063.0,-4975.0,4996.0,-277.0,Reinvestor
+HINDUNILVR,2019.0,5800.0,-438.0,-5390.0,5362.0,99.0,Reinvestor
+HINDUNILVR,2020.0,7623.0,1791.0,-6819.0,9414.0,-99.0,Liquidating Assets
+HINDUNILVR,2021.0,9163.0,-1228.0,-9309.0,7935.0,0.0,Reinvestor
+HINDUNILVR,2022.0,9048.0,-1728.0,-8015.0,7320.0,1043.0,Reinvestor
+HINDUNILVR,2023.0,9991.0,-1484.0,-8953.0,8507.0,176.0,Reinvestor
+HINDUNILVR,2024.0,15469.0,-5324.0,-10034.0,10145.0,432.0,Reinvestor
+ICICIBANK,2013.0,17494.0,-18563.0,9283.0,-1069.0,0.0,Mixed
+ICICIBANK,2014.0,6765.0,-15750.0,7872.0,-8985.0,55396.0,Mixed
+ICICIBANK,2015.0,-12273.0,-13175.0,24827.0,-25448.0,54152.0,Growth Funded by Debt
+ICICIBANK,2016.0,23645.0,-12060.0,5814.0,11585.0,74248.0,Mixed
+ICICIBANK,2017.0,52636.0,-1711.0,-35470.0,50925.0,29419.0,Reinvestor
+ICICIBANK,2018.0,19383.0,-50551.0,39676.0,-31168.0,114324.0,Mixed
+ICICIBANK,2019.0,48671.0,-30282.0,-19997.0,18389.0,76443.0,Reinvestor
+ICICIBANK,2020.0,79565.0,-42095.0,2992.0,37470.0,122995.0,Mixed
+ICICIBANK,2021.0,138015.0,-63631.0,-54667.0,74384.0,89204.0,Reinvestor
+ICICIBANK,2022.0,58111.0,-39448.0,17451.0,18663.0,149128.0,Mixed
+ICICIBANK,2023.0,-3771.0,-67689.0,24791.0,-71460.0,146926.0,Growth Funded by Debt
+ICICIBANK,2024.0,157284.0,-144737.0,13765.0,12547.0,251114.0,Mixed
+ICICIGI,2013.0,984.0,-962.0,102.0,22.0,0.0,Mixed
+ICICIGI,2014.0,595.0,-706.0,4.0,-111.0,0.0,Mixed
+ICICIGI,2015.0,-98.0,171.0,-93.0,73.0,0.0,Mixed
+ICICIGI,2016.0,511.0,-310.0,-148.0,201.0,0.0,Reinvestor
+ICICIGI,2017.0,1628.0,-1990.0,361.0,-362.0,485.0,Mixed
+ICICIGI,2018.0,2390.0,-1896.0,-96.0,494.0,0.0,Reinvestor
+ICICIGI,2019.0,2976.0,-2856.0,-310.0,120.0,0.0,Reinvestor
+ICICIGI,2020.0,3433.0,-3382.0,-420.0,51.0,0.0,Reinvestor
+ICICIGI,2021.0,1774.0,-1367.0,-212.0,407.0,0.0,Reinvestor
+ICICIGI,2022.0,809.0,135.0,-879.0,944.0,-230.0,Liquidating Assets
+ICICIGI,2023.0,2290.0,-1685.0,-695.0,605.0,-220.0,Reinvestor
+ICICIGI,2024.0,2407.0,-1921.0,-355.0,486.0,-35.0,Reinvestor
+ICICIPRULI,2013.0,-2641.0,1564.0,-514.0,-1077.0,0.0,Mixed
+ICICIPRULI,2014.0,-2382.0,6012.0,-1091.0,3630.0,0.0,Mixed
+ICICIPRULI,2015.0,523.0,-1822.0,-966.0,-1299.0,0.0,Reinvestor
+ICICIPRULI,2016.0,3634.0,27.0,-1442.0,3661.0,1029.0,Liquidating Assets
+ICICIPRULI,2017.0,4130.0,-696.0,-994.0,3434.0,-1029.0,Reinvestor
+ICICIPRULI,2018.0,5690.0,-5389.0,-1188.0,301.0,0.0,Reinvestor
+ICICIPRULI,2019.0,11377.0,-7559.0,-843.0,3818.0,0.0,Reinvestor
+ICICIPRULI,2020.0,8596.0,-10797.0,-405.0,-2201.0,0.0,Reinvestor
+ICICIPRULI,2021.0,7314.0,-5084.0,1205.0,2230.0,1200.0,Mixed
+ICICIPRULI,2022.0,1831.0,-816.0,-319.0,1015.0,0.0,Reinvestor
+ICICIPRULI,2023.0,89.0,-1145.0,-112.0,-1056.0,0.0,Reinvestor
+ICICIPRULI,2024.0,-7315.0,7420.0,-88.0,105.0,-1200.0,Mixed
+INDIGO,2013.0,1741.0,-1890.0,36.0,-149.0,0.0,Mixed
+INDIGO,2014.0,1595.0,-2914.0,1285.0,-1319.0,3.0,Mixed
+INDIGO,2015.0,2384.0,-940.0,-1308.0,1444.0,-10.0,Reinvestor
+INDIGO,2016.0,3116.0,-1337.0,-1220.0,1779.0,4.0,Reinvestor
+INDIGO,2017.0,3782.0,-3033.0,-1401.0,749.0,44.0,Reinvestor
+INDIGO,2018.0,3903.0,-4152.0,766.0,-249.0,2.0,Mixed
+INDIGO,2019.0,3160.0,-2526.0,-592.0,634.0,34.0,Reinvestor
+INDIGO,2020.0,6943.0,-4573.0,-2407.0,2370.0,-13.0,Reinvestor
+INDIGO,2021.0,-1620.0,3228.0,-1775.0,1608.0,-66.0,Mixed
+INDIGO,2022.0,2064.0,1527.0,-3088.0,3591.0,3.0,Liquidating Assets
+INDIGO,2023.0,12703.0,-4039.0,-8432.0,8664.0,0.0,Reinvestor
+INDIGO,2024.0,21183.0,-11759.0,-9979.0,9424.0,8.0,Reinvestor
+INDUSINDBK,2013.0,-486.0,-174.0,1969.0,-660.0,0.0,Growth Funded by Debt
+INDUSINDBK,2014.0,-4106.0,-174.0,4200.0,-4280.0,11688.0,Growth Funded by Debt
+INDUSINDBK,2015.0,-1421.0,-276.0,5707.0,-1697.0,19488.0,Growth Funded by Debt
+INDUSINDBK,2016.0,-2927.0,-258.0,2517.0,-3185.0,23244.0,Growth Funded by Debt
+INDUSINDBK,2017.0,11569.0,-285.0,-2768.0,11284.0,31030.0,Reinvestor
+INDUSINDBK,2018.0,-20700.0,-217.0,15505.0,-20917.0,40902.0,Growth Funded by Debt
+INDUSINDBK,2019.0,-6389.0,-633.0,8590.0,-7022.0,52261.0,Growth Funded by Debt
+INDUSINDBK,2020.0,-12039.0,526.0,12733.0,-11513.0,20604.0,Distress Signal
+INDUSINDBK,2021.0,44646.0,-226.0,-4096.0,44420.0,44735.0,Reinvestor
+INDUSINDBK,2022.0,16600.0,-351.0,-4302.0,16249.0,33477.0,Reinvestor
+INDUSINDBK,2023.0,-12438.0,-441.0,1115.0,-12879.0,44444.0,Growth Funded by Debt
+INDUSINDBK,2024.0,-16843.0,-625.0,-2242.0,-17468.0,46955.0,Pre-Revenue
+INFY,2013.0,7373.0,-2922.0,-3210.0,4451.0,0.0,Reinvestor
+INFY,2014.0,9825.0,-2563.0,-3144.0,7262.0,0.0,Reinvestor
+INFY,2015.0,8353.0,999.0,-4935.0,9352.0,0.0,Liquidating Assets
+INFY,2016.0,10028.0,-885.0,-6813.0,9143.0,0.0,Reinvestor
+INFY,2017.0,11531.0,-14664.0,-6939.0,-3133.0,0.0,Reinvestor
+INFY,2018.0,13218.0,4533.0,-20505.0,17751.0,0.0,Liquidating Assets
+INFY,2019.0,14841.0,-632.0,-14512.0,14209.0,0.0,Reinvestor
+INFY,2020.0,17003.0,-331.0,-17591.0,16672.0,4633.0,Reinvestor
+INFY,2021.0,23224.0,-7373.0,-9786.0,15851.0,692.0,Reinvestor
+INFY,2022.0,23885.0,-6485.0,-24642.0,17400.0,149.0,Reinvestor
+INFY,2023.0,22467.0,-1071.0,-26695.0,21396.0,2825.0,Reinvestor
+INFY,2024.0,25210.0,-5093.0,-17504.0,20117.0,505.0,Reinvestor
+IOC,2013.0,9340.0,-9294.0,352.0,46.0,0.0,Mixed
+IOC,2014.0,24195.0,-18594.0,-3116.0,5601.0,5245.0,Reinvestor
+IOC,2015.0,46092.0,-10215.0,-38283.0,35877.0,-30023.0,Reinvestor
+IOC,2016.0,25624.0,-13610.0,-11890.0,12014.0,-6341.0,Reinvestor
+IOC,2017.0,28216.0,-17684.0,-10937.0,10532.0,4719.0,Reinvestor
+IOC,2018.0,29115.0,-17119.0,-12007.0,11996.0,2379.0,Reinvestor
+IOC,2019.0,12747.0,-22569.0,10436.0,-9822.0,31115.0,Mixed
+IOC,2020.0,7146.0,-29101.0,22456.0,-21955.0,33025.0,Mixed
+IOC,2021.0,49650.0,-22935.0,-27369.0,26715.0,-13141.0,Reinvestor
+IOC,2022.0,25747.0,-21294.0,-4058.0,4453.0,15371.0,Reinvestor
+IOC,2023.0,29644.0,-28030.0,-1794.0,1614.0,16957.0,Reinvestor
+IOC,2024.0,71099.0,-31464.0,-39385.0,39635.0,14424.0,Reinvestor
+IRCTC,2015.0,69.0,-46.0,-17.0,23.0,0.0,Reinvestor
+IRCTC,2016.0,288.0,7.0,-31.0,295.0,0.0,Liquidating Assets
+IRCTC,2017.0,338.0,94.0,-136.0,432.0,0.0,Liquidating Assets
+IRCTC,2018.0,24.0,40.0,-57.0,64.0,0.0,Liquidating Assets
+IRCTC,2019.0,499.0,-353.0,-179.0,146.0,0.0,Reinvestor
+IRCTC,2020.0,409.0,8.0,-280.0,417.0,0.0,Liquidating Assets
+IRCTC,2021.0,248.0,-453.0,-47.0,-205.0,79.0,Reinvestor
+IRCTC,2022.0,524.0,-242.0,-258.0,282.0,26.0,Reinvestor
+IRCTC,2023.0,812.0,-317.0,-434.0,495.0,-21.0,Reinvestor
+IRCTC,2024.0,882.0,-215.0,-404.0,667.0,-42.0,Reinvestor
+IRFC,2016.0,-16378.0,2.0,17582.0,-16376.0,0.0,Distress Signal
+IRFC,2017.0,-19455.0,2.0,18250.0,-19453.0,18892.0,Distress Signal
+IRFC,2018.0,-28076.0,2.0,28075.0,-28074.0,27611.0,Distress Signal
+IRFC,2019.0,-41748.0,1.0,41749.0,-41747.0,39927.0,Distress Signal
+IRFC,2020.0,-62701.0,1.0,62697.0,-62700.0,60444.0,Distress Signal
+IRFC,2021.0,-89907.0,0.0,90202.0,-89907.0,88768.0,Mixed
+IRFC,2022.0,-64412.0,-5.0,64266.0,-64417.0,65295.0,Growth Funded by Debt
+IRFC,2023.0,-28588.0,0.0,28644.0,-28588.0,30495.0,Mixed
+IRFC,2024.0,7914.0,-8.0,-8046.0,7906.0,-15824.0,Reinvestor
+ITC,2013.0,7102.0,-3881.0,-3310.0,3221.0,0.0,Reinvestor
+ITC,2014.0,7344.0,-3254.0,-4122.0,4090.0,140.0,Reinvestor
+ITC,2015.0,9843.0,-5275.0,-4661.0,4568.0,27.0,Reinvestor
+ITC,2016.0,9799.0,-3921.0,-5613.0,5878.0,-185.0,Reinvestor
+ITC,2017.0,10627.0,-3251.0,-7301.0,7376.0,-38.0,Reinvestor
+ITC,2018.0,13169.0,-7114.0,-6221.0,6055.0,-10.0,Reinvestor
+ITC,2019.0,12583.0,-5546.0,-6869.0,7037.0,-23.0,Reinvestor
+ITC,2020.0,14690.0,-6174.0,-8181.0,8516.0,264.0,Reinvestor
+ITC,2021.0,12527.0,5740.0,-18634.0,18267.0,-6.0,Liquidating Assets
+ITC,2022.0,15776.0,-2238.0,-13580.0,13538.0,-22.0,Reinvestor
+ITC,2023.0,18878.0,-5732.0,-13006.0,13146.0,57.0,Reinvestor
+ITC,2024.0,17179.0,1563.0,-18551.0,18742.0,-2.0,Liquidating Assets
+JINDALSTEL,2013.0,3522.0,-9591.0,6111.0,-6069.0,0.0,Mixed
+JINDALSTEL,2014.0,4580.0,-12694.0,8879.0,-8114.0,11750.0,Mixed
+JINDALSTEL,2015.0,1182.0,-6717.0,5708.0,-5535.0,9133.0,Mixed
+JINDALSTEL,2016.0,4333.0,-2262.0,-2672.0,2071.0,1296.0,Reinvestor
+JINDALSTEL,2017.0,6850.0,-1998.0,-5108.0,4852.0,-947.0,Reinvestor
+JINDALSTEL,2018.0,7724.0,-1431.0,-6276.0,6293.0,-2888.0,Reinvestor
+JINDALSTEL,2019.0,9027.0,-832.0,-8261.0,8195.0,-3403.0,Reinvestor
+JINDALSTEL,2020.0,8814.0,-1476.0,-7016.0,7338.0,-2735.0,Reinvestor
+JINDALSTEL,2021.0,11961.0,-1884.0,-4612.0,10077.0,-6914.0,Reinvestor
+JINDALSTEL,2022.0,16048.0,-2331.0,-15120.0,13717.0,-16408.0,Reinvestor
+JINDALSTEL,2023.0,7347.0,-4090.0,-2500.0,3257.0,-456.0,Reinvestor
+JINDALSTEL,2024.0,6008.0,-8344.0,1381.0,-2336.0,4220.0,Mixed
+JIOFIN,2023.0,2055.0,-1110.0,-889.0,945.0,0.0,Reinvestor
+JIOFIN,2024.0,-678.0,1441.0,-753.0,763.0,-743.0,Mixed
+JSWENERGY,2013.0,1725.0,-944.0,-684.0,781.0,0.0,Reinvestor
+JSWENERGY,2014.0,2269.0,-363.0,-1859.0,1906.0,-271.0,Reinvestor
+JSWENERGY,2015.0,3394.0,-422.0,-2327.0,2972.0,-812.0,Reinvestor
+JSWENERGY,2016.0,3538.0,-3272.0,-1622.0,266.0,5568.0,Reinvestor
+JSWENERGY,2017.0,3853.0,-762.0,-2595.0,3091.0,-513.0,Reinvestor
+JSWENERGY,2018.0,3934.0,-215.0,-3968.0,3719.0,-2466.0,Reinvestor
+JSWENERGY,2019.0,2491.0,-55.0,-2523.0,2436.0,-1328.0,Reinvestor
+JSWENERGY,2020.0,2082.0,301.0,-1962.0,2383.0,-715.0,Liquidating Assets
+JSWENERGY,2021.0,3700.0,-1030.0,-2515.0,2670.0,-1469.0,Reinvestor
+JSWENERGY,2022.0,2952.0,-1387.0,-781.0,1565.0,572.0,Reinvestor
+JSWENERGY,2023.0,2084.0,-6778.0,7327.0,-4694.0,16108.0,Mixed
+JSWENERGY,2024.0,6234.0,-8197.0,1675.0,-1963.0,5802.0,Mixed
+JSWSTEEL,2013.0,5844.0,-5433.0,-791.0,411.0,0.0,Reinvestor
+JSWSTEEL,2014.0,2594.0,-5618.0,3300.0,-3024.0,13902.0,Mixed
+JSWSTEEL,2015.0,7876.0,-7372.0,-169.0,504.0,3227.0,Reinvestor
+JSWSTEEL,2016.0,6897.0,-3857.0,-3151.0,3040.0,3450.0,Reinvestor
+JSWSTEEL,2017.0,7888.0,-5094.0,-2710.0,2794.0,1130.0,Reinvestor
+JSWSTEEL,2018.0,12379.0,-4529.0,-8185.0,7850.0,-3941.0,Reinvestor
+JSWSTEEL,2019.0,14633.0,-11387.0,1753.0,3246.0,8003.0,Mixed
+JSWSTEEL,2020.0,12785.0,-19589.0,5189.0,-6804.0,14027.0,Mixed
+JSWSTEEL,2021.0,18789.0,-7702.0,-3110.0,11087.0,969.0,Reinvestor
+JSWSTEEL,2022.0,26270.0,-14748.0,-14657.0,11522.0,9845.0,Reinvestor
+JSWSTEEL,2023.0,23323.0,-10730.0,-5977.0,12593.0,8616.0,Reinvestor
+JSWSTEEL,2024.0,12078.0,-14467.0,-5005.0,-2389.0,14405.0,Reinvestor
+KOTAKBANK,2013.0,2878.0,-9035.0,7099.0,-6157.0,0.0,Mixed
+KOTAKBANK,2014.0,9068.0,-1130.0,-5814.0,7938.0,376.0,Reinvestor
+KOTAKBANK,2015.0,2302.0,-4467.0,2426.0,-2165.0,18321.0,Mixed
+KOTAKBANK,2016.0,5025.0,-2353.0,2024.0,2672.0,75421.0,Mixed
+KOTAKBANK,2017.0,13222.0,-5289.0,6055.0,7933.0,25551.0,Mixed
+KOTAKBANK,2018.0,-10392.0,-5475.0,14679.0,-15867.0,44610.0,Growth Funded by Debt
+KOTAKBANK,2019.0,1822.0,-3323.0,8365.0,-1501.0,41923.0,Mixed
+KOTAKBANK,2020.0,46619.0,-13068.0,-735.0,33551.0,34714.0,Reinvestor
+KOTAKBANK,2021.0,4881.0,-11172.0,-10072.0,-6291.0,633.0,Reinvestor
+KOTAKBANK,2022.0,8308.0,-10903.0,7543.0,-2595.0,38637.0,Mixed
+KOTAKBANK,2023.0,-1242.0,-10381.0,1883.0,-11623.0,53060.0,Growth Funded by Debt
+KOTAKBANK,2024.0,15685.0,-8919.0,15515.0,6766.0,101567.0,Mixed
+LICI,2019.0,13274.0,9636.0,-13700.0,22910.0,0.0,Liquidating Assets
+LICI,2020.0,54367.0,-40415.0,-18664.0,13952.0,-15987.0,Reinvestor
+LICI,2021.0,80602.0,148447.0,-256125.0,229049.0,-253410.0,Liquidating Assets
+LICI,2022.0,-3783.0,12531.0,0.0,8748.0,-3.0,Mixed
+LICI,2023.0,54519.0,-52848.0,-949.0,1671.0,-1.0,Reinvestor
+LICI,2024.0,26122.0,-25269.0,-4427.0,853.0,10.0,Reinvestor
+LODHA,2016.0,387.0,-854.0,330.0,-467.0,0.0,Mixed
+LODHA,2017.0,1469.0,-1174.0,-312.0,295.0,2348.0,Reinvestor
+LODHA,2018.0,696.0,-651.0,24.0,45.0,6433.0,Mixed
+LODHA,2019.0,-463.0,-175.0,736.0,-638.0,3025.0,Growth Funded by Debt
+LODHA,2020.0,3772.0,182.0,-4188.0,3954.0,-7218.0,Liquidating Assets
+LODHA,2021.0,2524.0,420.0,-2835.0,2944.0,-230.0,Liquidating Assets
+LODHA,2022.0,1998.0,1139.0,-2888.0,3137.0,-6656.0,Liquidating Assets
+LODHA,2023.0,2750.0,1789.0,-3706.0,4539.0,-2477.0,Liquidating Assets
+LODHA,2024.0,2512.0,-2947.0,951.0,-435.0,-1070.0,Mixed
+LT,2013.0,-4355.0,-6922.0,11429.0,-11277.0,0.0,Growth Funded by Debt
+LT,2014.0,-7143.0,-5510.0,13136.0,-12653.0,-124.0,Growth Funded by Debt
+LT,2015.0,-1365.0,-4778.0,7903.0,-6143.0,108.0,Growth Funded by Debt
+LT,2016.0,-3240.0,-4627.0,7253.0,-7867.0,-163.0,Growth Funded by Debt
+LT,2017.0,6655.0,-9796.0,2896.0,-3141.0,-55.0,Mixed
+LT,2018.0,-10031.0,3914.0,9370.0,-6117.0,0.0,Distress Signal
+LT,2019.0,-4756.0,-11023.0,15440.0,-15779.0,0.0,Growth Funded by Debt
+LT,2020.0,6694.0,-8408.0,6372.0,-1714.0,912.0,Mixed
+LT,2021.0,23074.0,-5750.0,-15274.0,17324.0,-114.0,Reinvestor
+LT,2022.0,19164.0,-3585.0,-15181.0,15579.0,-540.0,Reinvestor
+LT,2023.0,22777.0,-8048.0,-11572.0,14729.0,1283.0,Reinvestor
+LT,2024.0,18266.0,2179.0,-25413.0,20445.0,785.0,Liquidating Assets
+LTIM,2013.0,608.0,-224.0,-396.0,384.0,0.0,Reinvestor
+LTIM,2014.0,628.0,180.0,-769.0,808.0,-124.0,Liquidating Assets
+LTIM,2015.0,642.0,-103.0,-497.0,539.0,108.0,Reinvestor
+LTIM,2016.0,858.0,-40.0,-817.0,818.0,-163.0,Reinvestor
+LTIM,2017.0,1170.0,-961.0,-33.0,209.0,-55.0,Reinvestor
+LTIM,2018.0,844.0,-452.0,-408.0,392.0,0.0,Reinvestor
+LTIM,2019.0,1395.0,-749.0,-594.0,646.0,0.0,Reinvestor
+LTIM,2020.0,1644.0,-643.0,-890.0,1001.0,912.0,Reinvestor
+LTIM,2021.0,2400.0,-1657.0,-509.0,743.0,-114.0,Reinvestor
+LTIM,2022.0,3251.0,-1643.0,-1680.0,1608.0,-540.0,Reinvestor
+LTIM,2023.0,3095.0,-271.0,-1932.0,2824.0,1283.0,Reinvestor
+LTIM,2024.0,5670.0,-3918.0,-2269.0,1752.0,785.0,Reinvestor
+M&M,2013.0,-922.0,-2903.0,4508.0,-3825.0,0.0,Growth Funded by Debt
+M&M,2014.0,-244.0,-4524.0,5577.0,-4768.0,6456.0,Growth Funded by Debt
+M&M,2015.0,1055.0,-4357.0,1669.0,-3302.0,2744.0,Mixed
+M&M,2016.0,2385.0,-5506.0,2967.0,-3121.0,3642.0,Mixed
+M&M,2017.0,183.0,-5875.0,6108.0,-5692.0,7209.0,Mixed
+M&M,2018.0,682.0,-5467.0,6314.0,-4785.0,7136.0,Mixed
+M&M,2019.0,-4347.0,-7174.0,13194.0,-11521.0,14950.0,Growth Funded by Debt
+M&M,2020.0,-1457.0,-6870.0,6933.0,-8327.0,11244.0,Growth Funded by Debt
+M&M,2021.0,17909.0,-19686.0,406.0,-1777.0,-1467.0,Mixed
+M&M,2022.0,9248.0,-3252.0,-5883.0,5996.0,-3020.0,Reinvestor
+M&M,2023.0,-7074.0,-8866.0,15946.0,-15940.0,14642.0,Growth Funded by Debt
+M&M,2024.0,-5630.0,-5615.0,12281.0,-11245.0,24597.0,Growth Funded by Debt
+MARUTI,2013.0,4059.0,-3119.0,-979.0,940.0,0.0,Reinvestor
+MARUTI,2014.0,4995.0,-4997.0,-74.0,-2.0,435.0,Reinvestor
+MARUTI,2015.0,6449.0,-4491.0,-2004.0,1958.0,-1338.0,Reinvestor
+MARUTI,2016.0,8482.0,-7230.0,-1237.0,1252.0,-435.0,Reinvestor
+MARUTI,2017.0,10282.0,-9173.0,-1129.0,1109.0,253.0,Reinvestor
+MARUTI,2018.0,11788.0,-8302.0,-3436.0,3486.0,-363.0,Reinvestor
+MARUTI,2019.0,6601.0,-3540.0,-2948.0,3061.0,39.0,Reinvestor
+MARUTI,2020.0,3496.0,-557.0,-3104.0,2939.0,24.0,Reinvestor
+MARUTI,2021.0,8856.0,-7291.0,-1545.0,1565.0,357.0,Reinvestor
+MARUTI,2022.0,1840.0,-239.0,-1607.0,1601.0,-115.0,Reinvestor
+MARUTI,2023.0,10815.0,-8820.0,-1214.0,1995.0,822.0,Reinvestor
+MARUTI,2024.0,16801.0,-11865.0,-4062.0,4936.0,-1090.0,Reinvestor
+MOTHERSON,2013.0,1486.0,-1089.0,-256.0,397.0,0.0,Reinvestor
+MOTHERSON,2014.0,2695.0,-1372.0,-1080.0,1323.0,-64.0,Reinvestor
+MOTHERSON,2015.0,3390.0,-2844.0,494.0,546.0,291.0,Mixed
+MOTHERSON,2016.0,2188.0,-1906.0,-263.0,282.0,938.0,Reinvestor
+MOTHERSON,2017.0,3800.0,-6145.0,5518.0,-2345.0,4280.0,Mixed
+MOTHERSON,2018.0,3264.0,-3194.0,-2221.0,70.0,25.0,Reinvestor
+MOTHERSON,2019.0,4312.0,-3318.0,-225.0,994.0,1160.0,Reinvestor
+MOTHERSON,2020.0,6352.0,-2220.0,-2803.0,4132.0,1602.0,Reinvestor
+MOTHERSON,2021.0,5051.0,-1886.0,-2098.0,3165.0,-1206.0,Reinvestor
+MOTHERSON,2022.0,2463.0,-2304.0,-1217.0,159.0,2200.0,Reinvestor
+MOTHERSON,2023.0,4643.0,-2248.0,-2734.0,2395.0,-338.0,Reinvestor
+MOTHERSON,2024.0,7569.0,-6644.0,1281.0,925.0,11625.0,Mixed
+NAUKRI,2013.0,75.0,-46.0,-12.0,29.0,0.0,Reinvestor
+NAUKRI,2014.0,81.0,-204.0,130.0,-123.0,0.0,Mixed
+NAUKRI,2015.0,51.0,-1051.0,1025.0,-1000.0,0.0,Mixed
+NAUKRI,2016.0,78.0,-2.0,-66.0,76.0,0.0,Reinvestor
+NAUKRI,2017.0,213.0,-165.0,-42.0,48.0,0.0,Reinvestor
+NAUKRI,2018.0,253.0,-149.0,-75.0,104.0,0.0,Reinvestor
+NAUKRI,2019.0,276.0,-59.0,-78.0,217.0,0.0,Reinvestor
+NAUKRI,2020.0,350.0,97.0,-143.0,447.0,76.0,Liquidating Assets
+NAUKRI,2021.0,276.0,-2043.0,1880.0,-1767.0,-12.0,Mixed
+NAUKRI,2022.0,707.0,-1177.0,35.0,-470.0,-1.0,Mixed
+NAUKRI,2023.0,512.0,-358.0,2.0,154.0,44.0,Mixed
+NAUKRI,2024.0,702.0,-852.0,120.0,-150.0,148.0,Mixed
+NESTLEIND,2013.0,1796.0,-441.0,-580.0,1355.0,0.0,Reinvestor
+NESTLEIND,2014.0,1644.0,-432.0,-1635.0,1212.0,-1169.0,Reinvestor
+NESTLEIND,2015.0,1098.0,-70.0,-498.0,1028.0,-2.0,Reinvestor
+NESTLEIND,2016.0,1466.0,-126.0,-666.0,1340.0,15.0,Reinvestor
+NESTLEIND,2017.0,1818.0,-131.0,-997.0,1687.0,2.0,Reinvestor
+NESTLEIND,2018.0,2052.0,-52.0,-1317.0,2000.0,0.0,Reinvestor
+NESTLEIND,2019.0,2295.0,83.0,-3602.0,2378.0,154.0,Liquidating Assets
+NESTLEIND,2020.0,2454.0,-321.0,-1956.0,2133.0,-42.0,Reinvestor
+NESTLEIND,2021.0,2236.0,-1920.0,-2020.0,316.0,119.0,Reinvestor
+NESTLEIND,2022.0,2737.0,-392.0,-2123.0,2345.0,5.0,Reinvestor
+NESTLEIND,2023.0,3392.0,-927.0,-2436.0,2465.0,0.0,Reinvestor
+NESTLEIND,2024.0,4175.0,-1237.0,-3135.0,2938.0,99.0,Reinvestor
+NHPC,2013.0,2846.0,-1330.0,-1344.0,1516.0,0.0,Reinvestor
+NHPC,2014.0,3824.0,-1122.0,-4536.0,2702.0,479.0,Reinvestor
+NHPC,2015.0,4061.0,-768.0,-2494.0,3293.0,-235.0,Reinvestor
+NHPC,2016.0,5971.0,-746.0,-4000.0,5225.0,-646.0,Reinvestor
+NHPC,2017.0,8329.0,-1864.0,-7812.0,6465.0,-711.0,Reinvestor
+NHPC,2018.0,4696.0,-886.0,-3863.0,3810.0,-625.0,Reinvestor
+NHPC,2019.0,3824.0,-1182.0,-2637.0,2642.0,464.0,Reinvestor
+NHPC,2020.0,2993.0,-2987.0,12.0,6.0,4160.0,Mixed
+NHPC,2021.0,5070.0,-1607.0,-3058.0,3463.0,139.0,Reinvestor
+NHPC,2022.0,4590.0,-3084.0,-638.0,1506.0,2731.0,Reinvestor
+NHPC,2023.0,4705.0,-4191.0,-795.0,514.0,3444.0,Reinvestor
+NHPC,2024.0,6938.0,-5968.0,-581.0,970.0,4670.0,Reinvestor
+NTPC,2013.0,16508.0,-16845.0,988.0,-337.0,0.0,Mixed
+NTPC,2014.0,16531.0,-15509.0,-2709.0,1022.0,11036.0,Reinvestor
+NTPC,2015.0,14889.0,-15977.0,-1474.0,-1088.0,20797.0,Reinvestor
+NTPC,2016.0,24125.0,-19162.0,-3899.0,4963.0,-2828.0,Reinvestor
+NTPC,2017.0,20167.0,-24480.0,3138.0,-4313.0,14349.0,Mixed
+NTPC,2018.0,19670.0,-20678.0,1028.0,-1008.0,16276.0,Mixed
+NTPC,2019.0,18686.0,-24063.0,4927.0,-5377.0,43009.0,Mixed
+NTPC,2020.0,23890.0,-29628.0,6004.0,-5738.0,29926.0,Mixed
+NTPC,2021.0,32444.0,-21034.0,-11049.0,11410.0,7224.0,Reinvestor
+NTPC,2022.0,41788.0,-22891.0,-19172.0,18897.0,499.0,Reinvestor
+NTPC,2023.0,47152.0,-26145.0,-21217.0,21007.0,12206.0,Reinvestor
+NTPC,2024.0,40785.0,-32141.0,-8246.0,8644.0,19096.0,Reinvestor
+ONGC,2013.0,39874.0,-41220.0,-6927.0,-1346.0,0.0,Reinvestor
+ONGC,2014.0,53270.0,-63633.0,15225.0,-10363.0,28427.0,Mixed
+ONGC,2015.0,33950.0,-30058.0,-10641.0,3892.0,4831.0,Reinvestor
+ONGC,2016.0,46292.0,-38256.0,-8972.0,8036.0,-8444.0,Reinvestor
+ONGC,2017.0,45780.0,-43815.0,-1867.0,1965.0,34529.0,Reinvestor
+ONGC,2018.0,56792.0,-66798.0,9909.0,-10006.0,26521.0,Mixed
+ONGC,2019.0,61458.0,-37132.0,-23324.0,24326.0,1192.0,Reinvestor
+ONGC,2020.0,70593.0,-53159.0,-16726.0,17434.0,21731.0,Reinvestor
+ONGC,2021.0,47185.0,-39141.0,-8239.0,8044.0,3714.0,Reinvestor
+ONGC,2022.0,78248.0,-41197.0,-35790.0,37051.0,-11201.0,Reinvestor
+ONGC,2023.0,86062.0,-74690.0,-12876.0,11372.0,20269.0,Reinvestor
+ONGC,2024.0,99263.0,-57203.0,-45650.0,42060.0,49234.0,Reinvestor
+PFC,2013.0,-25102.0,22.0,27947.0,-25080.0,0.0,Distress Signal
+PFC,2014.0,-22473.0,9.0,17671.0,-22464.0,19742.0,Distress Signal
+PFC,2015.0,-21455.0,-491.0,26916.0,-21946.0,28580.0,Growth Funded by Debt
+PFC,2016.0,-13298.0,-1973.0,10383.0,-15271.0,12865.0,Growth Funded by Debt
+PFC,2017.0,1795.0,-667.0,1950.0,1128.0,2333.0,Mixed
+PFC,2018.0,-57148.0,1409.0,52018.0,-55739.0,238158.0,Distress Signal
+PFC,2019.0,-80252.0,-13463.0,93616.0,-93715.0,98337.0,Growth Funded by Debt
+PFC,2020.0,-42148.0,-73.0,43399.0,-42221.0,57073.0,Growth Funded by Debt
+PFC,2021.0,-59143.0,1741.0,60424.0,-57402.0,63121.0,Distress Signal
+PFC,2022.0,4904.0,-547.0,-8371.0,4357.0,794.0,Reinvestor
+PFC,2023.0,-74717.0,-1694.0,75537.0,-76411.0,90682.0,Growth Funded by Debt
+PFC,2024.0,-97820.0,-3409.0,101261.0,-101229.0,159289.0,Growth Funded by Debt
+PIDILITIND,2013.0,472.0,-144.0,-339.0,328.0,0.0,Reinvestor
+PIDILITIND,2014.0,394.0,-99.0,-242.0,295.0,-65.0,Reinvestor
+PIDILITIND,2015.0,552.0,-436.0,-165.0,116.0,12.0,Reinvestor
+PIDILITIND,2016.0,907.0,-491.0,-371.0,416.0,22.0,Reinvestor
+PIDILITIND,2017.0,794.0,-879.0,41.0,-85.0,18.0,Mixed
+PIDILITIND,2018.0,796.0,39.0,-790.0,835.0,27.0,Liquidating Assets
+PIDILITIND,2019.0,845.0,-513.0,-361.0,332.0,-12.0,Reinvestor
+PIDILITIND,2020.0,1280.0,103.0,-849.0,1383.0,175.0,Liquidating Assets
+PIDILITIND,2021.0,1392.0,-1688.0,-76.0,-296.0,43.0,Reinvestor
+PIDILITIND,2022.0,955.0,-558.0,-468.0,397.0,85.0,Reinvestor
+PIDILITIND,2023.0,1558.0,-899.0,-656.0,659.0,-25.0,Reinvestor
+PIDILITIND,2024.0,2724.0,-1769.0,-742.0,955.0,-12.0,Reinvestor
+PNB,2013.0,-692.0,-600.0,-694.0,-1292.0,0.0,Pre-Revenue
+PNB,2014.0,16906.0,-302.0,2129.0,16604.0,3413.0,Mixed
+PNB,2015.0,4814.0,-872.0,7451.0,3942.0,6373.0,Mixed
+PNB,2016.0,14167.0,-1352.0,5975.0,12815.0,9533.0,Mixed
+PNB,2017.0,21938.0,159.0,-9767.0,22097.0,9483.0,Liquidating Assets
+PNB,2018.0,-1742.0,392.0,7460.0,-1350.0,18280.0,Distress Signal
+PNB,2019.0,-33532.0,-629.0,13969.0,-34161.0,18082.0,Growth Funded by Debt
+PNB,2020.0,-12793.0,-338.0,13591.0,-13131.0,-4123.0,Growth Funded by Debt
+PNB,2021.0,30950.0,-787.0,5415.0,30163.0,-8342.0,Mixed
+PNB,2022.0,20032.0,-1204.0,2032.0,18828.0,-6433.0,Mixed
+PNB,2023.0,22592.0,-732.0,1275.0,21860.0,660.0,Mixed
+PNB,2024.0,-27939.0,-1506.0,3518.0,-29445.0,1396.0,Growth Funded by Debt
+POWERGRID,2013.0,11690.0,-22084.0,9962.0,-10394.0,0.0,Mixed
+POWERGRID,2014.0,15223.0,-26639.0,13712.0,-11416.0,14987.0,Mixed
+POWERGRID,2015.0,15800.0,-24185.0,6399.0,-8385.0,12023.0,Mixed
+POWERGRID,2016.0,15008.0,-21576.0,5621.0,-6568.0,12302.0,Mixed
+POWERGRID,2017.0,21575.0,-23836.0,3959.0,-2261.0,10443.0,Mixed
+POWERGRID,2018.0,22710.0,-25701.0,1285.0,-2991.0,12515.0,Mixed
+POWERGRID,2019.0,23271.0,-18727.0,-2431.0,4544.0,14873.0,Reinvestor
+POWERGRID,2020.0,30739.0,-10733.0,-18806.0,20006.0,1894.0,Reinvestor
+POWERGRID,2021.0,29403.0,-9244.0,-20521.0,20159.0,-5038.0,Reinvestor
+POWERGRID,2022.0,26124.0,753.0,-28967.0,26877.0,-8536.0,Liquidating Assets
+POWERGRID,2023.0,40203.0,-7138.0,-30450.0,33065.0,-6112.0,Reinvestor
+POWERGRID,2024.0,37290.0,-13114.0,-25903.0,24176.0,-6016.0,Reinvestor
+RECLTD,2013.0,-20059.0,152.0,16059.0,-19907.0,0.0,Distress Signal
+RECLTD,2014.0,-17244.0,136.0,16815.0,-17108.0,18411.0,Distress Signal
+RECLTD,2015.0,-23898.0,151.0,23098.0,-23747.0,24806.0,Distress Signal
+RECLTD,2016.0,-13278.0,-756.0,15291.0,-14034.0,18233.0,Growth Funded by Debt
+RECLTD,2017.0,6805.0,-101.0,-3947.0,6704.0,-1360.0,Reinvestor
+RECLTD,2018.0,-32510.0,46.0,28244.0,-32464.0,36515.0,Distress Signal
+RECLTD,2019.0,-35866.0,457.0,35543.0,-35409.0,39882.0,Distress Signal
+RECLTD,2020.0,-32712.0,121.0,33926.0,-32591.0,42040.0,Distress Signal
+RECLTD,2021.0,-43512.0,861.0,42113.0,-42651.0,43434.0,Distress Signal
+RECLTD,2022.0,-819.0,-287.0,68.0,-1106.0,3320.0,Growth Funded by Debt
+RECLTD,2023.0,-37360.0,-943.0,38123.0,-38303.0,47747.0,Growth Funded by Debt
+RECLTD,2024.0,-57723.0,-1831.0,59588.0,-59554.0,102827.0,Growth Funded by Debt
+RELIANCE,2013.0,36918.0,-27601.0,408.0,9317.0,0.0,Mixed
+RELIANCE,2014.0,43261.0,-73070.0,13713.0,-29809.0,31542.0,Mixed
+RELIANCE,2015.0,34374.0,-64706.0,8444.0,-30332.0,29490.0,Mixed
+RELIANCE,2016.0,38134.0,-36186.0,-3210.0,1948.0,26463.0,Reinvestor
+RELIANCE,2017.0,49550.0,-66201.0,8617.0,-16651.0,22761.0,Mixed
+RELIANCE,2018.0,71459.0,-68192.0,-2001.0,3267.0,22368.0,Reinvestor
+RELIANCE,2019.0,42346.0,-94507.0,55906.0,-52161.0,67871.0,Mixed
+RELIANCE,2020.0,94877.0,-72497.0,-2541.0,22380.0,47419.0,Reinvestor
+RELIANCE,2021.0,26958.0,-142385.0,101904.0,-115427.0,-76171.0,Mixed
+RELIANCE,2022.0,110654.0,-109162.0,17289.0,1492.0,40196.0,Mixed
+RELIANCE,2023.0,115032.0,-93001.0,10455.0,22031.0,132506.0,Mixed
+RELIANCE,2024.0,158788.0,-113581.0,-16646.0,45207.0,-94139.0,Reinvestor
+SBILIFE,2013.0,1130.0,-227.0,-58.0,903.0,0.0,Reinvestor
+SBILIFE,2014.0,166.0,-708.0,-58.0,-542.0,0.0,Reinvestor
+SBILIFE,2015.0,2711.0,-178.0,-117.0,2533.0,0.0,Reinvestor
+SBILIFE,2016.0,5778.0,-7204.0,-144.0,-1426.0,0.0,Reinvestor
+SBILIFE,2017.0,8525.0,-9032.0,-144.0,-507.0,0.0,Reinvestor
+SBILIFE,2018.0,10395.0,-8910.0,-221.0,1485.0,0.0,Reinvestor
+SBILIFE,2019.0,13473.0,-13552.0,-241.0,-79.0,0.0,Reinvestor
+SBILIFE,2020.0,19299.0,-16986.0,-198.0,2313.0,0.0,Reinvestor
+SBILIFE,2021.0,23878.0,-19203.0,3.0,4675.0,0.0,Mixed
+SBILIFE,2022.0,21852.0,-21611.0,-231.0,241.0,0.0,Reinvestor
+SBILIFE,2023.0,28656.0,-30203.0,-415.0,-1547.0,0.0,Reinvestor
+SBILIFE,2024.0,29122.0,-31221.0,-227.0,-2099.0,0.0,Reinvestor
+SBIN,2013.0,24332.0,-2271.0,-4424.0,22061.0,0.0,Reinvestor
+SBIN,2014.0,19142.0,-791.0,3583.0,18351.0,0.0,Mixed
+SBIN,2015.0,26297.0,-3424.0,-1553.0,22873.0,0.0,Reinvestor
+SBIN,2016.0,14477.0,-2747.0,4348.0,11730.0,0.0,Mixed
+SBIN,2017.0,77406.0,-4572.0,-4196.0,72834.0,0.0,Reinvestor
+SBIN,2018.0,-96508.0,13053.0,5547.0,-83455.0,0.0,Distress Signal
+SBIN,2019.0,29556.0,220.0,448.0,29776.0,0.0,Cash Accumulator
+SBIN,2020.0,23929.0,-555.0,5430.0,23374.0,0.0,Mixed
+SBIN,2021.0,89919.0,-3670.0,7143.0,86249.0,0.0,Mixed
+SBIN,2022.0,57695.0,-2652.0,-3845.0,55043.0,0.0,Reinvestor
+SBIN,2023.0,-86014.0,-966.0,6386.0,-86980.0,0.0,Growth Funded by Debt
+SBIN,2024.0,21632.0,-3476.0,-9896.0,18156.0,0.0,Reinvestor
+SHREECEM,2013.0,1260.0,-270.0,-982.0,990.0,0.0,Reinvestor
+SHREECEM,2014.0,1401.0,-1234.0,-156.0,167.0,-88.0,Reinvestor
+SHREECEM,2015.0,1239.0,-990.0,-259.0,249.0,-283.0,Reinvestor
+SHREECEM,2016.0,1566.0,-1265.0,-271.0,301.0,-36.0,Reinvestor
+SHREECEM,2017.0,2202.0,-2048.0,-167.0,154.0,412.0,Reinvestor
+SHREECEM,2018.0,1879.0,-3595.0,1726.0,-1716.0,2110.0,Mixed
+SHREECEM,2019.0,2080.0,-720.0,-1276.0,1360.0,-600.0,Reinvestor
+SHREECEM,2020.0,3973.0,-5590.0,1581.0,-1617.0,343.0,Mixed
+SHREECEM,2021.0,4254.0,-2651.0,-1233.0,1603.0,-916.0,Reinvestor
+SHREECEM,2022.0,2668.0,-2143.0,-849.0,525.0,-101.0,Reinvestor
+SHREECEM,2023.0,2569.0,-2405.0,-277.0,164.0,596.0,Reinvestor
+SHREECEM,2024.0,3347.0,-1418.0,-1710.0,1929.0,-1043.0,Reinvestor
+SHRIRAMFIN,2013.0,-8359.0,-41.0,9060.0,-8400.0,0.0,Growth Funded by Debt
+SHRIRAMFIN,2014.0,-4055.0,-112.0,5010.0,-4167.0,5244.0,Growth Funded by Debt
+SHRIRAMFIN,2015.0,-9611.0,-45.0,7836.0,-9656.0,8065.0,Growth Funded by Debt
+SHRIRAMFIN,2016.0,-5507.0,-36.0,2822.0,-5543.0,3095.0,Growth Funded by Debt
+SHRIRAMFIN,2017.0,-2677.0,-2.0,3017.0,-2679.0,3290.0,Growth Funded by Debt
+SHRIRAMFIN,2018.0,-13142.0,86.0,13014.0,-13056.0,29051.0,Distress Signal
+SHRIRAMFIN,2019.0,-5535.0,-76.0,5550.0,-5611.0,5783.0,Growth Funded by Debt
+SHRIRAMFIN,2020.0,-2464.0,-55.0,4579.0,-2519.0,6821.0,Growth Funded by Debt
+SHRIRAMFIN,2021.0,-4239.0,-25.0,12226.0,-4264.0,11811.0,Growth Funded by Debt
+SHRIRAMFIN,2022.0,-8859.0,-34.0,8505.0,-8893.0,8300.0,Growth Funded by Debt
+SHRIRAMFIN,2023.0,-17625.0,5076.0,11820.0,-12549.0,49356.0,Distress Signal
+SHRIRAMFIN,2024.0,-31101.0,-258.0,27609.0,-31359.0,43618.0,Growth Funded by Debt
+SIEMENS,2011.0,3.0,264.0,-196.0,267.0,0.0,Liquidating Assets
+SIEMENS,2014.0,608.0,130.0,-220.0,738.0,0.0,Liquidating Assets
+SIEMENS,2015.0,574.0,646.0,-245.0,1220.0,25.0,Liquidating Assets
+SIEMENS,2016.0,513.0,237.0,-1614.0,750.0,0.0,Liquidating Assets
+SIEMENS,2017.0,573.0,1321.0,-285.0,1894.0,-25.0,Liquidating Assets
+SIEMENS,2018.0,100.0,-174.0,-305.0,-74.0,0.0,Reinvestor
+SIEMENS,2019.0,1273.0,-1135.0,-312.0,138.0,0.0,Reinvestor
+SIEMENS,2020.0,720.0,871.0,-386.0,1591.0,0.0,Liquidating Assets
+SIEMENS,2021.0,1422.0,-2389.0,-502.0,-967.0,4.0,Reinvestor
+SIEMENS,2022.0,978.0,-34.0,-392.0,944.0,178.0,Reinvestor
+SIEMENS,2023.0,1400.0,-759.0,-450.0,641.0,-7.0,Reinvestor
+SIEMENS,2024.0,1670.0,-502.0,-523.0,1168.0,104.0,Reinvestor
+SUNPHARMA,2013.0,3357.0,-2375.0,-665.0,982.0,0.0,Reinvestor
+SUNPHARMA,2014.0,3959.0,-2176.0,507.0,1783.0,2301.0,Mixed
+SUNPHARMA,2015.0,5616.0,-1502.0,-1187.0,4114.0,6435.0,Reinvestor
+SUNPHARMA,2016.0,6686.0,-3949.0,-1889.0,2737.0,-499.0,Reinvestor
+SUNPHARMA,2017.0,7082.0,-4186.0,-2285.0,2896.0,1335.0,Reinvestor
+SUNPHARMA,2018.0,3907.0,-3104.0,-1539.0,803.0,553.0,Reinvestor
+SUNPHARMA,2019.0,2196.0,-310.0,-2731.0,1886.0,129.0,Reinvestor
+SUNPHARMA,2020.0,6555.0,-2225.0,-5715.0,4330.0,-2199.0,Reinvestor
+SUNPHARMA,2021.0,6170.0,407.0,-5980.0,6577.0,-4446.0,Liquidating Assets
+SUNPHARMA,2022.0,8985.0,-5556.0,-5193.0,3429.0,-2579.0,Reinvestor
+SUNPHARMA,2023.0,4959.0,-7220.0,2376.0,-2261.0,5596.0,Mixed
+SUNPHARMA,2024.0,12135.0,-763.0,-6710.0,11372.0,-4314.0,Reinvestor
+TATACONSUM,2013.0,173.0,24.0,186.0,197.0,0.0,Cash Accumulator
+TATACONSUM,2014.0,422.0,-1.0,-363.0,421.0,49.0,Reinvestor
+TATACONSUM,2015.0,418.0,-207.0,-392.0,211.0,-114.0,Reinvestor
+TATACONSUM,2016.0,116.0,145.0,-282.0,261.0,30.0,Liquidating Assets
+TATACONSUM,2017.0,741.0,145.0,-816.0,886.0,-567.0,Liquidating Assets
+TATACONSUM,2018.0,356.0,-31.0,-30.0,325.0,281.0,Reinvestor
+TATACONSUM,2019.0,210.0,53.0,-224.0,263.0,73.0,Liquidating Assets
+TATACONSUM,2020.0,1082.0,-622.0,-308.0,460.0,445.0,Reinvestor
+TATACONSUM,2021.0,1656.0,-346.0,-426.0,1310.0,48.0,Reinvestor
+TATACONSUM,2022.0,1516.0,-1317.0,-995.0,199.0,-222.0,Reinvestor
+TATACONSUM,2023.0,1461.0,-834.0,-714.0,627.0,188.0,Reinvestor
+TATACONSUM,2024.0,1937.0,-1911.0,256.0,26.0,1355.0,Mixed
+TATAMOTORS,2013.0,22163.0,-22969.0,-1692.0,-806.0,0.0,Reinvestor
+TATAMOTORS,2014.0,36151.0,-27991.0,-3883.0,8160.0,6926.0,Reinvestor
+TATAMOTORS,2015.0,35531.0,-36232.0,5201.0,-701.0,12968.0,Mixed
+TATAMOTORS,2016.0,37900.0,-36694.0,-3795.0,1206.0,-4250.0,Reinvestor
+TATAMOTORS,2017.0,30199.0,-39571.0,6205.0,-9372.0,9244.0,Mixed
+TATAMOTORS,2018.0,23857.0,-25139.0,2012.0,-1282.0,10346.0,Mixed
+TATAMOTORS,2019.0,18891.0,-20878.0,8830.0,-1987.0,17225.0,Mixed
+TATAMOTORS,2020.0,26633.0,-33115.0,3390.0,-6482.0,18613.0,Mixed
+TATAMOTORS,2021.0,29001.0,-25672.0,9904.0,3329.0,17343.0,Mixed
+TATAMOTORS,2022.0,14283.0,-4444.0,-3380.0,9839.0,4318.0,Reinvestor
+TATAMOTORS,2023.0,35388.0,-15417.0,-26243.0,19971.0,-12336.0,Reinvestor
+TATAMOTORS,2024.0,67915.0,-22782.0,-37006.0,45133.0,-27564.0,Reinvestor
+TATAPOWER,2013.0,3286.0,-4026.0,-593.0,-740.0,0.0,Reinvestor
+TATAPOWER,2014.0,6483.0,-3609.0,-3265.0,2874.0,2291.0,Reinvestor
+TATAPOWER,2015.0,5981.0,-3865.0,-2239.0,2116.0,434.0,Reinvestor
+TATAPOWER,2016.0,7415.0,-1805.0,-6183.0,5610.0,-1758.0,Reinvestor
+TATAPOWER,2017.0,7014.0,-7373.0,937.0,-359.0,9966.0,Mixed
+TATAPOWER,2018.0,6364.0,-1512.0,-4726.0,4852.0,-226.0,Reinvestor
+TATAPOWER,2019.0,4574.0,-272.0,-5184.0,4302.0,-83.0,Reinvestor
+TATAPOWER,2020.0,7375.0,-493.0,-5110.0,6882.0,3430.0,Reinvestor
+TATAPOWER,2021.0,8345.0,993.0,-7603.0,9338.0,-5228.0,Liquidating Assets
+TATAPOWER,2022.0,6693.0,-6250.0,-1183.0,443.0,4487.0,Reinvestor
+TATAPOWER,2023.0,7166.0,-7263.0,1341.0,-97.0,1728.0,Mixed
+TATAPOWER,2024.0,12596.0,-9027.0,-4497.0,3569.0,5391.0,Reinvestor
+TATASTEEL,2013.0,14035.0,-13099.0,-1780.0,936.0,0.0,Reinvestor
+TATASTEEL,2014.0,13146.0,-15378.0,1015.0,-2232.0,13100.0,Mixed
+TATASTEEL,2015.0,11880.0,-9021.0,-2617.0,2859.0,-928.0,Reinvestor
+TATASTEEL,2016.0,11455.0,-8794.0,-4729.0,2661.0,1286.0,Reinvestor
+TATASTEEL,2017.0,10824.0,-9490.0,-2579.0,1334.0,1027.0,Reinvestor
+TATASTEEL,2018.0,8023.0,-11730.0,6640.0,-3707.0,9133.0,Mixed
+TATASTEEL,2019.0,25336.0,-29176.0,-673.0,-3840.0,8669.0,Reinvestor
+TATASTEEL,2020.0,20169.0,-14012.0,-1695.0,6157.0,15512.0,Reinvestor
+TATASTEEL,2021.0,44327.0,-9437.0,-37090.0,34890.0,-27827.0,Reinvestor
+TATASTEEL,2022.0,44381.0,-10905.0,-23401.0,33476.0,-12940.0,Reinvestor
+TATASTEEL,2023.0,21683.0,-18179.0,-6981.0,3504.0,9332.0,Reinvestor
+TATASTEEL,2024.0,20301.0,-14253.0,-11097.0,6048.0,14499.0,Reinvestor
+TCS,2013.0,11615.0,-6038.0,-5729.0,5577.0,0.0,Reinvestor
+TCS,2014.0,14751.0,-9452.0,-5673.0,5299.0,-35.0,Reinvestor
+TCS,2015.0,19369.0,-1807.0,-17168.0,17562.0,61.0,Reinvestor
+TCS,2016.0,19109.0,-5010.0,-9666.0,14099.0,-113.0,Reinvestor
+TCS,2017.0,25223.0,-16895.0,-11026.0,8328.0,44.0,Reinvestor
+TCS,2018.0,25067.0,3104.0,-26885.0,28171.0,-42.0,Liquidating Assets
+TCS,2019.0,28593.0,1645.0,-27897.0,30238.0,-185.0,Liquidating Assets
+TCS,2020.0,32369.0,8968.0,-39915.0,41337.0,8112.0,Liquidating Assets
+TCS,2021.0,38802.0,-7956.0,-32634.0,30846.0,-379.0,Reinvestor
+TCS,2022.0,39949.0,-738.0,-33581.0,39211.0,23.0,Reinvestor
+TCS,2023.0,41965.0,548.0,-47878.0,42513.0,-130.0,Liquidating Assets
+TCS,2024.0,44338.0,6091.0,-48536.0,50429.0,1358.0,Liquidating Assets
+TECHM,2013.0,855.0,-622.0,65.0,233.0,0.0,Mixed
+TECHM,2014.0,1596.0,291.0,-972.0,1887.0,-1017.0,Liquidating Assets
+TECHM,2015.0,2448.0,-1865.0,-829.0,583.0,337.0,Reinvestor
+TECHM,2016.0,3137.0,-1453.0,-496.0,1684.0,391.0,Reinvestor
+TECHM,2017.0,4071.0,-2893.0,-1571.0,1178.0,275.0,Reinvestor
+TECHM,2018.0,3554.0,-3319.0,-269.0,235.0,1031.0,Reinvestor
+TECHM,2019.0,4432.0,-2104.0,-2251.0,2328.0,-401.0,Reinvestor
+TECHM,2020.0,4358.0,1081.0,-4466.0,5439.0,1674.0,Liquidating Assets
+TECHM,2021.0,8094.0,-5433.0,-2987.0,2661.0,-769.0,Reinvestor
+TECHM,2022.0,5285.0,480.0,-4667.0,5765.0,-283.0,Liquidating Assets
+TECHM,2023.0,5572.0,-226.0,-5078.0,5346.0,122.0,Reinvestor
+TECHM,2024.0,6376.0,-1318.0,-4767.0,5058.0,-705.0,Reinvestor
+TITAN,2013.0,553.0,-142.0,-236.0,411.0,0.0,Reinvestor
+TITAN,2014.0,-555.0,-271.0,497.0,-826.0,807.0,Growth Funded by Debt
+TITAN,2015.0,503.0,-118.0,-1005.0,385.0,-707.0,Reinvestor
+TITAN,2016.0,576.0,-159.0,-505.0,417.0,13.0,Reinvestor
+TITAN,2017.0,1712.0,-953.0,-166.0,759.0,1769.0,Reinvestor
+TITAN,2018.0,-51.0,98.0,-252.0,47.0,-191.0,Mixed
+TITAN,2019.0,1243.0,-797.0,-489.0,446.0,702.0,Reinvestor
+TITAN,2020.0,-348.0,235.0,-242.0,-113.0,1169.0,Mixed
+TITAN,2021.0,4139.0,-2799.0,-1234.0,1340.0,2076.0,Reinvestor
+TITAN,2022.0,-724.0,1165.0,-403.0,441.0,1637.0,Mixed
+TITAN,2023.0,1370.0,-1814.0,457.0,-444.0,2092.0,Mixed
+TITAN,2024.0,1695.0,-189.0,-1329.0,1506.0,12281.0,Reinvestor
+TORNTPHARM,2013.0,153.0,-247.0,20.0,-94.0,0.0,Mixed
+TORNTPHARM,2014.0,599.0,-418.0,86.0,181.0,439.0,Mixed
+TORNTPHARM,2015.0,810.0,-2113.0,1212.0,-1303.0,1608.0,Mixed
+TORNTPHARM,2016.0,2742.0,-869.0,-1435.0,1873.0,-388.0,Reinvestor
+TORNTPHARM,2017.0,1009.0,-798.0,-193.0,211.0,158.0,Reinvestor
+TORNTPHARM,2018.0,894.0,-4677.0,3417.0,-3783.0,3952.0,Mixed
+TORNTPHARM,2019.0,1798.0,-246.0,-1314.0,1552.0,-424.0,Reinvestor
+TORNTPHARM,2020.0,1393.0,229.0,-1549.0,1622.0,-254.0,Liquidating Assets
+TORNTPHARM,2021.0,2005.0,-444.0,-1651.0,1561.0,-910.0,Reinvestor
+TORNTPHARM,2022.0,1803.0,-196.0,-1781.0,1607.0,-804.0,Reinvestor
+TORNTPHARM,2023.0,2368.0,-2335.0,77.0,33.0,1299.0,Mixed
+TORNTPHARM,2024.0,3266.0,-160.0,-2780.0,3106.0,-2241.0,Reinvestor
+TRENT,2013.0,31.0,-276.0,147.0,-245.0,0.0,Mixed
+TRENT,2014.0,-46.0,-48.0,-50.0,-94.0,-11.0,Pre-Revenue
+TRENT,2015.0,-10.0,-306.0,310.0,-316.0,-65.0,Growth Funded by Debt
+TRENT,2016.0,109.0,-98.0,-13.0,11.0,133.0,Reinvestor
+TRENT,2017.0,102.0,-44.0,-51.0,58.0,-8.0,Reinvestor
+TRENT,2018.0,77.0,-4.0,-74.0,73.0,-1.0,Reinvestor
+TRENT,2019.0,21.0,-37.0,37.0,-16.0,103.0,Mixed
+TRENT,2020.0,361.0,-809.0,452.0,-448.0,-194.0,Mixed
+TRENT,2021.0,285.0,18.0,-283.0,303.0,0.0,Liquidating Assets
+TRENT,2022.0,58.0,56.0,-108.0,114.0,4425.0,Liquidating Assets
+TRENT,2023.0,595.0,-103.0,-491.0,492.0,-261.0,Reinvestor
+TRENT,2024.0,1349.0,-508.0,-629.0,841.0,-2622.0,Reinvestor
+TVSMOTOR,2013.0,464.0,-120.0,-402.0,344.0,0.0,Reinvestor
+TVSMOTOR,2014.0,470.0,-235.0,-216.0,235.0,-340.0,Reinvestor
+TVSMOTOR,2015.0,83.0,-415.0,261.0,-332.0,391.0,Mixed
+TVSMOTOR,2016.0,936.0,-605.0,-319.0,331.0,-28.0,Reinvestor
+TVSMOTOR,2017.0,689.0,-709.0,-59.0,-20.0,220.0,Reinvestor
+TVSMOTOR,2018.0,354.0,-1095.0,897.0,-741.0,5617.0,Mixed
+TVSMOTOR,2019.0,-918.0,-1104.0,2210.0,-2022.0,2370.0,Growth Funded by Debt
+TVSMOTOR,2020.0,373.0,-1090.0,1619.0,-717.0,2293.0,Mixed
+TVSMOTOR,2021.0,1151.0,-882.0,264.0,269.0,588.0,Mixed
+TVSMOTOR,2022.0,-1575.0,-1471.0,2918.0,-3046.0,3648.0,Growth Funded by Debt
+TVSMOTOR,2023.0,-4405.0,-1308.0,6118.0,-5713.0,6549.0,Growth Funded by Debt
+TVSMOTOR,2024.0,-1253.0,-1001.0,2759.0,-2254.0,-7757.0,Growth Funded by Debt

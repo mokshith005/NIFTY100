@@ -1,0 +1,875 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,pro,ROE >= 20%,Strong return on equity of 32.5%.,90
+ABB,pro,NPM >= 15%,Healthy net profit margin of 20.5%.,85
+ABB,pro,D/E <= 0.5,"Low debt-to-equity of 0.02, indicating conservative leverage.",90
+ABB,pro,ICR >= 5,Strong interest coverage of 141.8x.,88
+ABB,pro,FCF > 0,Positive free cash flow of 1892.0 crore.,82
+ABB,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ABB,pro,FCF conversion >= 80%,Strong free-cash-flow conversion of 130.2%.,88
+ABB,pro,PAT CAGR >= 10%,Profit CAGR of 21.7% over five years.,88
+ABB,pro,EPS CAGR >= 10%,EPS CAGR of 21.7% over five years.,88
+ABB,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ABB,con,CapEx intensity > 30%,High CapEx intensity of 91.6% may pressure free cash flow.,80
+ADANIENSOL,pro,FCF > 0,Positive free cash flow of 1095.0 crore.,82
+ADANIENSOL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ADANIENSOL,pro,Revenue CAGR >= 10%,Revenue CAGR of 17.9% over five years.,85
+ADANIENSOL,pro,PAT CAGR >= 10%,Profit CAGR of 16.4% over five years.,88
+ADANIENSOL,pro,EPS CAGR >= 10%,EPS CAGR of 14.9% over five years.,88
+ADANIENSOL,con,ROE < 10%,Low return on equity of 9.5%.,85
+ADANIENSOL,con,D/E > 1,Elevated debt-to-equity of 2.93.,90
+ADANIENSOL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ADANIENSOL,con,FCF conversion < 50%,Weak free-cash-flow conversion of 19.2%.,82
+ADANIENT,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ADANIENT,pro,Revenue CAGR >= 10%,Revenue CAGR of 19.0% over five years.,85
+ADANIENT,pro,PAT CAGR >= 10%,Profit CAGR of 45.8% over five years.,88
+ADANIENT,pro,EPS CAGR >= 10%,EPS CAGR of 32.0% over five years.,88
+ADANIENT,con,ROE < 10%,Low return on equity of 8.5%.,85
+ADANIENT,con,NPM < 5%,Thin net profit margin of 3.5%.,85
+ADANIENT,con,D/E > 1,Elevated debt-to-equity of 1.67.,90
+ADANIENT,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+ADANIENT,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ADANIENT,con,FCF conversion < 50%,Weak free-cash-flow conversion of -74.3%.,82
+ADANIGREEN,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ADANIGREEN,pro,Revenue CAGR >= 10%,Revenue CAGR of 35.0% over five years.,85
+ADANIGREEN,con,D/E > 1,Elevated debt-to-equity of 6.60.,90
+ADANIGREEN,con,ICR < 2,Low interest coverage of 1.7x.,92
+ADANIGREEN,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+ADANIGREEN,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ADANIGREEN,con,CapEx intensity > 30%,High CapEx intensity of 228.4% may pressure free cash flow.,80
+ADANIGREEN,con,FCF conversion < 50%,Weak free-cash-flow conversion of -182.4%.,82
+ADANIPORTS,pro,NPM >= 15%,Healthy net profit margin of 30.3%.,85
+ADANIPORTS,pro,ICR >= 5,Strong interest coverage of 5.9x.,88
+ADANIPORTS,pro,FCF > 0,Positive free cash flow of 8250.0 crore.,82
+ADANIPORTS,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ADANIPORTS,pro,Revenue CAGR >= 10%,Revenue CAGR of 19.6% over five years.,85
+ADANIPORTS,pro,PAT CAGR >= 10%,Profit CAGR of 14.9% over five years.,88
+ADANIPORTS,pro,EPS CAGR >= 10%,EPS CAGR of 14.9% over five years.,88
+ADANIPORTS,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ADANIPOWER,pro,ROE >= 20%,Strong return on equity of 48.3%.,90
+ADANIPOWER,pro,NPM >= 15%,Healthy net profit margin of 41.4%.,85
+ADANIPOWER,pro,ICR >= 5,Strong interest coverage of 8.3x.,88
+ADANIPOWER,pro,FCF > 0,Positive free cash flow of 17651.0 crore.,82
+ADANIPOWER,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ADANIPOWER,pro,CapEx intensity < 10%,Moderate CapEx intensity of 6.9%.,72
+ADANIPOWER,pro,FCF conversion >= 80%,Strong free-cash-flow conversion of 96.8%.,88
+ADANIPOWER,pro,Revenue CAGR >= 10%,Revenue CAGR of 16.1% over five years.,85
+ADANIPOWER,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+AMBUJACEM,pro,D/E <= 0.5,"Low debt-to-equity of 0.02, indicating conservative leverage.",90
+AMBUJACEM,pro,ICR >= 5,Strong interest coverage of 28.3x.,88
+AMBUJACEM,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+AMBUJACEM,pro,PAT CAGR >= 10%,Profit CAGR of 11.2% over five years.,88
+AMBUJACEM,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+AMBUJACEM,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+AMBUJACEM,con,FCF conversion < 50%,Weak free-cash-flow conversion of -51.5%.,82
+AMBUJACEM,con,Revenue CAGR < 5%,Slow five-year revenue CAGR of 4.1%.,78
+APOLLOHOSP,pro,ICR >= 5,Strong interest coverage of 5.6x.,88
+APOLLOHOSP,pro,FCF > 0,Positive free cash flow of 383.0 crore.,82
+APOLLOHOSP,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+APOLLOHOSP,pro,CapEx intensity < 10%,Moderate CapEx intensity of 8.1%.,72
+APOLLOHOSP,pro,Revenue CAGR >= 10%,Revenue CAGR of 14.7% over five years.,85
+APOLLOHOSP,pro,PAT CAGR >= 10%,Profit CAGR of 36.1% over five years.,88
+APOLLOHOSP,pro,EPS CAGR >= 10%,EPS CAGR of 30.0% over five years.,88
+APOLLOHOSP,con,NPM < 5%,Thin net profit margin of 4.9%.,85
+APOLLOHOSP,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+APOLLOHOSP,con,FCF conversion < 50%,Weak free-cash-flow conversion of 16.0%.,82
+ASIANPAINT,pro,ROE >= 20%,Strong return on equity of 29.7%.,90
+ASIANPAINT,pro,NPM >= 15%,Healthy net profit margin of 15.7%.,85
+ASIANPAINT,pro,D/E <= 0.5,"Low debt-to-equity of 0.13, indicating conservative leverage.",90
+ASIANPAINT,pro,ICR >= 5,Strong interest coverage of 41.0x.,88
+ASIANPAINT,pro,FCF > 0,Positive free cash flow of 3556.0 crore.,82
+ASIANPAINT,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ASIANPAINT,pro,CapEx intensity < 10%,Moderate CapEx intensity of 7.2%.,72
+ASIANPAINT,pro,Revenue CAGR >= 10%,Revenue CAGR of 13.0% over five years.,85
+ASIANPAINT,pro,PAT CAGR >= 10%,Profit CAGR of 20.3% over five years.,88
+ASIANPAINT,pro,EPS CAGR >= 10%,EPS CAGR of 21.0% over five years.,88
+ASIANPAINT,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ASIANPAINT,con,FCF conversion < 50%,Weak free-cash-flow conversion of 46.9%.,82
+ATGL,pro,P&L fallback: net profit > 0,Positive latest reported net profit of 668.0 crore.,72
+ATGL,pro,P&L fallback: positive sales,Latest reported sales were 4475.0 crore.,65
+ATGL,pro,P&L fallback: positive EPS,Latest reported EPS was positive at 6.00.,70
+ATGL,con,Missing financial-ratios history,Complete ratio-based analysis is unavailable because the financial-ratios history is incomplete.,72
+AXISBANK,pro,NPM >= 15%,Healthy net profit margin of 22.7%.,85
+AXISBANK,pro,CapEx intensity < 10%,Moderate CapEx intensity of 8.2%.,72
+AXISBANK,pro,Revenue CAGR >= 10%,Revenue CAGR of 14.7% over five years.,85
+AXISBANK,pro,PAT CAGR >= 10%,Profit CAGR of 39.7% over five years.,88
+AXISBANK,pro,EPS CAGR >= 10%,EPS CAGR of 35.1% over five years.,88
+AXISBANK,con,D/E > 1,Elevated debt-to-equity of 8.25.,90
+AXISBANK,con,ICR < 2,Low interest coverage of 1.7x.,92
+AXISBANK,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+AXISBANK,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+AXISBANK,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+AXISBANK,con,FCF conversion < 50%,Weak free-cash-flow conversion of -38.4%.,82
+BAJAJ-AUTO,pro,ROE >= 20%,Strong return on equity of 26.6%.,90
+BAJAJ-AUTO,pro,NPM >= 15%,Healthy net profit margin of 17.2%.,85
+BAJAJ-AUTO,pro,D/E <= 0.5,"Low debt-to-equity of 0.07, indicating conservative leverage.",90
+BAJAJ-AUTO,pro,ICR >= 5,Strong interest coverage of 174.4x.,88
+BAJAJ-AUTO,pro,FCF > 0,Positive free cash flow of 12972.0 crore.,82
+BAJAJ-AUTO,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+BAJAJ-AUTO,pro,CapEx intensity < 10%,Moderate CapEx intensity of 0.3%.,72
+BAJAJ-AUTO,pro,FCF conversion >= 80%,Strong free-cash-flow conversion of 148.0%.,88
+BAJAJ-AUTO,pro,EPS CAGR >= 10%,EPS CAGR of 10.2% over five years.,88
+BAJAJ-AUTO,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BAJAJFINSV,pro,ROE >= 20%,Strong return on equity of 25.9%.,90
+BAJAJFINSV,pro,CapEx intensity < 10%,Moderate CapEx intensity of 9.9%.,72
+BAJAJFINSV,pro,Revenue CAGR >= 10%,Revenue CAGR of 21.0% over five years.,85
+BAJAJFINSV,pro,PAT CAGR >= 10%,Profit CAGR of 23.7% over five years.,88
+BAJAJFINSV,pro,EPS CAGR >= 10%,EPS CAGR of 20.6% over five years.,88
+BAJAJFINSV,con,D/E > 1,Elevated debt-to-equity of 4.79.,90
+BAJAJFINSV,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+BAJAJFINSV,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+BAJAJFINSV,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BAJAJFINSV,con,FCF conversion < 50%,Weak free-cash-flow conversion of -194.8%.,82
+BAJAJHLDNG,pro,NPM >= 15%,Healthy net profit margin of 432.7%.,85
+BAJAJHLDNG,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+BAJAJHLDNG,pro,ICR >= 5,Strong interest coverage of 3764.5x.,88
+BAJAJHLDNG,pro,FCF > 0,Positive free cash flow of 1469.0 crore.,82
+BAJAJHLDNG,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+BAJAJHLDNG,pro,FCF conversion >= 80%,Strong free-cash-flow conversion of 94.0%.,88
+BAJAJHLDNG,pro,Revenue CAGR >= 10%,Revenue CAGR of 31.6% over five years.,85
+BAJAJHLDNG,pro,PAT CAGR >= 10%,Profit CAGR of 19.3% over five years.,88
+BAJAJHLDNG,pro,EPS CAGR >= 10%,EPS CAGR of 19.0% over five years.,88
+BAJAJHLDNG,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BAJFINANCE,pro,NPM >= 15%,Healthy net profit margin of 26.3%.,85
+BAJFINANCE,pro,ICR >= 5,Strong interest coverage of 2689.2x.,88
+BAJFINANCE,pro,Revenue CAGR >= 10%,Revenue CAGR of 24.4% over five years.,85
+BAJFINANCE,pro,PAT CAGR >= 10%,Profit CAGR of 29.3% over five years.,88
+BAJFINANCE,pro,EPS CAGR >= 10%,EPS CAGR of 27.6% over five years.,88
+BAJFINANCE,con,D/E > 1,Elevated debt-to-equity of 3.82.,90
+BAJFINANCE,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+BAJFINANCE,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+BAJFINANCE,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BAJFINANCE,con,FCF conversion < 50%,Weak free-cash-flow conversion of -496.5%.,82
+BANKBARODA,pro,NPM >= 15%,Healthy net profit margin of 15.9%.,85
+BANKBARODA,pro,CapEx intensity < 10%,Moderate CapEx intensity of 1.1%.,72
+BANKBARODA,pro,Revenue CAGR >= 10%,Revenue CAGR of 17.5% over five years.,85
+BANKBARODA,pro,PAT CAGR >= 10%,Profit CAGR of 74.5% over five years.,88
+BANKBARODA,pro,EPS CAGR >= 10%,EPS CAGR of 55.2% over five years.,88
+BANKBARODA,con,D/E > 1,Elevated debt-to-equity of 12.14.,90
+BANKBARODA,con,ICR < 2,Low interest coverage of 1.9x.,92
+BANKBARODA,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+BANKBARODA,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+BANKBARODA,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BANKBARODA,con,FCF conversion < 50%,Weak free-cash-flow conversion of -17.0%.,82
+BEL,pro,ROE >= 20%,Strong return on equity of 4744.0%.,90
+BEL,pro,NPM >= 15%,Healthy net profit margin of 19.7%.,85
+BEL,pro,ICR >= 5,Strong interest coverage of 476.8x.,88
+BEL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+BEL,pro,Revenue CAGR >= 10%,Revenue CAGR of 10.8% over five years.,85
+BEL,pro,PAT CAGR >= 10%,Profit CAGR of 16.1% over five years.,88
+BEL,pro,EPS CAGR >= 10%,EPS CAGR of 10.8% over five years.,88
+BEL,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+BEL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BEL,con,FCF conversion < 50%,Weak free-cash-flow conversion of -25.0%.,82
+BHARTIARTL,pro,FCF > 0,Positive free cash flow of 27809.0 crore.,82
+BHARTIARTL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+BHARTIARTL,pro,Revenue CAGR >= 10%,Revenue CAGR of 13.2% over five years.,85
+BHARTIARTL,pro,PAT CAGR >= 10%,Profit CAGR of 38.4% over five years.,88
+BHARTIARTL,pro,EPS CAGR >= 10%,EPS CAGR of 67.0% over five years.,88
+BHARTIARTL,con,D/E > 1,Elevated debt-to-equity of 2.61.,90
+BHARTIARTL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BHARTIARTL,con,CapEx intensity > 30%,High CapEx intensity of 34.1% may pressure free cash flow.,80
+BHARTIARTL,con,FCF conversion < 50%,Weak free-cash-flow conversion of 35.5%.,82
+BHEL,pro,D/E <= 0.5,"Low debt-to-equity of 0.36, indicating conservative leverage.",90
+BHEL,pro,CapEx intensity < 10%,Moderate CapEx intensity of 5.6%.,72
+BHEL,con,ROE < 10%,Low return on equity of 1.2%.,85
+BHEL,con,NPM < 5%,Thin net profit margin of 1.2%.,85
+BHEL,con,ICR < 2,Low interest coverage of 1.6x.,92
+BHEL,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+BHEL,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+BHEL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BHEL,con,FCF conversion < 50%,Weak free-cash-flow conversion of -335.0%.,82
+BHEL,con,Revenue CAGR < 5%,Slow five-year revenue CAGR of -4.7%.,78
+BHEL,con,PAT CAGR < 5%,Slow five-year profit CAGR of -22.4%.,80
+BHEL,con,EPS CAGR < 5%,Slow five-year EPS CAGR of -19.7%.,80
+BOSCHLTD,pro,ROE >= 20%,Strong return on equity of 20.6%.,90
+BOSCHLTD,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+BOSCHLTD,pro,ICR >= 5,Strong interest coverage of 71.8x.,88
+BOSCHLTD,pro,FCF > 0,Positive free cash flow of 1536.0 crore.,82
+BOSCHLTD,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+BOSCHLTD,pro,CapEx intensity < 10%,Moderate CapEx intensity of 1.7%.,72
+BOSCHLTD,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BPCL,pro,ROE >= 20%,Strong return on equity of 35.5%.,90
+BPCL,pro,ICR >= 5,Strong interest coverage of 11.4x.,88
+BPCL,pro,FCF > 0,Positive free cash flow of 25415.0 crore.,82
+BPCL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+BPCL,pro,CapEx intensity < 10%,Moderate CapEx intensity of 2.3%.,72
+BPCL,pro,PAT CAGR >= 10%,Profit CAGR of 25.8% over five years.,88
+BPCL,pro,EPS CAGR >= 10%,EPS CAGR of 28.1% over five years.,88
+BPCL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+BRITANNIA,pro,ROE >= 20%,Strong return on equity of 54.1%.,90
+BRITANNIA,pro,ICR >= 5,Strong interest coverage of 20.6x.,88
+BRITANNIA,pro,FCF > 0,Positive free cash flow of 3050.0 crore.,82
+BRITANNIA,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+BRITANNIA,pro,CapEx intensity < 10%,Moderate CapEx intensity of 2.8%.,72
+BRITANNIA,pro,FCF conversion >= 80%,Strong free-cash-flow conversion of 96.3%.,88
+BRITANNIA,pro,PAT CAGR >= 10%,Profit CAGR of 13.1% over five years.,88
+BRITANNIA,pro,EPS CAGR >= 10%,EPS CAGR of 13.1% over five years.,88
+BRITANNIA,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+CANBK,pro,FCF > 0,Positive free cash flow of 13296.0 crore.,82
+CANBK,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+CANBK,pro,CapEx intensity < 10%,Moderate CapEx intensity of 1.6%.,72
+CANBK,pro,Revenue CAGR >= 10%,Revenue CAGR of 18.2% over five years.,85
+CANBK,pro,PAT CAGR >= 10%,Profit CAGR of 85.8% over five years.,88
+CANBK,pro,EPS CAGR >= 10%,EPS CAGR of 53.4% over five years.,88
+CANBK,con,D/E > 1,Elevated debt-to-equity of 14.87.,90
+CANBK,con,ICR < 2,Low interest coverage of 1.6x.,92
+CANBK,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+CANBK,con,FCF conversion < 50%,Weak free-cash-flow conversion of 28.8%.,82
+CHOLAFIN,pro,NPM >= 15%,Healthy net profit margin of 17.8%.,85
+CHOLAFIN,pro,ICR >= 5,Strong interest coverage of 21.2x.,88
+CHOLAFIN,pro,Revenue CAGR >= 10%,Revenue CAGR of 21.9% over five years.,85
+CHOLAFIN,pro,PAT CAGR >= 10%,Profit CAGR of 23.4% over five years.,88
+CHOLAFIN,pro,EPS CAGR >= 10%,EPS CAGR of 22.3% over five years.,88
+CHOLAFIN,con,D/E > 1,Elevated debt-to-equity of 6.86.,90
+CHOLAFIN,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+CHOLAFIN,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+CHOLAFIN,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+CHOLAFIN,con,FCF conversion < 50%,Weak free-cash-flow conversion of -715.7%.,82
+CIPLA,pro,NPM >= 15%,Healthy net profit margin of 16.1%.,85
+CIPLA,pro,D/E <= 0.5,"Low debt-to-equity of 0.02, indicating conservative leverage.",90
+CIPLA,pro,ICR >= 5,Strong interest coverage of 35.3x.,88
+CIPLA,pro,FCF > 0,Positive free cash flow of 1152.0 crore.,82
+CIPLA,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+CIPLA,pro,PAT CAGR >= 10%,Profit CAGR of 22.7% over five years.,88
+CIPLA,pro,EPS CAGR >= 10%,EPS CAGR of 21.8% over five years.,88
+CIPLA,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+CIPLA,con,FCF conversion < 50%,Weak free-cash-flow conversion of 5.9%.,82
+COALINDIA,pro,ROE >= 20%,Strong return on equity of 45.2%.,90
+COALINDIA,pro,NPM >= 15%,Healthy net profit margin of 26.3%.,85
+COALINDIA,pro,D/E <= 0.5,"Low debt-to-equity of 0.08, indicating conservative leverage.",90
+COALINDIA,pro,ICR >= 5,Strong interest coverage of 11.2x.,88
+COALINDIA,pro,FCF > 0,Positive free cash flow of 13617.0 crore.,82
+COALINDIA,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+COALINDIA,pro,CapEx intensity < 10%,Moderate CapEx intensity of 3.2%.,72
+COALINDIA,pro,PAT CAGR >= 10%,Profit CAGR of 16.4% over five years.,88
+COALINDIA,pro,EPS CAGR >= 10%,EPS CAGR of 16.9% over five years.,88
+COALINDIA,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+COALINDIA,con,FCF conversion < 50%,Weak free-cash-flow conversion of 14.4%.,82
+DABUR,pro,D/E <= 0.5,"Low debt-to-equity of 0.14, indicating conservative leverage.",90
+DABUR,pro,ICR >= 5,Strong interest coverage of 23.2x.,88
+DABUR,pro,FCF > 0,Positive free cash flow of 1042.0 crore.,82
+DABUR,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+DABUR,pro,CapEx intensity < 10%,Moderate CapEx intensity of 7.8%.,72
+DABUR,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+DABUR,con,FCF conversion < 50%,Weak free-cash-flow conversion of 43.4%.,82
+DABUR,con,PAT CAGR < 5%,Slow five-year profit CAGR of 4.6%.,80
+DABUR,con,EPS CAGR < 5%,Slow five-year EPS CAGR of 4.6%.,80
+DIVISLAB,pro,NPM >= 15%,Healthy net profit margin of 20.4%.,85
+DIVISLAB,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+DIVISLAB,pro,ICR >= 5,Strong interest coverage of 636.2x.,88
+DIVISLAB,pro,FCF > 0,Positive free cash flow of 992.0 crore.,82
+DIVISLAB,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+DIVISLAB,pro,CapEx intensity < 10%,Moderate CapEx intensity of 3.4%.,72
+DIVISLAB,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+DIVISLAB,con,FCF conversion < 50%,Weak free-cash-flow conversion of 44.9%.,82
+DIVISLAB,con,PAT CAGR < 5%,Slow five-year profit CAGR of 3.4%.,80
+DIVISLAB,con,EPS CAGR < 5%,Slow five-year EPS CAGR of 3.3%.,80
+DLF,pro,NPM >= 15%,Healthy net profit margin of 42.4%.,85
+DLF,pro,D/E <= 0.5,"Low debt-to-equity of 0.12, indicating conservative leverage.",90
+DLF,pro,ICR >= 5,Strong interest coverage of 7.5x.,88
+DLF,pro,FCF > 0,Positive free cash flow of 1010.0 crore.,82
+DLF,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+DLF,pro,PAT CAGR >= 10%,Profit CAGR of 15.7% over five years.,88
+DLF,pro,EPS CAGR >= 10%,EPS CAGR of 12.9% over five years.,88
+DLF,con,ROE < 10%,Low return on equity of 6.9%.,85
+DLF,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+DLF,con,FCF conversion < 50%,Weak free-cash-flow conversion of 47.6%.,82
+DLF,con,Revenue CAGR < 5%,Slow five-year revenue CAGR of -5.1%.,78
+DMART,pro,D/E <= 0.5,"Low debt-to-equity of 0.03, indicating conservative leverage.",90
+DMART,pro,ICR >= 5,Strong interest coverage of 73.3x.,88
+DMART,pro,FCF > 0,Positive free cash flow of 278.0 crore.,82
+DMART,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+DMART,pro,CapEx intensity < 10%,Moderate CapEx intensity of 4.9%.,72
+DMART,pro,Revenue CAGR >= 10%,Revenue CAGR of 20.5% over five years.,85
+DMART,pro,PAT CAGR >= 10%,Profit CAGR of 23.0% over five years.,88
+DMART,pro,EPS CAGR >= 10%,EPS CAGR of 22.7% over five years.,88
+DMART,con,NPM < 5%,Thin net profit margin of 5.0%.,85
+DMART,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+DMART,con,FCF conversion < 50%,Weak free-cash-flow conversion of 6.8%.,82
+DRREDDY,pro,NPM >= 15%,Healthy net profit margin of 19.9%.,85
+DRREDDY,pro,D/E <= 0.5,"Low debt-to-equity of 0.07, indicating conservative leverage.",90
+DRREDDY,pro,ICR >= 5,Strong interest coverage of 51.7x.,88
+DRREDDY,pro,FCF > 0,Positive free cash flow of 509.0 crore.,82
+DRREDDY,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+DRREDDY,pro,Revenue CAGR >= 10%,Revenue CAGR of 12.6% over five years.,85
+DRREDDY,pro,PAT CAGR >= 10%,Profit CAGR of 23.4% over five years.,88
+DRREDDY,pro,EPS CAGR >= 10%,EPS CAGR of 23.8% over five years.,88
+DRREDDY,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+DRREDDY,con,FCF conversion < 50%,Weak free-cash-flow conversion of 6.4%.,82
+EICHERMOT,pro,ROE >= 20%,Strong return on equity of 22.2%.,90
+EICHERMOT,pro,NPM >= 15%,Healthy net profit margin of 24.2%.,85
+EICHERMOT,pro,D/E <= 0.5,"Low debt-to-equity of 0.02, indicating conservative leverage.",90
+EICHERMOT,pro,ICR >= 5,Strong interest coverage of 114.7x.,88
+EICHERMOT,pro,FCF > 0,Positive free cash flow of 890.0 crore.,82
+EICHERMOT,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+EICHERMOT,pro,Revenue CAGR >= 10%,Revenue CAGR of 11.0% over five years.,85
+EICHERMOT,pro,PAT CAGR >= 10%,Profit CAGR of 12.7% over five years.,88
+EICHERMOT,pro,EPS CAGR >= 10%,EPS CAGR of 12.5% over five years.,88
+EICHERMOT,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+EICHERMOT,con,FCF conversion < 50%,Weak free-cash-flow conversion of 20.6%.,82
+GAIL,pro,D/E <= 0.5,"Low debt-to-equity of 0.28, indicating conservative leverage.",90
+GAIL,pro,ICR >= 5,Strong interest coverage of 23.6x.,88
+GAIL,pro,FCF > 0,Positive free cash flow of 4360.0 crore.,82
+GAIL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+GAIL,pro,CapEx intensity < 10%,Moderate CapEx intensity of 6.2%.,72
+GAIL,pro,Revenue CAGR >= 10%,Revenue CAGR of 11.8% over five years.,85
+GAIL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+GAIL,con,FCF conversion < 50%,Weak free-cash-flow conversion of 30.5%.,82
+GODREJCP,pro,D/E <= 0.5,"Low debt-to-equity of 0.26, indicating conservative leverage.",90
+GODREJCP,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+GODREJCP,con,ROE < 10%,Low return on equity of -4.5%.,85
+GODREJCP,con,NPM < 5%,Thin net profit margin of -4.0%.,85
+GODREJCP,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+GODREJCP,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+GODREJCP,con,FCF conversion < 50%,Weak free-cash-flow conversion of -46.2%.,82
+GRASIM,pro,Revenue CAGR >= 10%,Revenue CAGR of 11.2% over five years.,85
+GRASIM,pro,PAT CAGR >= 10%,Profit CAGR of 29.3% over five years.,88
+GRASIM,pro,EPS CAGR >= 10%,EPS CAGR of 27.7% over five years.,88
+GRASIM,con,D/E > 1,Elevated debt-to-equity of 1.55.,90
+GRASIM,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+GRASIM,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+GRASIM,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+GRASIM,con,FCF conversion < 50%,Weak free-cash-flow conversion of -124.4%.,82
+HAL,pro,ROE >= 20%,Strong return on equity of 3816.6%.,90
+HAL,pro,NPM >= 15%,Healthy net profit margin of 25.0%.,85
+HAL,pro,ICR >= 5,Strong interest coverage of 270.9x.,88
+HAL,pro,FCF > 0,Positive free cash flow of 1814.0 crore.,82
+HAL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+HAL,pro,PAT CAGR >= 10%,Profit CAGR of 26.5% over five years.,88
+HAL,pro,EPS CAGR >= 10%,EPS CAGR of 26.6% over five years.,88
+HAL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+HAL,con,FCF conversion < 50%,Weak free-cash-flow conversion of 18.6%.,82
+HAVELLS,pro,D/E <= 0.5,"Low debt-to-equity of 0.04, indicating conservative leverage.",90
+HAVELLS,pro,ICR >= 5,Strong interest coverage of 25.4x.,88
+HAVELLS,pro,FCF > 0,Positive free cash flow of 335.0 crore.,82
+HAVELLS,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+HAVELLS,pro,CapEx intensity < 10%,Moderate CapEx intensity of 8.7%.,72
+HAVELLS,pro,Revenue CAGR >= 10%,Revenue CAGR of 13.0% over five years.,85
+HAVELLS,pro,PAT CAGR >= 10%,Profit CAGR of 10.0% over five years.,88
+HAVELLS,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+HAVELLS,con,FCF conversion < 50%,Weak free-cash-flow conversion of 17.8%.,82
+HCLTECH,pro,ROE >= 20%,Strong return on equity of 23.0%.,90
+HCLTECH,pro,D/E <= 0.5,"Low debt-to-equity of 0.08, indicating conservative leverage.",90
+HCLTECH,pro,ICR >= 5,Strong interest coverage of 46.5x.,88
+HCLTECH,pro,FCF > 0,Positive free cash flow of 15840.0 crore.,82
+HCLTECH,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+HCLTECH,pro,CapEx intensity < 10%,Moderate CapEx intensity of 6.0%.,72
+HCLTECH,pro,Revenue CAGR >= 10%,Revenue CAGR of 12.7% over five years.,85
+HCLTECH,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+HDFCBANK,pro,NPM >= 15%,Healthy net profit margin of 23.1%.,85
+HDFCBANK,pro,FCF > 0,Positive free cash flow of 35669.0 crore.,82
+HDFCBANK,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+HDFCBANK,pro,CapEx intensity < 10%,Moderate CapEx intensity of 5.9%.,72
+HDFCBANK,pro,Revenue CAGR >= 10%,Revenue CAGR of 22.0% over five years.,85
+HDFCBANK,pro,PAT CAGR >= 10%,Profit CAGR of 23.9% over five years.,88
+HDFCBANK,pro,EPS CAGR >= 10%,EPS CAGR of 15.4% over five years.,88
+HDFCBANK,con,D/E > 1,Elevated debt-to-equity of 6.81.,90
+HDFCBANK,con,ICR < 2,Low interest coverage of 1.4x.,92
+HDFCBANK,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+HDFCBANK,con,FCF conversion < 50%,Weak free-cash-flow conversion of 20.5%.,82
+HDFCLIFE,pro,D/E <= 0.5,"Low debt-to-equity of 0.06, indicating conservative leverage.",90
+HDFCLIFE,pro,ICR >= 5,Strong interest coverage of 192.3x.,88
+HDFCLIFE,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+HDFCLIFE,pro,Revenue CAGR >= 10%,Revenue CAGR of 21.2% over five years.,85
+HDFCLIFE,con,NPM < 5%,Thin net profit margin of 1.6%.,85
+HDFCLIFE,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+HDFCLIFE,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+HDFCLIFE,con,FCF conversion < 50%,Weak free-cash-flow conversion of -2.9%.,82
+HDFCLIFE,con,PAT CAGR < 5%,Slow five-year profit CAGR of 4.3%.,80
+HDFCLIFE,con,EPS CAGR < 5%,Slow five-year EPS CAGR of 3.1%.,80
+HEROMOTOCO,pro,ROE >= 20%,Strong return on equity of 21.1%.,90
+HEROMOTOCO,pro,D/E <= 0.5,"Low debt-to-equity of 0.03, indicating conservative leverage.",90
+HEROMOTOCO,pro,ICR >= 5,Strong interest coverage of 47.3x.,88
+HEROMOTOCO,pro,FCF > 0,Positive free cash flow of 3095.0 crore.,82
+HEROMOTOCO,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+HEROMOTOCO,pro,CapEx intensity < 10%,Moderate CapEx intensity of 4.8%.,72
+HEROMOTOCO,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+HEROMOTOCO,con,FCF conversion < 50%,Weak free-cash-flow conversion of 9.5%.,82
+HEROMOTOCO,con,Revenue CAGR < 5%,Slow five-year revenue CAGR of 2.2%.,78
+HEROMOTOCO,con,PAT CAGR < 5%,Slow five-year profit CAGR of 1.5%.,80
+HEROMOTOCO,con,EPS CAGR < 5%,Slow five-year EPS CAGR of 1.7%.,80
+HINDALCO,pro,ICR >= 5,Strong interest coverage of 126.5x.,88
+HINDALCO,pro,FCF > 0,Positive free cash flow of 9789.0 crore.,82
+HINDALCO,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+HINDALCO,pro,CapEx intensity < 10%,Moderate CapEx intensity of 6.6%.,72
+HINDALCO,pro,Revenue CAGR >= 10%,Revenue CAGR of 10.6% over five years.,85
+HINDALCO,pro,PAT CAGR >= 10%,Profit CAGR of 13.1% over five years.,88
+HINDALCO,pro,EPS CAGR >= 10%,EPS CAGR of 13.4% over five years.,88
+HINDALCO,con,ROE < 10%,Low return on equity of 9.6%.,85
+HINDALCO,con,NPM < 5%,Thin net profit margin of 4.7%.,85
+HINDALCO,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+HINDALCO,con,FCF conversion < 50%,Weak free-cash-flow conversion of 5.1%.,82
+HINDUNILVR,pro,ROE >= 20%,Strong return on equity of 20.1%.,90
+HINDUNILVR,pro,NPM >= 15%,Healthy net profit margin of 16.6%.,85
+HINDUNILVR,pro,D/E <= 0.5,"Low debt-to-equity of 0.03, indicating conservative leverage.",90
+HINDUNILVR,pro,ICR >= 5,Strong interest coverage of 57.8x.,88
+HINDUNILVR,pro,FCF > 0,Positive free cash flow of 10145.0 crore.,82
+HINDUNILVR,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+HINDUNILVR,pro,CapEx intensity < 10%,Moderate CapEx intensity of 8.6%.,72
+HINDUNILVR,pro,PAT CAGR >= 10%,Profit CAGR of 11.2% over five years.,88
+HINDUNILVR,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+HINDUNILVR,con,FCF conversion < 50%,Weak free-cash-flow conversion of 21.5%.,82
+ICICIBANK,pro,NPM >= 15%,Healthy net profit margin of 28.9%.,85
+ICICIBANK,pro,FCF > 0,Positive free cash flow of 12547.0 crore.,82
+ICICIBANK,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ICICIBANK,pro,Revenue CAGR >= 10%,Revenue CAGR of 17.3% over five years.,85
+ICICIBANK,pro,PAT CAGR >= 10%,Profit CAGR of 51.9% over five years.,88
+ICICIBANK,pro,EPS CAGR >= 10%,EPS CAGR of 55.2% over five years.,88
+ICICIBANK,con,D/E > 1,Elevated debt-to-equity of 6.45.,90
+ICICIBANK,con,ICR < 2,Low interest coverage of 1.3x.,92
+ICICIBANK,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ICICIBANK,con,CapEx intensity > 30%,High CapEx intensity of 90.7% may pressure free cash flow.,80
+ICICIBANK,con,FCF conversion < 50%,Weak free-cash-flow conversion of 12.6%.,82
+ICICIGI,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+ICICIGI,pro,ICR >= 5,Strong interest coverage of 160.0x.,88
+ICICIGI,pro,FCF > 0,Positive free cash flow of 486.0 crore.,82
+ICICIGI,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ICICIGI,pro,CapEx intensity < 10%,Moderate CapEx intensity of 9.4%.,72
+ICICIGI,pro,Revenue CAGR >= 10%,Revenue CAGR of 12.9% over five years.,85
+ICICIGI,pro,PAT CAGR >= 10%,Profit CAGR of 12.8% over five years.,88
+ICICIGI,pro,EPS CAGR >= 10%,EPS CAGR of 11.1% over five years.,88
+ICICIGI,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ICICIGI,con,FCF conversion < 50%,Weak free-cash-flow conversion of 2.7%.,82
+ICICIPRULI,pro,D/E <= 0.5,"Low debt-to-equity of 0.11, indicating conservative leverage.",90
+ICICIPRULI,pro,ICR >= 5,Strong interest coverage of 31.0x.,88
+ICICIPRULI,pro,FCF > 0,Positive free cash flow of 105.0 crore.,82
+ICICIPRULI,pro,CapEx intensity < 10%,Moderate CapEx intensity of 8.2%.,72
+ICICIPRULI,pro,Revenue CAGR >= 10%,Revenue CAGR of 16.8% over five years.,85
+ICICIPRULI,con,ROE < 10%,Low return on equity of 7.7%.,85
+ICICIPRULI,con,NPM < 5%,Thin net profit margin of 0.9%.,85
+ICICIPRULI,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+ICICIPRULI,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ICICIPRULI,con,FCF conversion < 50%,Weak free-cash-flow conversion of 0.1%.,82
+ICICIPRULI,con,PAT CAGR < 5%,Slow five-year profit CAGR of -5.7%.,80
+ICICIPRULI,con,EPS CAGR < 5%,Slow five-year EPS CAGR of -5.6%.,80
+INDIGO,pro,ROE >= 20%,Strong return on equity of 892.6%.,90
+INDIGO,pro,D/E <= 0.5,"Low debt-to-equity of 0.02, indicating conservative leverage.",90
+INDIGO,pro,ICR >= 5,Strong interest coverage of 22.6x.,88
+INDIGO,pro,FCF > 0,Positive free cash flow of 9424.0 crore.,82
+INDIGO,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+INDIGO,pro,Revenue CAGR >= 10%,Revenue CAGR of 19.3% over five years.,85
+INDIGO,pro,PAT CAGR >= 10%,Profit CAGR of 120.7% over five years.,88
+INDIGO,pro,EPS CAGR >= 10%,EPS CAGR of 121.2% over five years.,88
+INDIGO,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+INDIGO,con,FCF conversion < 50%,Weak free-cash-flow conversion of 17.9%.,82
+INDUSINDBK,pro,NPM >= 15%,Healthy net profit margin of 19.6%.,85
+INDUSINDBK,pro,CapEx intensity < 10%,Moderate CapEx intensity of 1.4%.,72
+INDUSINDBK,pro,Revenue CAGR >= 10%,Revenue CAGR of 15.5% over five years.,85
+INDUSINDBK,pro,PAT CAGR >= 10%,Profit CAGR of 22.1% over five years.,88
+INDUSINDBK,pro,EPS CAGR >= 10%,EPS CAGR of 15.9% over five years.,88
+INDUSINDBK,con,D/E > 1,Elevated debt-to-equity of 6.89.,90
+INDUSINDBK,con,ICR < 2,Low interest coverage of 1.9x.,92
+INDUSINDBK,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+INDUSINDBK,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+INDUSINDBK,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+INDUSINDBK,con,FCF conversion < 50%,Weak free-cash-flow conversion of -99.0%.,82
+INFY,pro,ROE >= 20%,Strong return on equity of 29.8%.,90
+INFY,pro,NPM >= 15%,Healthy net profit margin of 17.1%.,85
+INFY,pro,D/E <= 0.5,"Low debt-to-equity of 0.09, indicating conservative leverage.",90
+INFY,pro,ICR >= 5,Strong interest coverage of 87.5x.,88
+INFY,pro,FCF > 0,Positive free cash flow of 20117.0 crore.,82
+INFY,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+INFY,pro,CapEx intensity < 10%,Moderate CapEx intensity of 3.3%.,72
+INFY,pro,Revenue CAGR >= 10%,Revenue CAGR of 13.2% over five years.,85
+INFY,pro,PAT CAGR >= 10%,Profit CAGR of 11.2% over five years.,88
+INFY,pro,EPS CAGR >= 10%,EPS CAGR of 12.5% over five years.,88
+INFY,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+IOC,pro,ROE >= 20%,Strong return on equity of 23.5%.,90
+IOC,pro,ICR >= 5,Strong interest coverage of 10.3x.,88
+IOC,pro,FCF > 0,Positive free cash flow of 39635.0 crore.,82
+IOC,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+IOC,pro,CapEx intensity < 10%,Moderate CapEx intensity of 4.1%.,72
+IOC,pro,PAT CAGR >= 10%,Profit CAGR of 20.1% over five years.,88
+IOC,pro,EPS CAGR >= 10%,EPS CAGR of 20.1% over five years.,88
+IOC,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+IRCTC,pro,ROE >= 20%,Strong return on equity of 34.4%.,90
+IRCTC,pro,NPM >= 15%,Healthy net profit margin of 26.0%.,85
+IRCTC,pro,D/E <= 0.5,"Low debt-to-equity of 0.02, indicating conservative leverage.",90
+IRCTC,pro,ICR >= 5,Strong interest coverage of 82.7x.,88
+IRCTC,pro,FCF > 0,Positive free cash flow of 667.0 crore.,82
+IRCTC,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+IRCTC,pro,CapEx intensity < 10%,Moderate CapEx intensity of 5.0%.,72
+IRCTC,pro,Revenue CAGR >= 10%,Revenue CAGR of 18.0% over five years.,85
+IRCTC,pro,PAT CAGR >= 10%,Profit CAGR of 29.2% over five years.,88
+IRCTC,pro,EPS CAGR >= 10%,EPS CAGR of 28.5% over five years.,88
+IRCTC,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+IRCTC,con,FCF conversion < 50%,Weak free-cash-flow conversion of 45.5%.,82
+IRFC,pro,NPM >= 15%,Healthy net profit margin of 24.1%.,85
+IRFC,pro,FCF > 0,Positive free cash flow of 7906.0 crore.,82
+IRFC,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+IRFC,pro,CapEx intensity < 10%,Moderate CapEx intensity of 0.0%.,72
+IRFC,pro,Revenue CAGR >= 10%,Revenue CAGR of 19.1% over five years.,85
+IRFC,pro,PAT CAGR >= 10%,Profit CAGR of 23.2% over five years.,88
+IRFC,pro,EPS CAGR >= 10%,EPS CAGR of 20.1% over five years.,88
+IRFC,con,D/E > 1,Elevated debt-to-equity of 8.38.,90
+IRFC,con,ICR < 2,Low interest coverage of 1.3x.,92
+IRFC,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+IRFC,con,FCF conversion < 50%,Weak free-cash-flow conversion of 29.8%.,82
+ITC,pro,ROE >= 20%,Strong return on equity of 27.9%.,90
+ITC,pro,NPM >= 15%,Healthy net profit margin of 29.3%.,85
+ITC,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+ITC,pro,ICR >= 5,Strong interest coverage of 363.0x.,88
+ITC,pro,FCF > 0,Positive free cash flow of 18742.0 crore.,82
+ITC,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ITC,pro,CapEx intensity < 10%,Moderate CapEx intensity of 2.2%.,72
+ITC,pro,PAT CAGR >= 10%,Profit CAGR of 10.1% over five years.,88
+ITC,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+JINDALSTEL,pro,D/E <= 0.5,"Low debt-to-equity of 0.37, indicating conservative leverage.",90
+JINDALSTEL,pro,ICR >= 5,Strong interest coverage of 8.0x.,88
+JINDALSTEL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+JINDALSTEL,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+JINDALSTEL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+JINDALSTEL,con,FCF conversion < 50%,Weak free-cash-flow conversion of -22.9%.,82
+JINDALSTEL,con,Revenue CAGR < 5%,Slow five-year revenue CAGR of 1.4%.,78
+JIOFIN,pro,NPM >= 15%,Healthy net profit margin of 86.5%.,85
+JIOFIN,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+JIOFIN,pro,ICR >= 5,Strong interest coverage of 198.8x.,88
+JIOFIN,pro,FCF > 0,Positive free cash flow of 763.0 crore.,82
+JIOFIN,con,ROE < 10%,Low return on equity of 1.2%.,85
+JIOFIN,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+JIOFIN,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+JIOFIN,con,CapEx intensity > 30%,High CapEx intensity of 77.7% may pressure free cash flow.,80
+JIOFIN,con,FCF conversion < 50%,Weak free-cash-flow conversion of 48.9%.,82
+JSWENERGY,pro,NPM >= 15%,Healthy net profit margin of 15.0%.,85
+JSWENERGY,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+JSWENERGY,pro,PAT CAGR >= 10%,Profit CAGR of 20.3% over five years.,88
+JSWENERGY,pro,EPS CAGR >= 10%,EPS CAGR of 20.1% over five years.,88
+JSWENERGY,con,ROE < 10%,Low return on equity of 8.3%.,85
+JSWENERGY,con,D/E > 1,Elevated debt-to-equity of 1.52.,90
+JSWENERGY,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+JSWENERGY,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+JSWENERGY,con,CapEx intensity > 30%,High CapEx intensity of 71.4% may pressure free cash flow.,80
+JSWENERGY,con,FCF conversion < 50%,Weak free-cash-flow conversion of -36.5%.,82
+JSWENERGY,con,Revenue CAGR < 5%,Slow five-year revenue CAGR of 4.7%.,78
+JSWSTEEL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+JSWSTEEL,pro,CapEx intensity < 10%,Moderate CapEx intensity of 8.3%.,72
+JSWSTEEL,pro,Revenue CAGR >= 10%,Revenue CAGR of 15.6% over five years.,85
+JSWSTEEL,con,D/E > 1,Elevated debt-to-equity of 1.13.,90
+JSWSTEEL,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+JSWSTEEL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+JSWSTEEL,con,FCF conversion < 50%,Weak free-cash-flow conversion of -8.5%.,82
+JSWSTEEL,con,PAT CAGR < 5%,Slow five-year profit CAGR of 3.6%.,80
+JSWSTEEL,con,EPS CAGR < 5%,Slow five-year EPS CAGR of 2.4%.,80
+KOTAKBANK,pro,NPM >= 15%,Healthy net profit margin of 32.4%.,85
+KOTAKBANK,pro,FCF > 0,Positive free cash flow of 6766.0 crore.,82
+KOTAKBANK,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+KOTAKBANK,pro,Revenue CAGR >= 10%,Revenue CAGR of 13.5% over five years.,85
+KOTAKBANK,pro,PAT CAGR >= 10%,Profit CAGR of 20.4% over five years.,88
+KOTAKBANK,pro,EPS CAGR >= 10%,EPS CAGR of 19.3% over five years.,88
+KOTAKBANK,con,D/E > 1,Elevated debt-to-equity of 4.00.,90
+KOTAKBANK,con,ICR < 2,Low interest coverage of 1.2x.,92
+KOTAKBANK,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+KOTAKBANK,con,FCF conversion < 50%,Weak free-cash-flow conversion of 14.4%.,82
+LICI,pro,ROE >= 20%,Strong return on equity of 49.4%.,90
+LICI,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+LICI,pro,ICR >= 5,Strong interest coverage of 371.9x.,88
+LICI,pro,FCF > 0,Positive free cash flow of 853.0 crore.,82
+LICI,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+LICI,pro,CapEx intensity < 10%,Moderate CapEx intensity of 3.0%.,72
+LICI,pro,PAT CAGR >= 10%,Profit CAGR of 73.2% over five years.,88
+LICI,con,NPM < 5%,Thin net profit margin of 4.8%.,85
+LICI,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+LICI,con,FCF conversion < 50%,Weak free-cash-flow conversion of 2.6%.,82
+LODHA,pro,NPM >= 15%,Healthy net profit margin of 15.1%.,85
+LODHA,pro,D/E <= 0.5,"Low debt-to-equity of 0.44, indicating conservative leverage.",90
+LODHA,pro,ICR >= 5,Strong interest coverage of 5.6x.,88
+LODHA,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+LODHA,con,ROE < 10%,Low return on equity of 8.9%.,85
+LODHA,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+LODHA,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+LODHA,con,FCF conversion < 50%,Weak free-cash-flow conversion of -16.3%.,82
+LODHA,con,Revenue CAGR < 5%,Slow five-year revenue CAGR of -2.8%.,78
+LODHA,con,PAT CAGR < 5%,Slow five-year profit CAGR of -1.1%.,80
+LODHA,con,EPS CAGR < 5%,Slow five-year EPS CAGR of -5.3%.,80
+LT,pro,ROE >= 20%,Strong return on equity of 77.7%.,90
+LT,pro,D/E <= 0.5,"Low debt-to-equity of 0.10, indicating conservative leverage.",90
+LT,pro,FCF > 0,Positive free cash flow of 20445.0 crore.,82
+LT,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+LT,pro,CapEx intensity < 10%,Moderate CapEx intensity of 1.0%.,72
+LT,pro,Revenue CAGR >= 10%,Revenue CAGR of 10.3% over five years.,85
+LT,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+LTIM,pro,ROE >= 20%,Strong return on equity of 22.9%.,90
+LTIM,pro,D/E <= 0.5,"Low debt-to-equity of 0.10, indicating conservative leverage.",90
+LTIM,pro,ICR >= 5,Strong interest coverage of 31.9x.,88
+LTIM,pro,FCF > 0,Positive free cash flow of 1752.0 crore.,82
+LTIM,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+LTIM,pro,Revenue CAGR >= 10%,Revenue CAGR of 30.3% over five years.,85
+LTIM,pro,PAT CAGR >= 10%,Profit CAGR of 24.8% over five years.,88
+LTIM,pro,EPS CAGR >= 10%,EPS CAGR of 12.2% over five years.,88
+LTIM,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+LTIM,con,FCF conversion < 50%,Weak free-cash-flow conversion of 27.4%.,82
+M&M,pro,CapEx intensity < 10%,Moderate CapEx intensity of 4.0%.,72
+M&M,pro,PAT CAGR >= 10%,Profit CAGR of 15.3% over five years.,88
+M&M,pro,EPS CAGR >= 10%,EPS CAGR of 16.2% over five years.,88
+M&M,con,D/E > 1,Elevated debt-to-equity of 1.64.,90
+M&M,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+M&M,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+M&M,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+M&M,con,FCF conversion < 50%,Weak free-cash-flow conversion of -45.2%.,82
+MARUTI,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+MARUTI,pro,ICR >= 5,Strong interest coverage of 117.9x.,88
+MARUTI,pro,FCF > 0,Positive free cash flow of 4936.0 crore.,82
+MARUTI,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+MARUTI,pro,CapEx intensity < 10%,Moderate CapEx intensity of 8.4%.,72
+MARUTI,pro,Revenue CAGR >= 10%,Revenue CAGR of 10.5% over five years.,85
+MARUTI,pro,PAT CAGR >= 10%,Profit CAGR of 12.0% over five years.,88
+MARUTI,pro,EPS CAGR >= 10%,EPS CAGR of 11.1% over five years.,88
+MARUTI,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+MARUTI,con,FCF conversion < 50%,Weak free-cash-flow conversion of 26.5%.,82
+MOTHERSON,pro,ICR >= 5,Strong interest coverage of 5.2x.,88
+MOTHERSON,pro,FCF > 0,Positive free cash flow of 925.0 crore.,82
+MOTHERSON,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+MOTHERSON,pro,CapEx intensity < 10%,Moderate CapEx intensity of 6.7%.,72
+MOTHERSON,con,NPM < 5%,Thin net profit margin of 3.1%.,85
+MOTHERSON,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+MOTHERSON,con,FCF conversion < 50%,Weak free-cash-flow conversion of 9.9%.,82
+NAUKRI,pro,NPM >= 15%,Healthy net profit margin of 23.5%.,85
+NAUKRI,pro,D/E <= 0.5,"Low debt-to-equity of 0.01, indicating conservative leverage.",90
+NAUKRI,pro,ICR >= 5,Strong interest coverage of 29.0x.,88
+NAUKRI,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+NAUKRI,pro,Revenue CAGR >= 10%,Revenue CAGR of 17.1% over five years.,85
+NAUKRI,con,ROE < 10%,Low return on equity of 2.0%.,85
+NAUKRI,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+NAUKRI,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+NAUKRI,con,CapEx intensity > 30%,High CapEx intensity of 33.6% may pressure free cash flow.,80
+NAUKRI,con,FCF conversion < 50%,Weak free-cash-flow conversion of -21.1%.,82
+NAUKRI,con,PAT CAGR < 5%,Slow five-year profit CAGR of 0.1%.,80
+NAUKRI,con,EPS CAGR < 5%,Slow five-year EPS CAGR of -2.1%.,80
+NESTLEIND,pro,ROE >= 20%,Strong return on equity of 117.8%.,90
+NESTLEIND,pro,NPM >= 15%,Healthy net profit margin of 16.1%.,85
+NESTLEIND,pro,D/E <= 0.5,"Low debt-to-equity of 0.10, indicating conservative leverage.",90
+NESTLEIND,pro,ICR >= 5,Strong interest coverage of 41.2x.,88
+NESTLEIND,pro,FCF > 0,Positive free cash flow of 2938.0 crore.,82
+NESTLEIND,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+NESTLEIND,pro,CapEx intensity < 10%,Moderate CapEx intensity of 5.1%.,72
+NESTLEIND,pro,Revenue CAGR >= 10%,Revenue CAGR of 14.5% over five years.,85
+NESTLEIND,pro,PAT CAGR >= 10%,Profit CAGR of 14.9% over five years.,88
+NESTLEIND,pro,EPS CAGR >= 10%,EPS CAGR of 15.4% over five years.,88
+NESTLEIND,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+NHPC,pro,NPM >= 15%,Healthy net profit margin of 41.8%.,85
+NHPC,pro,ICR >= 5,Strong interest coverage of 11.2x.,88
+NHPC,pro,FCF > 0,Positive free cash flow of 970.0 crore.,82
+NHPC,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+NHPC,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+NHPC,con,CapEx intensity > 30%,High CapEx intensity of 62.0% may pressure free cash flow.,80
+NHPC,con,FCF conversion < 50%,Weak free-cash-flow conversion of 20.2%.,82
+NHPC,con,Revenue CAGR < 5%,Slow five-year revenue CAGR of 1.4%.,78
+NTPC,pro,FCF > 0,Positive free cash flow of 8644.0 crore.,82
+NTPC,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+NTPC,pro,Revenue CAGR >= 10%,Revenue CAGR of 12.2% over five years.,85
+NTPC,con,D/E > 1,Elevated debt-to-equity of 1.48.,90
+NTPC,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+NTPC,con,FCF conversion < 50%,Weak free-cash-flow conversion of 16.8%.,82
+ONGC,pro,D/E <= 0.5,"Low debt-to-equity of 0.45, indicating conservative leverage.",90
+ONGC,pro,ICR >= 5,Strong interest coverage of 11.4x.,88
+ONGC,pro,FCF > 0,Positive free cash flow of 42060.0 crore.,82
+ONGC,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+ONGC,pro,CapEx intensity < 10%,Moderate CapEx intensity of 9.7%.,72
+ONGC,pro,PAT CAGR >= 10%,Profit CAGR of 11.0% over five years.,88
+ONGC,pro,EPS CAGR >= 10%,EPS CAGR of 10.2% over five years.,88
+ONGC,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+ONGC,con,FCF conversion < 50%,Weak free-cash-flow conversion of 40.9%.,82
+PFC,pro,ROE >= 20%,Strong return on equity of 26.2%.,90
+PFC,pro,NPM >= 15%,Healthy net profit margin of 28.9%.,85
+PFC,pro,CapEx intensity < 10%,Moderate CapEx intensity of 3.7%.,72
+PFC,pro,Revenue CAGR >= 10%,Revenue CAGR of 11.1% over five years.,85
+PFC,pro,PAT CAGR >= 10%,Profit CAGR of 15.9% over five years.,88
+PFC,pro,EPS CAGR >= 10%,EPS CAGR of 14.9% over five years.,88
+PFC,con,D/E > 1,Elevated debt-to-equity of 8.52.,90
+PFC,con,ICR < 2,Low interest coverage of 0.6x.,92
+PFC,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+PFC,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+PFC,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+PFC,con,FCF conversion < 50%,Weak free-cash-flow conversion of -301.5%.,82
+PIDILITIND,pro,ROE >= 20%,Strong return on equity of 20.8%.,90
+PIDILITIND,pro,D/E <= 0.5,"Low debt-to-equity of 0.05, indicating conservative leverage.",90
+PIDILITIND,pro,ICR >= 5,Strong interest coverage of 54.3x.,88
+PIDILITIND,pro,FCF > 0,Positive free cash flow of 955.0 crore.,82
+PIDILITIND,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+PIDILITIND,pro,Revenue CAGR >= 10%,Revenue CAGR of 11.8% over five years.,85
+PIDILITIND,pro,PAT CAGR >= 10%,Profit CAGR of 13.5% over five years.,88
+PIDILITIND,pro,EPS CAGR >= 10%,EPS CAGR of 13.6% over five years.,88
+PIDILITIND,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+PIDILITIND,con,FCF conversion < 50%,Weak free-cash-flow conversion of 35.3%.,82
+PNB,pro,ROE >= 20%,Strong return on equity of 61.3%.,90
+PNB,pro,CapEx intensity < 10%,Moderate CapEx intensity of 1.4%.,72
+PNB,pro,Revenue CAGR >= 10%,Revenue CAGR of 15.9% over five years.,85
+PNB,con,D/E > 1,Elevated debt-to-equity of 3.68.,90
+PNB,con,ICR < 2,Low interest coverage of 0.2x.,92
+PNB,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+PNB,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+PNB,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+POWERGRID,pro,NPM >= 15%,Healthy net profit margin of 34.0%.,85
+POWERGRID,pro,FCF > 0,Positive free cash flow of 24176.0 crore.,82
+POWERGRID,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+POWERGRID,con,D/E > 1,Elevated debt-to-equity of 1.42.,90
+POWERGRID,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+RECLTD,pro,ROE >= 20%,Strong return on equity of 20.4%.,90
+RECLTD,pro,NPM >= 15%,Healthy net profit margin of 29.8%.,85
+RECLTD,pro,CapEx intensity < 10%,Moderate CapEx intensity of 3.9%.,72
+RECLTD,pro,Revenue CAGR >= 10%,Revenue CAGR of 13.3% over five years.,85
+RECLTD,pro,PAT CAGR >= 10%,Profit CAGR of 19.8% over five years.,88
+RECLTD,pro,EPS CAGR >= 10%,EPS CAGR of 19.7% over five years.,88
+RECLTD,con,D/E > 1,Elevated debt-to-equity of 6.42.,90
+RECLTD,con,ICR < 2,Low interest coverage of 1.6x.,92
+RECLTD,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+RECLTD,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+RECLTD,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+RECLTD,con,FCF conversion < 50%,Weak free-cash-flow conversion of -124.4%.,82
+RELIANCE,pro,ICR >= 5,Strong interest coverage of 7.7x.,88
+RELIANCE,pro,FCF > 0,Positive free cash flow of 45207.0 crore.,82
+RELIANCE,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+RELIANCE,pro,PAT CAGR >= 10%,Profit CAGR of 14.7% over five years.,88
+RELIANCE,pro,EPS CAGR >= 10%,EPS CAGR of 12.0% over five years.,88
+RELIANCE,con,ROE < 10%,Low return on equity of 10.0%.,85
+RELIANCE,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+RELIANCE,con,FCF conversion < 50%,Weak free-cash-flow conversion of 27.8%.,82
+SBILIFE,pro,D/E <= 0.5,"Low debt-to-equity of 0.00, indicating conservative leverage.",90
+SBILIFE,pro,ICR >= 5,Strong interest coverage of 240.3x.,88
+SBILIFE,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+SBILIFE,pro,Revenue CAGR >= 10%,Revenue CAGR of 24.2% over five years.,85
+SBILIFE,con,NPM < 5%,Thin net profit margin of 1.4%.,85
+SBILIFE,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+SBILIFE,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+SBILIFE,con,FCF conversion < 50%,Weak free-cash-flow conversion of -853.3%.,82
+SBIN,pro,P&L fallback: net profit > 0,Positive latest reported net profit of 69543.0 crore.,72
+SBIN,pro,P&L fallback: positive sales,Latest reported sales were 439189.0 crore.,65
+SBIN,pro,P&L fallback: positive EPS,Latest reported EPS was positive at 75.00.,70
+SBIN,con,Missing financial-ratios history,Complete ratio-based analysis is unavailable because the financial-ratios history is incomplete.,72
+SHREECEM,pro,D/E <= 0.5,"Low debt-to-equity of 0.08, indicating conservative leverage.",90
+SHREECEM,pro,ICR >= 5,Strong interest coverage of 19.8x.,88
+SHREECEM,pro,FCF > 0,Positive free cash flow of 1929.0 crore.,82
+SHREECEM,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+SHREECEM,pro,CapEx intensity < 10%,Moderate CapEx intensity of 6.9%.,72
+SHREECEM,pro,Revenue CAGR >= 10%,Revenue CAGR of 10.3% over five years.,85
+SHREECEM,pro,PAT CAGR >= 10%,Profit CAGR of 11.3% over five years.,88
+SHREECEM,pro,EPS CAGR >= 10%,EPS CAGR of 10.7% over five years.,88
+SHREECEM,con,ROE < 10%,Low return on equity of 8.4%.,85
+SHREECEM,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+SHREECEM,con,FCF conversion < 50%,Weak free-cash-flow conversion of 42.7%.,82
+SHRIRAMFIN,pro,NPM >= 15%,Healthy net profit margin of 20.3%.,85
+SHRIRAMFIN,pro,CapEx intensity < 10%,Moderate CapEx intensity of 0.7%.,72
+SHRIRAMFIN,pro,Revenue CAGR >= 10%,Revenue CAGR of 18.6% over five years.,85
+SHRIRAMFIN,pro,PAT CAGR >= 10%,Profit CAGR of 23.5% over five years.,88
+SHRIRAMFIN,pro,EPS CAGR >= 10%,EPS CAGR of 14.3% over five years.,88
+SHRIRAMFIN,con,D/E > 1,Elevated debt-to-equity of 3.99.,90
+SHRIRAMFIN,con,ICR < 2,Low interest coverage of 0.7x.,92
+SHRIRAMFIN,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+SHRIRAMFIN,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+SHRIRAMFIN,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+SHRIRAMFIN,con,FCF conversion < 50%,Weak free-cash-flow conversion of -298.0%.,82
+SIEMENS,pro,D/E <= 0.5,"Low debt-to-equity of 0.02, indicating conservative leverage.",90
+SIEMENS,pro,ICR >= 5,Strong interest coverage of 67.2x.,88
+SIEMENS,pro,FCF > 0,Positive free cash flow of 1168.0 crore.,82
+SIEMENS,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+SIEMENS,pro,CapEx intensity < 10%,Moderate CapEx intensity of 2.3%.,72
+SIEMENS,pro,Revenue CAGR >= 10%,Revenue CAGR of 11.2% over five years.,85
+SIEMENS,pro,PAT CAGR >= 10%,Profit CAGR of 19.9% over five years.,88
+SIEMENS,pro,EPS CAGR >= 10%,EPS CAGR of 19.6% over five years.,88
+SIEMENS,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+SIEMENS,con,FCF conversion < 50%,Weak free-cash-flow conversion of 37.6%.,82
+SUNPHARMA,pro,NPM >= 15%,Healthy net profit margin of 19.8%.,85
+SUNPHARMA,pro,D/E <= 0.5,"Low debt-to-equity of 0.05, indicating conservative leverage.",90
+SUNPHARMA,pro,ICR >= 5,Strong interest coverage of 58.3x.,88
+SUNPHARMA,pro,FCF > 0,Positive free cash flow of 11372.0 crore.,82
+SUNPHARMA,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+SUNPHARMA,pro,CapEx intensity < 10%,Moderate CapEx intensity of 1.6%.,72
+SUNPHARMA,pro,FCF conversion >= 80%,Strong free-cash-flow conversion of 87.4%.,88
+SUNPHARMA,pro,Revenue CAGR >= 10%,Revenue CAGR of 10.8% over five years.,85
+SUNPHARMA,pro,PAT CAGR >= 10%,Profit CAGR of 24.5% over five years.,88
+SUNPHARMA,pro,EPS CAGR >= 10%,EPS CAGR of 29.5% over five years.,88
+SUNPHARMA,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TATACONSUM,pro,D/E <= 0.5,"Low debt-to-equity of 0.22, indicating conservative leverage.",90
+TATACONSUM,pro,ICR >= 5,Strong interest coverage of 25.3x.,88
+TATACONSUM,pro,FCF > 0,Positive free cash flow of 26.0 crore.,82
+TATACONSUM,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TATACONSUM,pro,Revenue CAGR >= 10%,Revenue CAGR of 16.0% over five years.,85
+TATACONSUM,pro,PAT CAGR >= 10%,Profit CAGR of 21.6% over five years.,88
+TATACONSUM,pro,EPS CAGR >= 10%,EPS CAGR of 14.9% over five years.,88
+TATACONSUM,con,ROE < 10%,Low return on equity of 7.6%.,85
+TATACONSUM,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TATACONSUM,con,FCF conversion < 50%,Weak free-cash-flow conversion of 1.1%.,82
+TATAMOTORS,pro,ROE >= 20%,Strong return on equity of 37.5%.,90
+TATAMOTORS,pro,ICR >= 5,Strong interest coverage of 6.5x.,88
+TATAMOTORS,pro,FCF > 0,Positive free cash flow of 45133.0 crore.,82
+TATAMOTORS,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TATAMOTORS,pro,CapEx intensity < 10%,Moderate CapEx intensity of 5.2%.,72
+TATAMOTORS,con,D/E > 1,Elevated debt-to-equity of 1.26.,90
+TATAMOTORS,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TATAPOWER,pro,FCF > 0,Positive free cash flow of 3569.0 crore.,82
+TATAPOWER,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TATAPOWER,pro,Revenue CAGR >= 10%,Revenue CAGR of 15.5% over five years.,85
+TATAPOWER,pro,PAT CAGR >= 10%,Profit CAGR of 10.4% over five years.,88
+TATAPOWER,con,D/E > 1,Elevated debt-to-equity of 1.66.,90
+TATAPOWER,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TATAPOWER,con,FCF conversion < 50%,Weak free-cash-flow conversion of 33.2%.,82
+TATASTEEL,pro,FCF > 0,Positive free cash flow of 6048.0 crore.,82
+TATASTEEL,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TATASTEEL,pro,CapEx intensity < 10%,Moderate CapEx intensity of 6.2%.,72
+TATASTEEL,con,ROE < 10%,Low return on equity of -5.3%.,85
+TATASTEEL,con,NPM < 5%,Thin net profit margin of -2.1%.,85
+TATASTEEL,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TATASTEEL,con,FCF conversion < 50%,Weak free-cash-flow conversion of 27.2%.,82
+TCS,pro,ROE >= 20%,Strong return on equity of 50.9%.,90
+TCS,pro,NPM >= 15%,Healthy net profit margin of 19.1%.,85
+TCS,pro,D/E <= 0.5,"Low debt-to-equity of 0.09, indicating conservative leverage.",90
+TCS,pro,ICR >= 5,Strong interest coverage of 87.1x.,88
+TCS,pro,FCF > 0,Positive free cash flow of 50429.0 crore.,82
+TCS,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TCS,pro,CapEx intensity < 10%,Moderate CapEx intensity of 2.5%.,72
+TCS,pro,Revenue CAGR >= 10%,Revenue CAGR of 10.5% over five years.,85
+TCS,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TECHM,pro,D/E <= 0.5,"Low debt-to-equity of 0.10, indicating conservative leverage.",90
+TECHM,pro,ICR >= 5,Strong interest coverage of 13.9x.,88
+TECHM,pro,FCF > 0,Positive free cash flow of 5058.0 crore.,82
+TECHM,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TECHM,pro,CapEx intensity < 10%,Moderate CapEx intensity of 2.5%.,72
+TECHM,pro,FCF conversion >= 80%,Strong free-cash-flow conversion of 112.3%.,88
+TECHM,con,ROE < 10%,Low return on equity of 9.0%.,85
+TECHM,con,NPM < 5%,Thin net profit margin of 4.6%.,85
+TECHM,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TECHM,con,PAT CAGR < 5%,Slow five-year profit CAGR of -11.0%.,80
+TECHM,con,EPS CAGR < 5%,Slow five-year EPS CAGR of -11.4%.,80
+TITAN,pro,ROE >= 20%,Strong return on equity of 37.2%.,90
+TITAN,pro,ICR >= 5,Strong interest coverage of 9.4x.,88
+TITAN,pro,FCF > 0,Positive free cash flow of 1506.0 crore.,82
+TITAN,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TITAN,pro,CapEx intensity < 10%,Moderate CapEx intensity of 0.4%.,72
+TITAN,pro,Revenue CAGR >= 10%,Revenue CAGR of 20.9% over five years.,85
+TITAN,pro,PAT CAGR >= 10%,Profit CAGR of 20.3% over five years.,88
+TITAN,pro,EPS CAGR >= 10%,EPS CAGR of 19.5% over five years.,88
+TITAN,con,D/E > 1,Elevated debt-to-equity of 1.65.,90
+TITAN,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TITAN,con,FCF conversion < 50%,Weak free-cash-flow conversion of 28.5%.,82
+TORNTPHARM,pro,ROE >= 20%,Strong return on equity of 24.2%.,90
+TORNTPHARM,pro,NPM >= 15%,Healthy net profit margin of 15.4%.,85
+TORNTPHARM,pro,ICR >= 5,Strong interest coverage of 9.9x.,88
+TORNTPHARM,pro,FCF > 0,Positive free cash flow of 3106.0 crore.,82
+TORNTPHARM,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TORNTPHARM,pro,CapEx intensity < 10%,Moderate CapEx intensity of 1.5%.,72
+TORNTPHARM,pro,FCF conversion >= 80%,Strong free-cash-flow conversion of 92.2%.,88
+TORNTPHARM,pro,PAT CAGR >= 10%,Profit CAGR of 30.6% over five years.,88
+TORNTPHARM,pro,EPS CAGR >= 10%,EPS CAGR of 30.4% over five years.,88
+TORNTPHARM,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TRENT,pro,ROE >= 20%,Strong return on equity of 36.3%.,90
+TRENT,pro,D/E <= 0.5,"Low debt-to-equity of 0.43, indicating conservative leverage.",90
+TRENT,pro,ICR >= 5,Strong interest coverage of 8.0x.,88
+TRENT,pro,FCF > 0,Positive free cash flow of 841.0 crore.,82
+TRENT,pro,CFO > 0,Positive operating cash flow supports earnings quality.,80
+TRENT,pro,CapEx intensity < 10%,Moderate CapEx intensity of 4.1%.,72
+TRENT,pro,Revenue CAGR >= 10%,Revenue CAGR of 36.3% over five years.,85
+TRENT,pro,PAT CAGR >= 10%,Profit CAGR of 73.1% over five years.,88
+TRENT,pro,EPS CAGR >= 10%,EPS CAGR of 69.5% over five years.,88
+TRENT,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TRENT,con,FCF conversion < 50%,Weak free-cash-flow conversion of 42.7%.,82
+TVSMOTOR,pro,ROE >= 20%,Strong return on equity of 26.2%.,90
+TVSMOTOR,pro,CapEx intensity < 10%,Moderate CapEx intensity of 2.6%.,72
+TVSMOTOR,pro,Revenue CAGR >= 10%,Revenue CAGR of 14.2% over five years.,85
+TVSMOTOR,pro,PAT CAGR >= 10%,Profit CAGR of 19.7% over five years.,88
+TVSMOTOR,pro,EPS CAGR >= 10%,EPS CAGR of 19.1% over five years.,88
+TVSMOTOR,con,NPM < 5%,Thin net profit margin of 4.5%.,85
+TVSMOTOR,con,D/E > 1,Elevated debt-to-equity of 3.83.,90
+TVSMOTOR,con,FCF < 0,Negative free cash flow is a potential financial risk.,90
+TVSMOTOR,con,CFO < 0,Negative operating cash flow indicates weak cash generation.,95
+TVSMOTOR,con,CFO quality < 40,Weak cash-flow quality raises earnings-quality concerns.,85
+TVSMOTOR,con,FCF conversion < 50%,Weak free-cash-flow conversion of -41.0%.,82

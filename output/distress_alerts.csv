@@ -1,0 +1,17 @@
+company_id,company_name,sector,year,cfo_cr,cff_cr,distress_flag
+AXISBANK,Axis Bank Ltd,Financials,2024,-5555.0,22341.0,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,2024,-68674.0,82709.0,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,2024,-72760.0,82415.0,True
+BANKBARODA,Bank of Baroda,Financials,2024,-6274.0,5476.0,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,2024,-3713.0,2656.0,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,2024,-35683.0,38471.0,True
+GRASIM,Grasim Industries Ltd,Industrials,2024,-10719.0,33908.0,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,2024,-5630.0,12281.0,True
+PFC,Power Finance Corporation Ltd,Financials,2024,-97820.0,101261.0,True
+PNB,Punjab National Bank,Financials,2024,-27939.0,3518.0,True
+RECLTD,REC Ltd,Financials,2024,-57723.0,59588.0,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,2024,-31101.0,27609.0,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,2024,-1253.0,2759.0,True
