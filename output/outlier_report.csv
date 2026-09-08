@@ -1,0 +1,4 @@
+company_id,company_name,group,kpi,value,z_score
+NESTLEIND,Nestle India Ltd,Emerging Growth,return_on_equity_pct,117.75449101796407,3.403410148189856
+INDIGO,Interglobe Aviation Ltd,High-Quality Compounders,return_on_equity_pct,892.568306010929,3.7382866660466547
+LT,Larsen & Toubro Ltd,Value Cyclicals,return_on_equity_pct,77.66510140873214,3.685140209343484

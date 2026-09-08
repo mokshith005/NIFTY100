@@ -1,0 +1,127 @@
+{
+  "info": {
+    "name": "Nifty100 Analytics API",
+    "_postman_id": "nifty100-analytics-api",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://127.0.0.1:8001/api/v1"
+    }
+  ],
+  "item": [
+    {
+      "name": "Companies",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies"
+      }
+    },
+    {
+      "name": "Company Profile",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies/TCS"
+      }
+    },
+    {
+      "name": "Company P&L",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies/TCS/pl"
+      }
+    },
+    {
+      "name": "Company Balance Sheet",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies/TCS/bs"
+      }
+    },
+    {
+      "name": "Company Cash Flow",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies/TCS/cashflow"
+      }
+    },
+    {
+      "name": "Company Ratios",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies/TCS/ratios"
+      }
+    },
+    {
+      "name": "Company Tearsheet",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies/TCS/tearsheet"
+      }
+    },
+    {
+      "name": "Screener",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/screener"
+      }
+    },
+    {
+      "name": "Sectors",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/sectors"
+      }
+    },
+    {
+      "name": "Sector Companies",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/sectors/Industrials/companies"
+      }
+    },
+    {
+      "name": "Peer Group",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/peers/Private%20Banks"
+      }
+    },
+    {
+      "name": "Peer Comparison",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies/HDFCBANK/peers/compare"
+      }
+    },
+    {
+      "name": "Market Cap",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/market-cap/TCS"
+      }
+    },
+    {
+      "name": "Portfolio Stats",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/portfolio/stats"
+      }
+    },
+    {
+      "name": "Company Documents",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/companies/TCS/documents"
+      }
+    },
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/health"
+      }
+    }
+  ]
+}

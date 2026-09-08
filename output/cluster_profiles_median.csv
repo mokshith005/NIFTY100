@@ -1,0 +1,6 @@
+cluster_id,cluster_name,return_on_equity_pct,debt_to_equity,revenue_cagr_5yr,fcf_cagr_5yr,operating_profit_margin_pct
+0,Value Cyclicals,17.3196,0.1971,9.409,,20.5118
+1,Emerging Growth,17.9546,1.042,18.2037,,15.9273
+2,High-Quality Compounders,15.3549,0.0648,13.043,,84.0431
+3,Defensive Dividend Payers,15.8327,6.8857,17.4773,,41.7539
+4,Distressed or Turnaround,4280.3153,0.565,9.7317,,28.5051
