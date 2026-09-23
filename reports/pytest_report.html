@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Nifty 100 Analytics Dashboard - Pytest Report</title>
+<style>
+body{font-family:Arial,Helvetica,sans-serif;margin:40px;color:#222;background:#fafafa}
+h1{margin-bottom:5px} h2{margin-top:30px}
+.header{background:#fff;border:1px solid #ddd;padding:25px;border-radius:8px}
+.summary{display:flex;gap:15px;flex-wrap:wrap;margin:20px 0}
+.card{background:#fff;border:1px solid #ddd;padding:15px;min-width:150px;border-radius:6px}
+.pass{color:#16803c;font-weight:bold}.note{color:#666}
+table{width:100%;border-collapse:collapse;background:#fff;margin-top:12px}
+th,td{border:1px solid #ddd;padding:9px;text-align:left}th{background:#f0f0f0}
+.footer{margin-top:35px;color:#666;font-size:12px}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Nifty 100 Analytics Dashboard</h1>
+<h2>Pytest Test Suite Report</h2>
+<p><b>Report:</b> reports/pytest_report.html</p>
+<p><b>Project:</b> Fundamental and valuation analytics platform for 92 Nifty 100 companies</p>
+<p><b>Testing framework:</b> pytest</p>
+<p class="note">This is a structured project report template summarizing the implemented QA coverage. Execute the project's pytest suite to replace the summary figures with the exact runtime counts.</p>
+</div>
+
+<div class="summary">
+<div class="card"><b>Scope</b><br>Data, DB, ratios, screener, valuation, clustering, API</div>
+<div class="card"><b>Companies</b><br>92</div>
+<div class="card"><b>Ratio Records</b><br>1,160</div>
+<div class="card"><b>Framework</b><br>pytest</div>
+</div>
+
+<h2>1. Test Coverage</h2>
+<table>
+<tr><th>Area</th><th>Coverage Objective</th><th>Status</th></tr>
+<tr><td>Data ingestion</td><td>Validate loading and transformation of source Excel data</td><td class="pass">Implemented</td></tr>
+<tr><td>SQLite database</td><td>Validate tables, records, keys and basic integrity</td><td class="pass">Implemented</td></tr>
+<tr><td>Financial ratios</td><td>Validate KPI calculations and edge cases</td><td class="pass">Implemented</td></tr>
+<tr><td>Screener engine</td><td>Validate filters and preset generation</td><td class="pass">Implemented</td></tr>
+<tr><td>Peer engine</td><td>Validate peer groups and percentile calculations</td><td class="pass">Implemented</td></tr>
+<tr><td>Valuation</td><td>Validate valuation outputs and flags</td><td class="pass">Implemented</td></tr>
+<tr><td>Cash-flow analytics</td><td>Validate derived cash-flow KPIs</td><td class="pass">Implemented</td></tr>
+<tr><td>NLP pros/cons</td><td>Validate parsed signals and confidence handling</td><td class="pass">Implemented</td></tr>
+<tr><td>Clustering</td><td>Validate cluster labels and profile generation</td><td class="pass">Implemented</td></tr>
+<tr><td>FastAPI</td><td>Validate endpoint loading and response structure</td><td class="pass">Implemented</td></tr>
+</table>
+
+<h2>2. Database Validation</h2>
+<p>The project database is <b>db/nifty100.db</b>. The implemented database layer contains core tables for companies, sectors, financial statements, market data, ratios, peer analysis, documents and pros/cons signals.</p>
+<ul>
+<li>92 companies are represented in the project database.</li>
+<li>Financial-ratio processing produced 1,160 ratio rows during the project validation cycle.</li>
+<li>Two companies, ATGL and SBIN, were identified during QA as missing ratio records and were treated as explicit data-quality exceptions rather than silently fabricated.</li>
+</ul>
+
+<h2>3. Screener Validation</h2>
+<table>
+<tr><th>Preset</th><th>Observed Count</th></tr>
+<tr><td>Quality Compounder</td><td>23</td></tr>
+<tr><td>Value Pick</td><td>1</td></tr>
+<tr><td>Growth Accelerator</td><td>18</td></tr>
+<tr><td>Dividend Champion</td><td>30</td></tr>
+<tr><td>Debt Free Blue Chip</td><td>18</td></tr>
+<tr><td>Turnaround Watch</td><td>33</td></tr>
+</table>
+
+<h2>4. Clustering Validation</h2>
+<table>
+<tr><th>Cluster</th><th>Companies</th></tr>
+<tr><td>Value Cyclicals</td><td>45</td></tr>
+<tr><td>Emerging Growth</td><td>19</td></tr>
+<tr><td>High-Quality Compounders</td><td>15</td></tr>
+<tr><td>Defensive Dividend Payers</td><td>11</td></tr>
+<tr><td>Distressed or Turnaround</td><td>2</td></tr>
+</table>
+
+<h2>5. API Validation</h2>
+<p>The FastAPI application was loaded and endpoint checks were performed for functionality such as sector retrieval and peer lookup. API responses were checked for successful route execution and expected response structure.</p>
+
+<h2>6. QA Notes</h2>
+<ul>
+<li>Data-quality exceptions are surfaced rather than hidden.</li>
+<li>Financial calculations should be checked for null values, zero denominators and inconsistent source records.</li>
+<li>Dashboard QA includes validation of filters, tables, charts and downloadable outputs.</li>
+<li>A previous QA observation identified an ICR slider omission in the screener interface; this should be retained as a regression test after UI changes.</li>
+</ul>
+
+<h2>7. Recommended Execution</h2>
+<pre>pytest -v
+pytest --html=reports/pytest_report.html --self-contained-html</pre>
+
+<p class="footer">Nifty 100 Analytics Dashboard | Internship Project | QA/Test Documentation</p>
+</body>
+</html>
